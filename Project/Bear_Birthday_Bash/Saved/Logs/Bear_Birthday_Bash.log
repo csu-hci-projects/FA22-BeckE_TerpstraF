@@ -1706,3 +1706,48 @@ Recommended: 516.25
 [2022.11.22-21.07.22:840][789]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.22-21.07.22:840][789]LogContentValidation: Display: Validating Material /Game/Assets/Bulp.Bulp
 [2022.11.22-21.07.22:840][789]LogContentValidation: Display: Validating Material /Game/Assets/Chandelier02.Chandelier02
+[2022.11.22-21.07.49:733][213]AssetReimport: New page: Outstanding source content changes 7:07:49 AM
+[2022.11.22-21.07.49:761][214]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/coffee table.fbx)
+[2022.11.22-21.07.49:765][214]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/coffee table.fbx
+[2022.11.22-21.07.49:771][214]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.07.53:205][214]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.07.53:357][214]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/coffee_table.coffee_table
+[2022.11.22-21.07.53:541][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/coffee_table" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/coffee_table.uasset" SILENT=true
+[2022.11.22-21.07.53:550][215]LogSavePackage: Moving output files for package: /Game/Assets/coffee_table
+[2022.11.22-21.07.53:550][215]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/coffee_tableEE8B14D94B17A3FA2113F08AD06BD49F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/coffee_table.uasset'
+[2022.11.22-21.07.53:581][216]AssetCheck: New page: Asset Save: coffee_table
+[2022.11.22-21.07.53:581][216]LogContentValidation: Display: Validating StaticMesh /Game/Assets/coffee_table.coffee_table
+[2022.11.22-21.07.56:623][385]AssetReimport: Importing new asset /Game/Assets/coffee_table.
+[2022.11.22-21.07.57:527][426]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.07.57:535][426]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.08.15:368][166]AssetReimport: New page: Outstanding source content changes 7:08:15 AM
+[2022.11.22-21.08.15:390][167]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party hat.fbx)
+[2022.11.22-21.08.15:395][167]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party hat.fbx
+[2022.11.22-21.08.15:406][167]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.08.16:879][167]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.08.16:896][167]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/party_hat_Group_001.party_hat_Group_001
+[2022.11.22-21.08.17:058][167]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/party_hat_Party_Hat.party_hat_Party_Hat
+[2022.11.22-21.08.17:124][167]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Party_Hat_color' was renamed 'Party_Hat_color_ncl1_1' 
+[2022.11.22-21.08.19:323][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.08.22:376][168]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003034s (3.099448s overbudget)
+[2022.11.22-21.08.22:406][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/party_hat" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_hat.uasset" SILENT=true
+[2022.11.22-21.08.22:407][168]LogSavePackage: Moving output files for package: /Game/Assets/party_hat
+[2022.11.22-21.08.22:407][168]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hatCC18488D49D54B1D3D8E8FA8110679E2.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_hat.uasset'
+[2022.11.22-21.08.22:453][169]AssetCheck: New page: Asset Save: Party_Hat
+[2022.11.22-21.08.22:453][169]LogContentValidation: Display: Validating Material /Game/Assets/party_hat.Party_Hat
+[2022.11.22-21.08.25:429][341]AssetReimport: Importing new asset /Game/Assets/party_hat.
+[2022.11.22-21.08.36:607][  2]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.08.36:610][  2]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.08.42:435][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.22-21.08.42:439][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.010
+[2022.11.22-21.08.42:442][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/party_hat_Group_001] ([1] browsable assets)...
+[2022.11.22-21.08.42:447][337]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/party_hat_Group_001.party_hat_Group_001]
+[2022.11.22-21.08.42:447][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/party_hat_Group_001]
+[2022.11.22-21.08.42:450][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/party_hat_Group_001_Auto1
+[2022.11.22-21.08.42:450][337]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hat_Group_001_Auto1D73232E44483A641537C5A8607C17847.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/Assets/party_hat_Group_001_Auto1.uasset'
+[2022.11.22-21.08.42:450][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/party_hat_Party_Hat] ([1] browsable assets)...
+[2022.11.22-21.08.42:455][337]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/party_hat_Party_Hat.party_hat_Party_Hat]
+[2022.11.22-21.08.42:455][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/party_hat_Party_Hat]
+[2022.11.22-21.08.42:465][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/party_hat_Party_Hat_Auto1
+[2022.11.22-21.08.42:465][337]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hat_Party_Hat_Auto10B9FFB7742AF6ABBE9FBA4B76366F1BE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/Assets/party_hat_Party_Hat_Auto1.uasset'
+[2022.11.22-21.08.42:465][337]LogFileHelpers: Auto-saving content packages took 0.026
