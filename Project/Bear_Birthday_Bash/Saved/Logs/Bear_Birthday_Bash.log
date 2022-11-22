@@ -2301,3 +2301,108 @@ Recommended: 516.25
 [2022.11.22-21.15.33:724][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Frame204E582B4D71F734DACFB78136087F98.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Frame.uasset'
 [2022.11.22-21.15.33:749][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Pillow_001
 [2022.11.22-21.15.33:749][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Pillow_001314041E24E0621C1650DBBAEFAB17976.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Pillow_001.uasset'
+[2022.11.22-21.15.35:826][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.38:974][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000974s (3.214040s overbudget)
+[2022.11.22-21.15.39:004][430]LogSavePackage: Moving output files for package: /Game/Assets/Pin_picture_001
+[2022.11.22-21.15.39:004][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Pin_picture_001B74855F74A785017D89420B72D9F0063.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pin_picture_001.uasset'
+[2022.11.22-21.15.39:021][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Bookshelf
+[2022.11.22-21.15.39:021][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Bookshelf71D38C73435391D47BCB13AA946E3D00.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Bookshelf.uasset'
+[2022.11.22-21.15.39:033][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Table" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Table.uasset" SILENT=true
+[2022.11.22-21.15.39:036][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Table
+[2022.11.22-21.15.39:036][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_TableE3A283DA446DACE0F3273BA18491678B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Table.uasset'
+[2022.11.22-21.15.39:052][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Book_002
+[2022.11.22-21.15.39:052][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Book_002700162A6410B2F54AAA87E9A1663863A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Book_002.uasset'
+[2022.11.22-21.15.41:245][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.44:250][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005136s (3.185716s overbudget)
+[2022.11.22-21.15.44:281][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blue" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Blue.uasset" SILENT=true
+[2022.11.22-21.15.44:282][430]LogSavePackage: Moving output files for package: /Game/Assets/Blue
+[2022.11.22-21.15.44:282][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/BlueECA9AAB84EC2848562494DB362DC96CA.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Blue.uasset'
+[2022.11.22-21.15.46:455][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.49:139][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002980s (2.845910s overbudget)
+[2022.11.22-21.15.49:167][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Yellow" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Yellow.uasset" SILENT=true
+[2022.11.22-21.15.49:169][430]LogSavePackage: Moving output files for package: /Game/Assets/Yellow
+[2022.11.22-21.15.49:169][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/YellowE330D9B24B86B3EB4B1312A1E3C6D9CB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Yellow.uasset'
+[2022.11.22-21.15.49:184][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Book_001
+[2022.11.22-21.15.49:184][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Book_0015219387942D04BAFC80710B3F2315BD1.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Book_001.uasset'
+[2022.11.22-21.15.49:198][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Book_003
+[2022.11.22-21.15.49:198][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Book_003B4636ABF498210A249E73A994715A5DB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Book_003.uasset'
+[2022.11.22-21.15.49:216][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Trash_bin
+[2022.11.22-21.15.49:216][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Trash_binFB762FD24687ED9297B03CA7BFC467A6.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Trash_bin.uasset'
+[2022.11.22-21.15.49:228][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Book" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Book.uasset" SILENT=true
+[2022.11.22-21.15.49:230][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Book
+[2022.11.22-21.15.49:230][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Book24BD63A64EBA6CB095D04290360D0A3F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Book.uasset'
+[2022.11.22-21.15.49:242][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Chair" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Chair.uasset" SILENT=true
+[2022.11.22-21.15.49:246][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Chair
+[2022.11.22-21.15.49:246][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_ChairCC4C0B5443D321994C9AEC91A0758CE2.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Chair.uasset'
+[2022.11.22-21.15.49:260][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Photo_frame
+[2022.11.22-21.15.49:260][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Photo_frame180A603C4DA6C332ABB2C2B3133998E2.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Photo_frame.uasset'
+[2022.11.22-21.15.51:447][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.53:840][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002132s (2.569177s overbudget)
+[2022.11.22-21.15.53:869][430]LogSavePackage: Moving output files for package: /Game/Assets/Pin_picture_002
+[2022.11.22-21.15.53:869][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Pin_picture_00240CFA7CD4A7D7A4BAD4214B233203911.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pin_picture_002.uasset'
+[2022.11.22-21.15.53:883][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Photo_frame_001
+[2022.11.22-21.15.53:883][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Photo_frame_0013CEB04C3401CCADF02FA3EB57220E8E6.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Photo_frame_001.uasset'
+[2022.11.22-21.15.56:036][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.58:407][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003082s (2.513598s overbudget)
+[2022.11.22-21.15.58:435][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Pin_picture" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pin_picture.uasset" SILENT=true
+[2022.11.22-21.15.58:436][430]LogSavePackage: Moving output files for package: /Game/Assets/Pin_picture
+[2022.11.22-21.15.58:436][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Pin_pictureBB6ED9104B33CC805BB77AAED1E59535.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pin_picture.uasset'
+[2022.11.22-21.15.58:448][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_PC" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_PC.uasset" SILENT=true
+[2022.11.22-21.15.58:450][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_PC
+[2022.11.22-21.15.58:450][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_PC4703920C496059184133D1BD0B613779.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_PC.uasset'
+[2022.11.22-21.15.58:466][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Keyboard
+[2022.11.22-21.15.58:466][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_KeyboardC81311BA4676D208905F5089F249C4E1.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Keyboard.uasset'
+[2022.11.22-21.15.58:478][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Plant" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Plant.uasset" SILENT=true
+[2022.11.22-21.15.58:484][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Plant
+[2022.11.22-21.15.58:484][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_PlantEF7B09014C81D0BAAE68A9A1C7AE0FE9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Plant.uasset'
+[2022.11.22-21.16.00:619][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.16.02:886][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003152s (2.391696s overbudget)
+[2022.11.22-21.16.02:913][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Coffe" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Coffe.uasset" SILENT=true
+[2022.11.22-21.16.02:915][430]LogSavePackage: Moving output files for package: /Game/Assets/Coffe
+[2022.11.22-21.16.02:915][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Coffe88D9B5A1435BF43187A721B713F3E351.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Coffe.uasset'
+[2022.11.22-21.16.05:001][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.16.07:465][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002080s (2.539945s overbudget)
+[2022.11.22-21.16.07:493][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Leaves" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Leaves.uasset" SILENT=true
+[2022.11.22-21.16.07:495][430]LogSavePackage: Moving output files for package: /Game/Assets/Leaves
+[2022.11.22-21.16.07:495][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Leaves75EA8BCF426DCDF24CAD03BE6FF87A2D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Leaves.uasset'
+[2022.11.22-21.16.07:507][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Window" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Window.uasset" SILENT=true
+[2022.11.22-21.16.07:510][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Window
+[2022.11.22-21.16.07:510][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Window5A90239B42E4C5A4E4A3D98A22F3A990.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Window.uasset'
+[2022.11.22-21.16.07:521][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Board" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Board.uasset" SILENT=true
+[2022.11.22-21.16.07:527][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Board
+[2022.11.22-21.16.07:528][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_BoardD0E534F54C231E141EA11BAB4EE56D88.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Board.uasset'
+[2022.11.22-21.16.09:579][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.16.12:041][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003995s (2.503523s overbudget)
+[2022.11.22-21.16.12:068][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Board" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Board.uasset" SILENT=true
+[2022.11.22-21.16.12:070][430]LogSavePackage: Moving output files for package: /Game/Assets/Board
+[2022.11.22-21.16.12:070][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/BoardA7C6421F4E4DE94C646FE6A052058560.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Board.uasset'
+[2022.11.22-21.16.12:081][430]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.16.12:081][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Pin_picture_001.Pin_picture_001
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Table.bedroom_Table
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Frame.Frame
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Pillow.Pillow
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Blanket.Blanket
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Board.Board
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Window.bedroom_Window
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Leaves.Leaves
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Coffe.Coffe
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_PC.bedroom_PC
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Pin_picture.Pin_picture
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Photo_frame_001.bedroom_Photo_frame_001
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Pin_picture_002.Pin_picture_002
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Photo_frame.bedroom_Photo_frame
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Trash_bin.bedroom_Trash_bin
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Yellow.Yellow
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Blue.Blue
+[2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
