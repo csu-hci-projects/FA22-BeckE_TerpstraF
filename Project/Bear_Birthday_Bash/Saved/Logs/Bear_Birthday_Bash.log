@@ -2406,3 +2406,93 @@ Recommended: 516.25
 [2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Yellow.Yellow
 [2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating Material /Game/Assets/Blue.Blue
 [2022.11.22-21.16.12:082][430]LogContentValidation: Display: Validating StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.22-21.16.33:597][840]AssetReimport: New page: Outstanding source content changes 7:16:33 AM
+[2022.11.22-21.16.33:620][841]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/window.fbx)
+[2022.11.22-21.16.33:625][841]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/window.fbx
+[2022.11.22-21.16.33:629][841]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.16.34:673][841]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.16.34:703][841]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/window.window
+[2022.11.22-21.16.34:770][842]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/present.fbx)
+[2022.11.22-21.16.34:776][842]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/present.fbx
+[2022.11.22-21.16.34:786][842]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.16.35:627][842]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.16.35:975][842]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/present.present
+[2022.11.22-21.16.36:264][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/window" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/window.uasset" SILENT=true
+[2022.11.22-21.16.36:270][843]LogSavePackage: Moving output files for package: /Game/Assets/window
+[2022.11.22-21.16.36:270][843]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/window2F1D59A044D5F3D6A9D5C38E2B1E50A7.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/window.uasset'
+[2022.11.22-21.16.36:292][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/present" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/present.uasset" SILENT=true
+[2022.11.22-21.16.36:316][843]LogSavePackage: Moving output files for package: /Game/Assets/present
+[2022.11.22-21.16.36:316][843]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/present62881B8E497A6F1E0FAB38A7C91ABB85.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/present.uasset'
+[2022.11.22-21.16.36:339][844]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.16.36:339][844]LogContentValidation: Display: Validating StaticMesh /Game/Assets/present.present
+[2022.11.22-21.16.36:339][844]LogContentValidation: Display: Validating StaticMesh /Game/Assets/window.window
+[2022.11.22-21.16.38:039][939]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.16.38:048][939]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.16.38:401][958]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Total job queries 1227, among them cache hits 150 (12.22%)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Tracking 1054 distinct input hashes that result in 17 distinct outputs (1.61%)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Shaders Compiled: 200
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Jobs assigned 1063, completed 1054 (99.15%)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Average time worker was idle: 28.16 s
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Time job spent in pending queue: average 0.58 s, longest 13.98 s
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Job execution time: average 3.09 s, max 7.73 s
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Job life time (pending + execution): average 3.66 s, max 17.12
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 428.22 s
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Jobs were issued in 1063 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Average processing rate: 2.46 jobs/sec
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Effective parallelization: 7.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   79 times, average 5.13 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   74 times, average 4.26 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   74 times, average 4.25 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   74 times, average 4.25 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   77 times, average 4.23 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.89% of total time (compiled   79 times, average 5.13 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.35% of total time (compiled   77 times, average 4.23 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.03% of total time (compiled   74 times, average 4.26 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 10.01% of total time (compiled   74 times, average 4.25 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.00% of total time (compiled   74 times, average 4.25 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.16.38:402][958]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.16.39:383][ 12]AssetReimport: Importing new asset /Game/Assets/window.
+[2022.11.22-21.16.39:384][ 12]AssetReimport: Importing new asset /Game/Assets/present.
+[2022.11.22-21.17.08:371][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.22-21.17.10:507][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.17.13:050][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000019s (2.606549s overbudget)
+[2022.11.22-21.17.13:080][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Color_000" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Color_000.uasset" SILENT=true
+[2022.11.22-21.17.13:081][664]LogSavePackage: Moving output files for package: /Game/Assets/Color_000
+[2022.11.22-21.17.13:081][664]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Color_000DCD6425D489192F17E0BB5BAEBF2C7BC.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Color_000.uasset'
+[2022.11.22-21.17.15:295][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.17.17:638][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001124s (2.547412s overbudget)
+[2022.11.22-21.17.17:667][664]LogSavePackage: Moving output files for package: /Game/Assets/Translucent_Glass_Blue
+[2022.11.22-21.17.17:667][664]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Translucent_Glass_Blue98DF84924E691DFB3A2A9992C78E5F0E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Translucent_Glass_Blue.uasset'
+[2022.11.22-21.17.19:872][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.17.22:219][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005020s (2.541104s overbudget)
+[2022.11.22-21.17.22:247][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Pink01" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pink01.uasset" SILENT=true
+[2022.11.22-21.17.22:248][664]LogSavePackage: Moving output files for package: /Game/Assets/Pink01
+[2022.11.22-21.17.22:248][664]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Pink011A256FD6446B6957A14149B8ECBBEC25.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pink01.uasset'
+[2022.11.22-21.17.24:460][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.17.26:698][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001048s (2.439429s overbudget)
+[2022.11.22-21.17.26:726][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Pink02" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pink02.uasset" SILENT=true
+[2022.11.22-21.17.26:727][664]LogSavePackage: Moving output files for package: /Game/Assets/Pink02
+[2022.11.22-21.17.26:727][664]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Pink028B9A50CE4B895D0DF5D239B8D6BDAEA2.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pink02.uasset'
+[2022.11.22-21.17.28:837][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.17.31:174][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005046s (2.436513s overbudget)
+[2022.11.22-21.17.31:202][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Pink03" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pink03.uasset" SILENT=true
+[2022.11.22-21.17.31:203][664]LogSavePackage: Moving output files for package: /Game/Assets/Pink03
+[2022.11.22-21.17.31:203][664]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Pink031C6FC8DA4B7462168A17C98982BFF9A9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pink03.uasset'
+[2022.11.22-21.17.33:422][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.17.35:748][664]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004940s (2.534503s overbudget)
+[2022.11.22-21.17.35:777][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Yellow01" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Yellow01.uasset" SILENT=true
+[2022.11.22-21.17.35:779][664]LogSavePackage: Moving output files for package: /Game/Assets/Yellow01
+[2022.11.22-21.17.35:779][664]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Yellow01256617EE4DB68F8400B630BFF083D66A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Yellow01.uasset'
+[2022.11.22-21.17.35:804][664]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Pink03.Pink03
+[2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Pink02.Pink02
+[2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Pink01.Pink01
+[2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Yellow01.Yellow01
+[2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Translucent_Glass_Blue.Translucent_Glass_Blue
+[2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Color_000.Color_000
