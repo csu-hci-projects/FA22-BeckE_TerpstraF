@@ -2496,3 +2496,559 @@ Recommended: 516.25
 [2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Yellow01.Yellow01
 [2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Translucent_Glass_Blue.Translucent_Glass_Blue
 [2022.11.22-21.17.35:804][664]LogContentValidation: Display: Validating Material /Game/Assets/Color_000.Color_000
+[2022.11.22-21.18.02:075][644]Cmd: EDIT COPY
+[2022.11.22-21.18.03:635][735]Cmd: EDIT PASTE
+[2022.11.22-21.18.07:550][966]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.07:863][979]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.08:164][995]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.16:752][508]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.19:268][659]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.20:518][734]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.32:066][424]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.38:185][791]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.40:870][952]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.18.49:080][440]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/present.present
+[2022.11.22-21.18.49:173][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.18.49:419][440]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.19.22:047][361]LogSlate: Window 'present' being destroyed
+[2022.11.22-21.19.22:053][361]LogSlate: Window 'present' being destroyed
+[2022.11.22-21.19.22:079][361]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.19.22:082][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.19.29:357][788]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/michaelphone_Ring.michaelphone_Ring
+[2022.11.22-21.19.29:414][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.19.29:599][788]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.19.31:992][928]LogSlate: Window 'michaelphone_Ring' being destroyed
+[2022.11.22-21.19.31:996][928]LogSlate: Window 'michaelphone_Ring' being destroyed
+[2022.11.22-21.19.32:014][928]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.19.32:014][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.19.37:222][237]LogDerivedDataCache: C:/Users/inter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.135 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.22-21.19.40:331][416]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.22-21.19.40:331][416]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.22-21.19.49:534][967]LogContentBrowser: Attempting asset rename: Main_color -> party_prop
+[2022.11.22-21.19.50:282][967]LogSavePackage: Moving output files for package: /Game/Assets/michaelphone_Ring
+[2022.11.22-21.19.50:283][967]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/michaelphone_RingCAC403B54A2BEE5838ACF181D74E6DB8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/michaelphone_Ring.uasset'
+[2022.11.22-21.19.50:284][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/party_prop" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_prop.uasset" SILENT=true
+[2022.11.22-21.19.50:284][967]LogSavePackage: Moving output files for package: /Game/Assets/party_prop
+[2022.11.22-21.19.50:284][967]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_propD2C9936541317D6874F2918F22733E53.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_prop.uasset'
+[2022.11.22-21.19.50:306][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.22-21.19.50:315][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.22-21.19.50:321][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.22-21.19.50:326][967]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.19.50:326][967]LogContentValidation: Display: Validating Material /Game/Assets/party_prop.party_prop
+[2022.11.22-21.19.50:326][967]LogContentValidation: Display: Validating StaticMesh /Game/Assets/michaelphone_Ring.michaelphone_Ring
+[2022.11.22-21.19.52:638][105]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/present.present
+[2022.11.22-21.19.52:702][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.19.52:887][105]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.19.58:567][436]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/present) ...
+[2022.11.22-21.20.06:592][907]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/present) ...
+[2022.11.22-21.20.11:069][167]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/present) ...
+[2022.11.22-21.20.16:997][513]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/present) ...
+[2022.11.22-21.20.26:763][ 82]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/present) ...
+[2022.11.22-21.20.34:309][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/present" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/present.uasset" SILENT=true
+[2022.11.22-21.20.34:332][510]LogSavePackage: Moving output files for package: /Game/Assets/present
+[2022.11.22-21.20.34:332][510]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/presentC19CDC40484241A3444D17B4A478FF85.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/present.uasset'
+[2022.11.22-21.20.34:343][510]AssetCheck: New page: Asset Save: present
+[2022.11.22-21.20.34:343][510]LogContentValidation: Display: Validating StaticMesh /Game/Assets/present.present
+[2022.11.22-21.20.36:908][664]LogSlate: Window 'present' being destroyed
+[2022.11.22-21.20.36:915][664]LogSlate: Window 'present' being destroyed
+[2022.11.22-21.20.36:933][664]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.20.36:933][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.20.47:415][290]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/party_hat_Party_Hat.party_hat_Party_Hat
+[2022.11.22-21.20.47:476][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.20.47:666][290]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.21.01:453][ 89]LogSavePackage: Moving output files for package: /Game/Assets/party_hat_Party_Hat
+[2022.11.22-21.21.01:453][ 89]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hat_Party_HatE406F90E4846B9674D045084CD8B33E0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_hat_Party_Hat.uasset'
+[2022.11.22-21.21.01:463][ 89]AssetCheck: New page: Asset Save: party_hat_Party_Hat
+[2022.11.22-21.21.01:463][ 89]LogContentValidation: Display: Validating StaticMesh /Game/Assets/party_hat_Party_Hat.party_hat_Party_Hat
+[2022.11.22-21.21.04:655][281]LogSlate: Window 'party_hat_Party_Hat' being destroyed
+[2022.11.22-21.21.04:659][281]LogSlate: Window 'party_hat_Party_Hat' being destroyed
+[2022.11.22-21.21.04:680][281]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.21.04:680][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.21.13:358][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.21.13:358][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.21.13:358][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_12
+[2022.11.22-21.21.14:463][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.21.14:464][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.21.14:464][861]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_13
+[2022.11.22-21.21.15:235][904]Cmd: TRANSACTION UNDO
+[2022.11.22-21.21.15:235][904]LogEditorTransaction: Undo Create Actors
+[2022.11.22-21.22.08:561][ 34]Cmd: TRANSACTION UNDO
+[2022.11.22-21.22.08:561][ 34]LogEditorTransaction: Undo StaticMesh: Material changed
+[2022.11.22-21.22.43:527][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.22-21.22.43:548][708]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2022.11.22-21.22.43:549][708]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap_Auto2E56115E945AA5A315046038C0C5BDE1E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2022.11.22-21.22.43:555][708]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.036
+[2022.11.22-21.22.43:555][708]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2022.11.22-21.23.00:976][850]AssetReimport: New page: Outstanding source content changes 7:23:00 AM
+[2022.11.22-21.23.00:999][851]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.fbx)
+[2022.11.22-21.23.01:006][851]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.fbx
+[2022.11.22-21.23.01:028][851]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.23.02:268][851]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.23.03:755][851]LogStaticMesh: Built static mesh [1.00s] /Game/Assets/teddy_Sphere.teddy_Sphere
+[2022.11.22-21.23.03:918][851]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/teddy_Sphere_001.teddy_Sphere_001
+[2022.11.22-21.23.04:375][851]LogStaticMesh: Built static mesh [0.22s] /Game/Assets/teddy_Sphere_002.teddy_Sphere_002
+[2022.11.22-21.23.04:874][851]LogStaticMesh: Built static mesh [0.23s] /Game/Assets/teddy_Sphere_003.teddy_Sphere_003
+[2022.11.22-21.23.05:360][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.22-21.23.08:378][ 26]AssetReimport: Importing new asset /Game/Assets/teddy.
+[2022.11.22-21.23.08:540][ 36]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.23.08:545][ 36]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.24.13:128][344]AssetReimport: New page: Outstanding source content changes 7:24:13 AM
+[2022.11.22-21.24.13:150][345]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/confetti.fbx)
+[2022.11.22-21.24.13:154][345]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/confetti.fbx
+[2022.11.22-21.24.13:159][345]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.24.14:373][345]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.24.14:435][345]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/confetti.confetti
+[2022.11.22-21.24.14:494][346]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/event balloons.fbx)
+[2022.11.22-21.24.14:500][346]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/event balloons.fbx
+[2022.11.22-21.24.14:515][346]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.24.15:654][346]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.24.15:870][346]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/event_balloons_Extrude_2.event_balloons_Extrude_2
+[2022.11.22-21.24.16:051][346]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/event_balloons_Star_1_2.event_balloons_Star_1_2
+[2022.11.22-21.24.16:247][347]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dining table.fbx)
+[2022.11.22-21.24.16:278][347]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dining table.fbx
+[2022.11.22-21.24.16:452][347]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.24.17:796][347]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.24.23:222][347]LogStaticMesh: Built static mesh [1.42s] /Game/Assets/dining_table.dining_table
+[2022.11.22-21.24.24:194][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.22-21.24.24:225][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/confetti" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/confetti.uasset" SILENT=true
+[2022.11.22-21.24.24:229][348]LogSavePackage: Moving output files for package: /Game/Assets/confetti
+[2022.11.22-21.24.24:229][348]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/confetti93AFAB904AD82F5CFDE7BD973D704869.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/confetti.uasset'
+[2022.11.22-21.24.24:257][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dining_table" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dining_table.uasset" SILENT=true
+[2022.11.22-21.24.24:810][348]LogSavePackage: Moving output files for package: /Game/Assets/dining_table
+[2022.11.22-21.24.24:810][348]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dining_table5A36DEDC4E9FC383006BB5B79699D34A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dining_table.uasset'
+[2022.11.22-21.24.24:869][349]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.24.24:869][349]LogContentValidation: Display: Validating StaticMesh /Game/Assets/dining_table.dining_table
+[2022.11.22-21.24.24:869][349]LogContentValidation: Display: Validating StaticMesh /Game/Assets/confetti.confetti
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Total job queries 1315, among them cache hits 150 (11.41%)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Tracking 1136 distinct input hashes that result in 17 distinct outputs (1.50%)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: RAM used: 0.17 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Shaders Compiled: 216
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Jobs assigned 1146, completed 1136 (99.13%)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Average time worker was idle: 29.99 s
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Time job spent in pending queue: average 0.56 s, longest 13.98 s
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Job execution time: average 3.09 s, max 7.73 s
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Job life time (pending + execution): average 3.65 s, max 17.12
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 460.81 s
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Jobs were issued in 1146 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Average processing rate: 2.47 jobs/sec
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Effective parallelization: 7.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   85 times, average 5.11 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   80 times, average 4.27 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   80 times, average 4.26 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   80 times, average 4.26 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   83 times, average 4.21 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.80% of total time (compiled   85 times, average 5.11 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.29% of total time (compiled   83 times, average 4.21 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.07% of total time (compiled   80 times, average 4.27 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.24.26:109][410]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 10.04% of total time (compiled   80 times, average 4.26 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.24.26:110][410]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.04% of total time (compiled   80 times, average 4.26 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.24.26:110][410]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.24.26:664][443]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.24.26:678][443]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.24.27:837][510]AssetReimport: Importing new asset /Game/Assets/confetti.
+[2022.11.22-21.24.27:837][510]AssetReimport: Importing new asset /Game/Assets/event_balloons.
+[2022.11.22-21.24.27:837][510]AssetReimport: Importing new asset /Game/Assets/dining_table.
+[2022.11.22-21.24.27:942][513]LogEditorViewport: Clicking Background
+[2022.11.22-21.25.02:019][506]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/event_balloons_Extrude_2.event_balloons_Extrude_2
+[2022.11.22-21.25.02:085][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.25.02:267][506]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.25.10:263][969]LogSavePackage: Moving output files for package: /Game/Assets/event_balloons_Extrude_2
+[2022.11.22-21.25.10:263][969]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/event_balloons_Extrude_225D4BC2D4C5817993E9F7F97E7A8B106.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/event_balloons_Extrude_2.uasset'
+[2022.11.22-21.25.10:275][969]AssetCheck: New page: Asset Save: event_balloons_Extrude_2
+[2022.11.22-21.25.10:275][969]LogContentValidation: Display: Validating StaticMesh /Game/Assets/event_balloons_Extrude_2.event_balloons_Extrude_2
+[2022.11.22-21.25.11:300][ 31]LogSlate: Window 'event_balloons_Extrude_2' being destroyed
+[2022.11.22-21.25.11:307][ 31]LogSlate: Window 'event_balloons_Extrude_2' being destroyed
+[2022.11.22-21.25.11:326][ 31]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.25.11:326][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.25.14:315][209]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/event_balloons_Star_1_2.event_balloons_Star_1_2
+[2022.11.22-21.25.14:374][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.25.14:558][209]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.25.21:311][600]LogSavePackage: Moving output files for package: /Game/Assets/event_balloons_Star_1_2
+[2022.11.22-21.25.21:311][600]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/event_balloons_Star_1_23E4783274EE9B7C7AABA669E1D037B4F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/event_balloons_Star_1_2.uasset'
+[2022.11.22-21.25.21:320][600]AssetCheck: New page: Asset Save: event_balloons_Star_1_2
+[2022.11.22-21.25.21:320][600]LogContentValidation: Display: Validating StaticMesh /Game/Assets/event_balloons_Star_1_2.event_balloons_Star_1_2
+[2022.11.22-21.25.22:261][657]LogSlate: Window 'event_balloons_Star_1_2' being destroyed
+[2022.11.22-21.25.22:266][657]LogSlate: Window 'event_balloons_Star_1_2' being destroyed
+[2022.11.22-21.25.22:283][657]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.25.22:283][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.25.27:252][952]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/teddy_Sphere.teddy_Sphere
+[2022.11.22-21.25.27:316][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.25.27:515][952]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.25.40:279][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.22-21.25.40:287][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.22-21.25.40:293][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.11.22-21.25.40:305][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.11.22-21.25.40:312][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.22-21.25.40:319][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.11.22-21.25.43:872][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.22-21.25.43:879][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.22-21.25.43:885][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.22-21.25.43:896][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.22-21.25.43:903][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.22-21.25.43:909][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.22-21.25.45:910][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.22-21.25.45:917][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.11.22-21.25.45:923][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.22-21.25.45:934][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.22-21.25.45:940][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.11.22-21.25.45:947][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.22-21.25.48:591][181]LogSlate: Window 'teddy_Sphere' being destroyed
+[2022.11.22-21.25.48:596][181]LogSlate: Window 'teddy_Sphere' being destroyed
+[2022.11.22-21.25.48:613][181]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.25.48:613][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.25.51:910][377]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/teddy_Sphere.teddy_Sphere
+[2022.11.22-21.25.51:972][377]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.25.52:164][377]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.25.54:346][507]LogSlate: Window 'teddy_Sphere' being destroyed
+[2022.11.22-21.25.54:352][507]LogSlate: Window 'teddy_Sphere' being destroyed
+[2022.11.22-21.25.54:368][507]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.25.54:368][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.25.59:127][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.22-21.26.00:092][789]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.22-21.26.00:106][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.22-21.26.00:112][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.22-21.26.00:119][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.22-21.26.15:152][931]AssetReimport: New page: Outstanding source content changes 7:26:15 AM
+[2022.11.22-21.26.15:182][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.22-21.26.17:162][932]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.22-21.26.17:174][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.22-21.26.17:181][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.22-21.26.17:187][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.22-21.26.20:214][113]AssetReimport: Attempting to delete teddy_Sphere_001 (its source file has been removed).
+[2022.11.22-21.26.20:214][113]AssetReimport: Attempting to delete teddy_Sphere_002 (its source file has been removed).
+[2022.11.22-21.26.20:214][113]AssetReimport: Attempting to delete teddy_Sphere_003 (its source file has been removed).
+[2022.11.22-21.28.32:848][236]AssetReimport: New page: Outstanding source content changes 7:28:32 AM
+[2022.11.22-21.28.32:874][237]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.fbx)
+[2022.11.22-21.28.32:881][237]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.fbx
+[2022.11.22-21.28.32:906][237]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.28.34:492][237]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.28.37:254][237]LogStaticMesh: Built static mesh [1.78s] /Game/Assets/teddy.teddy
+[2022.11.22-21.28.37:730][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/teddy" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.uasset" SILENT=true
+[2022.11.22-21.28.37:803][238]LogSavePackage: Moving output files for package: /Game/Assets/teddy
+[2022.11.22-21.28.37:803][238]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/teddy27F40A134CA0C8C53A9EFB8AA88BD904.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.uasset'
+[2022.11.22-21.28.37:826][239]AssetCheck: New page: Asset Save: teddy
+[2022.11.22-21.28.37:826][239]LogContentValidation: Display: Validating StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.28.40:810][409]AssetReimport: Importing new asset /Game/Assets/teddy.
+[2022.11.22-21.28.48:240][855]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.28.48:246][855]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.29.05:985][918]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.29.06:053][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.29.06:242][918]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Total job queries 1318, among them cache hits 150 (11.38%)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Tracking 1154 distinct input hashes that result in 17 distinct outputs (1.47%)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Shaders Compiled: 218
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Jobs assigned 1154, completed 1154 (100.00%)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Average time worker was idle: 30.02 s
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Time job spent in pending queue: average 0.56 s, longest 13.98 s
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Job execution time: average 3.09 s, max 7.73 s
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Job life time (pending + execution): average 3.66 s, max 17.12
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 470.34 s
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Jobs were issued in 1154 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Effective parallelization: 7.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   94 times, average 5.10 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   80 times, average 4.27 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   80 times, average 4.26 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   80 times, average 4.26 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   84 times, average 4.18 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.89% of total time (compiled   94 times, average 5.10 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.17% of total time (compiled   84 times, average 4.18 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.89% of total time (compiled   80 times, average 4.27 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.29.08:296][ 40]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 9.87% of total time (compiled   80 times, average 4.26 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.29.08:297][ 40]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.86% of total time (compiled   80 times, average 4.26 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.29.08:297][ 40]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.29.17:644][581]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/teddy) ...
+[2022.11.22-21.29.32:033][872]LogSlate: Window 'Save Asset As' being destroyed
+[2022.11.22-21.29.32:064][872]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/teddy) ...
+[2022.11.22-21.29.34:939][ 31]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/collectable.collectable
+[2022.11.22-21.29.34:951][ 31]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 329974DC77B4F4AAEB7D3BBA130458D1D1401339), compiling. 
+[2022.11.22-21.29.34:978][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.29.35:070][ 31]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 7A83DC10E31C195712A84CBE76E1DA7303FA63C4), compiling. 
+[2022.11.22-21.29.35:074][ 31]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 66CDBCAF5CFFCD329DABAC89B6E544644237254E), compiling. 
+[2022.11.22-21.29.35:084][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.29.35:085][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.29.35:085][ 31]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.29.35:089][ 31]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2022.11.22-21.29.36:170][ 94]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.22-21.29.36:170][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.29.36:170][ 94]MaterialEditorStats: Shader Count: 1
+[2022.11.22-21.29.37:371][166]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.29.37:371][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.29.37:371][166]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.29.47:393][758]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 5A22A6A0F090DD84451EE7274FE114635391E349), compiling. 
+[2022.11.22-21.29.47:396][758]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: A12B928E56B0F960EF62E52FA1125BDF041FB211), compiling. 
+[2022.11.22-21.29.47:399][758]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.29.47:399][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.29.47:399][758]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.29.47:467][760]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.29.47:467][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.29.47:467][760]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.13:867][830]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 0284EDA40095AEA7859B3D7D64683681DF2B8EF2), compiling. 
+[2022.11.22-21.31.13:869][830]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F8A423E8BB2D24D79ED1D61262D498874FEA5F5), compiling. 
+[2022.11.22-21.31.20:399][217]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 7B71C290C145D8C5FDCB96DB1E3DD62CCE36BCDA), compiling. 
+[2022.11.22-21.31.20:408][217]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 23D86F320D62C5E1A8E27E682DD7E3126A172D86), compiling. 
+[2022.11.22-21.31.20:410][217]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.20:410][217]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.20:410][217]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.20:450][220]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.20:450][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.20:450][220]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.21:486][275]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 69B0C437D3192F2A4B005B9C9817A9DB2DCBC297), compiling. 
+[2022.11.22-21.31.21:488][275]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A4CEFC801B304996D3044028C45AFDB01FC93E8E), compiling. 
+[2022.11.22-21.31.21:491][275]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.21:491][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.21:491][275]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.21:533][278]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.21:533][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.21:533][278]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.22:668][340]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: A6805637D5A8F4BF24A788D92C0309EF69869D73), compiling. 
+[2022.11.22-21.31.22:670][340]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 931D40AF197027ACE3B517CCDA94740CF52040AA), compiling. 
+[2022.11.22-21.31.22:672][340]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.22-21.31.22:679][340]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.22:679][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.22:679][340]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.22:719][343]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.22:720][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.22:720][343]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.24:682][451]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 4F7B9875B45308F9632DF500554F01A757816BEB), compiling. 
+[2022.11.22-21.31.24:682][451]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2438475855776772F7BCB8701A5782BD31A7A1CB), compiling. 
+[2022.11.22-21.31.24:686][451]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.24:686][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.24:686][451]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.26:325][549]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.22-21.31.26:325][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.26:325][549]MaterialEditorStats: Shader Count: 1
+[2022.11.22-21.31.26:975][588]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.26:975][588]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.26:975][588]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.34:888][ 48]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 9FD64F2B4A4AF15A94CD155849AB0DC58840A8D3), compiling. 
+[2022.11.22-21.31.34:890][ 48]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 251E465EC91EAEC2FE0B4E6176F399FA0564994B), compiling. 
+[2022.11.22-21.31.34:893][ 48]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 580E61E577ED03C7FB467E5EB3077DC4C6C275B4), compiling. 
+[2022.11.22-21.31.34:895][ 48]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1838BDED7DDD8176FDDB852129DE6DE72E1B8CF4), compiling. 
+[2022.11.22-21.31.34:988][ 53]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.34:988][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.34:988][ 53]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.35:804][102]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.22-21.31.35:804][102]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.35:804][102]MaterialEditorStats: Shader Count: 1
+[2022.11.22-21.31.37:563][205]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.37:563][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.37:563][205]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.40:988][400]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 23F6BFAC7785FB5C653B3F46F4CD1E0CCF776BEB), compiling. 
+[2022.11.22-21.31.40:990][400]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: D97B72F93C6F347266F30E9376941C51325569EE), compiling. 
+[2022.11.22-21.31.40:992][400]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.40:992][400]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.40:992][400]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.41:034][403]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.41:035][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.41:035][403]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.42:855][506]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: B6AE7389D9B1CBC5D4DB4EB7DCBEF0B99C8632C3), compiling. 
+[2022.11.22-21.31.42:856][506]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CAE6514BCC8FC40A47F66759F95B1FB67E5982B9), compiling. 
+[2022.11.22-21.31.42:859][506]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.42:859][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.42:859][506]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.42:903][509]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.42:903][509]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.42:903][509]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.44:159][578]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 03180F25005A1B9D53C7A19568A831A35159CF4C), compiling. 
+[2022.11.22-21.31.44:161][578]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5FD3D14C556E6FC44FC8F659D2CF9E7C0EE43216), compiling. 
+[2022.11.22-21.31.44:163][578]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.44:163][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.44:163][578]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.44:214][581]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.44:214][581]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.44:214][581]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.49:536][894]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: BA0FA55C068156814317232CF68A00419CA67014), compiling. 
+[2022.11.22-21.31.49:538][894]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A9A7972B1B7A045BACE39B166413A4230455F566), compiling. 
+[2022.11.22-21.31.49:540][894]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.49:541][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.49:541][894]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.49:581][897]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.49:581][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.49:581][897]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.53:565][129]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: E3E7DB4DB0DD5A98D51F5209ECFAE79AD0A145D5), compiling. 
+[2022.11.22-21.31.53:567][129]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 146B8703A608CDC7E62F79848A41E386FBD995F1), compiling. 
+[2022.11.22-21.31.53:570][129]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.53:570][129]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.53:570][129]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.53:610][132]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.53:611][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.53:611][132]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.56:336][289]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: CC1C06F53C6BB87D4C88BC3685F5B4F5E07ED787), compiling. 
+[2022.11.22-21.31.56:337][289]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AD067F7680FA79BDC96A70E46E6852AD1EF828F), compiling. 
+[2022.11.22-21.31.56:340][289]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.56:340][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.56:340][289]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.56:381][292]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.56:381][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.56:381][292]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.57:808][371]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 0BB2F9D07B8EA5CC59B280865668A46A8EE45929), compiling. 
+[2022.11.22-21.31.57:809][371]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8C542BBE2A240878515D1E5C3DB455BB9ECBB0CF), compiling. 
+[2022.11.22-21.31.57:812][371]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.57:812][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.57:812][371]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.57:855][374]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.57:855][374]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.57:855][374]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.31.59:341][457]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: FB63976D677EF3386D1C8368F5EF421ADE74ACA9), compiling. 
+[2022.11.22-21.31.59:343][457]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: CABC9500CF69EF9CD7E9FD9BE7102F8BA1819868), compiling. 
+[2022.11.22-21.31.59:344][457]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.22-21.31.59:352][457]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.22-21.31.59:352][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.59:352][457]MaterialEditorStats: Shader Count: 0
+[2022.11.22-21.31.59:392][460]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.22-21.31.59:392][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.31.59:392][460]MaterialEditorStats: Shader Count: 2
+[2022.11.22-21.32.01:893][603]LogMaterialEditor: Saving and Compiling material collectable
+[2022.11.22-21.32.02:471][603]LogMaterial: Display: Missing cached shadermap for Preview:collectable in PCD3D_SM5, Default, SM5 (DDC key hash: B6282B3911E4DD202B4B7DD06A8C984F07BD3BC5), compiling. 
+[2022.11.22-21.32.02:480][603]LogMaterial: Display: Missing cached shadermap for collectable in PCD3D_SM5, Default, SM5 (DDC key hash: 49F5ED8BD3629196712C061D34C32D3DB09C278D), compiling. 
+[2022.11.22-21.32.02:508][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.22-21.32.03:281][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.11.22-21.32.05:421][603]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.32.07:815][603]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001018s (2.446292s overbudget)
+[2022.11.22-21.32.07:846][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/collectable" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/collectable.uasset" SILENT=true
+[2022.11.22-21.32.07:848][603]LogSavePackage: Moving output files for package: /Game/Assets/collectable
+[2022.11.22-21.32.07:848][603]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/collectable38E40A6546D976AE64178A865EA9534E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/collectable.uasset'
+[2022.11.22-21.32.07:862][603]AssetCheck: New page: Asset Save: collectable
+[2022.11.22-21.32.07:862][603]LogContentValidation: Display: Validating Material /Game/Assets/collectable.collectable
+[2022.11.22-21.32.07:863][603]MaterialEditorStats: Base pass shader: 829 instructions
+[2022.11.22-21.32.07:863][603]MaterialEditorStats: Base pass vertex shader: 333 instructions
+[2022.11.22-21.32.07:863][603]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.22-21.32.07:863][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.22-21.32.07:863][603]MaterialEditorStats: Shader Count: 14
+[2022.11.22-21.32.09:421][691]LogSlate: Window 'collectable' being destroyed
+[2022.11.22-21.32.09:426][691]LogSlate: Window 'collectable' being destroyed
+[2022.11.22-21.32.09:448][691]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.32.09:448][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.32.09:474][691]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.32.09:474][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.32.13:054][904]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.32.13:121][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-21.32.13:319][904]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.22-21.32.33:319][ 96]LogSlate: Window 'teddy' being destroyed
+[2022.11.22-21.32.33:325][ 96]LogSlate: Window 'teddy' being destroyed
+[2022.11.22-21.32.33:344][ 96]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-21.32.33:344][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-21.32.36:614][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.32.36:614][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.32.36:615][287]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/teddy.teddy as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_14
+[2022.11.22-21.32.37:579][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.32.37:579][342]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/teddy.teddy
+[2022.11.22-21.32.37:579][342]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/teddy.teddy as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_15
+[2022.11.22-21.32.37:613][343]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.39:975][484]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:327][502]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:377][504]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:453][507]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:529][510]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:577][512]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:623][514]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:656][516]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:722][520]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.40:976][535]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.46:521][866]Cmd: TRANSACTION UNDO
+[2022.11.22-21.32.46:521][866]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.22-21.32.46:973][882]Cmd: TRANSACTION UNDO
+[2022.11.22-21.32.46:973][882]LogEditorTransaction: Undo Move Elements
+[2022.11.22-21.32.47:026][883]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.47:576][916]Cmd: TRANSACTION UNDO
+[2022.11.22-21.32.47:576][916]LogEditorTransaction: Undo Create Actors
+[2022.11.22-21.32.47:593][917]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.22-21.32.48:209][954]LogEditorViewport: Clicking Background
+[2022.11.22-21.32.50:070][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.11.22-21.32.50:134][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.11.22-21.32.50:148][ 63]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.22-21.32.50:148][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMapECA656FA4F4248E1CAC4269632008472.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.22-21.32.50:154][ 63]LogFileHelpers: Saving map 'VRTemplateMap' took 0.026
+[2022.11.22-21.32.52:199][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.32.54:844][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000114s (2.678942s overbudget)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Total job queries 1458, among them cache hits 250 (17.15%)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Tracking 1184 distinct input hashes that result in 28 distinct outputs (2.36%)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: RAM used: 0.27 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Shaders Compiled: 230
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Jobs assigned 1184, completed 1184 (100.00%)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Average time worker was idle: 33.24 s
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Time job spent in pending queue: average 0.55 s, longest 13.98 s
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Job execution time: average 3.09 s, max 7.73 s
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Job life time (pending + execution): average 3.64 s, max 17.12
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 486.80 s
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Jobs were issued in 1184 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Average processing rate: 2.43 jobs/sec
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Effective parallelization: 7.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   97 times, average 5.00 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   82 times, average 4.27 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   82 times, average 4.25 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   82 times, average 4.25 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   86 times, average 4.17 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 13.76% of total time (compiled   97 times, average 5.00 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.17% of total time (compiled   86 times, average 4.17 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.92% of total time (compiled   82 times, average 4.27 sec, max 5.10 sec, min 3.77 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 9.89% of total time (compiled   82 times, average 4.25 sec, max 5.03 sec, min 3.76 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.88% of total time (compiled   82 times, average 4.25 sec, max 5.04 sec, min 3.75 sec)
+[2022.11.22-21.32.54:847][ 63]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.32.54:877][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Material__2128695167
+[2022.11.22-21.32.54:877][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material__21286951673859E07A48B622ED4E111EA0462792E3.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material__2128695167.uasset'
+[2022.11.22-21.32.56:999][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.32.59:325][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004141s (2.437258s overbudget)
+[2022.11.22-21.32.59:354][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Material__2128695123
+[2022.11.22-21.32.59:354][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material__2128695123A026D33F452C7A2FA670A59E1C75CF10.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material__2128695123.uasset'
+[2022.11.22-21.33.01:574][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.03:811][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001989s (2.446972s overbudget)
+[2022.11.22-21.33.03:841][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Material__2128695168
+[2022.11.22-21.33.03:841][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material__21286951686FC7B89A40C9C7C670C2FC99891E3032.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material__2128695168.uasset'
+[2022.11.22-21.33.05:947][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.07:874][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004194s (2.022696s overbudget)
+[2022.11.22-21.33.07:902][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Black_pplastic" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Black_pplastic.uasset" SILENT=true
+[2022.11.22-21.33.07:903][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Black_pplastic
+[2022.11.22-21.33.07:903][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Black_pplastic07A8E5BB4E2BFEF142B93CBCB271CFE9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Black_pplastic.uasset'
+[2022.11.22-21.33.10:118][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.12:342][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001961s (2.427506s overbudget)
+[2022.11.22-21.33.12:371][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Material__2128695166
+[2022.11.22-21.33.12:371][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material__21286951669B9B78464A37FACC8B83A5A194B06AEF.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material__2128695166.uasset'
+[2022.11.22-21.33.14:487][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.16:822][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002082s (2.441558s overbudget)
+[2022.11.22-21.33.16:852][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Material__2128695151
+[2022.11.22-21.33.16:852][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material__21286951513A86947D4CFF5BBBA24CAEB2B8AAD213.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material__2128695151.uasset'
+[2022.11.22-21.33.19:063][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.21:298][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000008s (2.435702s overbudget)
+[2022.11.22-21.33.21:327][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Confettis_01_mtl
+[2022.11.22-21.33.21:328][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Confettis_01_mtl303F6175441DA39EEA6E9DA78E0D4ED0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Confettis_01_mtl.uasset'
+[2022.11.22-21.33.23:432][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.25:782][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005104s (2.444052s overbudget)
+[2022.11.22-21.33.25:813][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Confettis_02_mtl
+[2022.11.22-21.33.25:813][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Confettis_02_mtl9BD716C049B2C2C5827A81B667142877.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Confettis_02_mtl.uasset'
+[2022.11.22-21.33.28:016][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.33.30:263][ 63]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002033s (2.439697s overbudget)
+[2022.11.22-21.33.30:292][ 63]LogSavePackage: Moving output files for package: /Game/Assets/Material__2128695163
+[2022.11.22-21.33.30:292][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material__212869516372C468AD418A63200CCE4ABCAB30D4AD.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material__2128695163.uasset'
+[2022.11.22-21.33.30:305][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/teddy" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.uasset" SILENT=true
+[2022.11.22-21.33.30:384][ 63]LogSavePackage: Moving output files for package: /Game/Assets/teddy
+[2022.11.22-21.33.30:385][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/teddy197D40C44E2583B0962BF29AD14D0479.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/teddy.uasset'
+[2022.11.22-21.33.30:411][ 63]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Confettis_02_mtl.Confettis_02_mtl
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Material__2128695167.Material__2128695167
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Material__2128695168.Material__2128695168
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Material__2128695123.Material__2128695123
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Material__2128695166.Material__2128695166
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Material__2128695163.Material__2128695163
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Material__2128695151.Material__2128695151
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Confettis_01_mtl.Confettis_01_mtl
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating Material /Game/Assets/Black_pplastic.Black_pplastic
+[2022.11.22-21.33.30:412][ 63]LogContentValidation: Display: Validating StaticMesh /Game/Assets/teddy.teddy
