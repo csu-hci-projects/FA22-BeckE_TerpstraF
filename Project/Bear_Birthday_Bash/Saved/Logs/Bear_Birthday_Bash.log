@@ -2222,3 +2222,82 @@ Recommended: 516.25
 [2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_004.kitchen_orange_004
 [2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_003.kitchen_orange_003
 [2022.11.22-21.14.23:708][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.22-21.14.46:641][339]AssetReimport: New page: Outstanding source content changes 7:14:46 AM
+[2022.11.22-21.14.46:672][340]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/carpet.fbx)
+[2022.11.22-21.14.46:684][340]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/carpet.fbx
+[2022.11.22-21.14.46:756][340]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.14.48:814][340]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.14.53:181][340]LogStaticMesh: Built static mesh [0.85s] /Game/Assets/carpet.carpet
+[2022.11.22-21.14.54:164][341]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/tv shelves.fbx)
+[2022.11.22-21.14.54:170][341]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/tv shelves.fbx
+[2022.11.22-21.14.54:174][341]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.14.55:825][341]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.14.55:851][341]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/tv_shelves.tv_shelves
+[2022.11.22-21.14.55:875][342]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom.fbx)
+[2022.11.22-21.14.55:882][342]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom.fbx
+[2022.11.22-21.14.55:911][342]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.14.56:846][342]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.14.57:195][342]LogStaticMesh: Built static mesh [0.13s] /Game/Assets/bedroom_Pillow.bedroom_Pillow
+[2022.11.22-21.14.57:471][342]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.22-21.14.57:555][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf
+[2022.11.22-21.14.57:590][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Table.bedroom_Table
+[2022.11.22-21.14.57:658][342]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.22-21.14.57:724][342]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.22-21.14.57:749][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.22-21.14.57:775][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Trash_bin.bedroom_Trash_bin
+[2022.11.22-21.14.57:801][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.22-21.14.57:861][342]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/bedroom_Chair.bedroom_Chair
+[2022.11.22-21.14.57:884][342]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/bedroom_Photo_frame.bedroom_Photo_frame
+[2022.11.22-21.14.57:902][342]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/bedroom_Photo_frame_001.bedroom_Photo_frame_001
+[2022.11.22-21.14.57:918][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_PC.bedroom_PC
+[2022.11.22-21.14.57:948][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Keyboard.bedroom_Keyboard
+[2022.11.22-21.14.58:017][342]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.22-21.14.58:045][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Window.bedroom_Window
+[2022.11.22-21.14.58:133][342]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.22-21.14.58:175][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.22-21.14.58:275][342]LogStaticMesh: Built static mesh [0.08s] /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.22-21.14.58:311][342]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.22-21.14.58:347][342]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.22-21.14.58:359][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.22-21.14.58:378][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.22-21.14.58:434][342]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.22-21.14.58:481][342]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.22-21.14.58:503][342]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.22-21.14.58:625][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.22-21.14.58:656][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/carpet" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/carpet.uasset" SILENT=true
+[2022.11.22-21.14.58:974][343]LogSavePackage: Moving output files for package: /Game/Assets/carpet
+[2022.11.22-21.14.58:974][343]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/carpetB1137A194B2A7C9E9190D28B8D86319A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/carpet.uasset'
+[2022.11.22-21.14.58:986][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/tv_shelves" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/tv_shelves.uasset" SILENT=true
+[2022.11.22-21.14.58:989][343]LogSavePackage: Moving output files for package: /Game/Assets/tv_shelves
+[2022.11.22-21.14.58:989][343]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/tv_shelvesD144109D4E685C63B9F06D97BAAFA81A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/tv_shelves.uasset'
+[2022.11.22-21.14.59:014][344]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.14.59:014][344]LogContentValidation: Display: Validating StaticMesh /Game/Assets/tv_shelves.tv_shelves
+[2022.11.22-21.14.59:014][344]LogContentValidation: Display: Validating StaticMesh /Game/Assets/carpet.carpet
+[2022.11.22-21.15.01:802][501]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.15.01:809][501]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.15.01:996][512]AssetReimport: Importing new asset /Game/Assets/carpet.
+[2022.11.22-21.15.01:996][512]AssetReimport: Importing new asset /Game/Assets/tv_shelves.
+[2022.11.22-21.15.01:996][512]AssetReimport: Importing new asset /Game/Assets/bedroom.
+[2022.11.22-21.15.19:129][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.22-21.15.19:211][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Succulent_001
+[2022.11.22-21.15.19:211][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Succulent_0013EB1057A4884A4731C70ED84A7B4AA3D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Succulent_001.uasset'
+[2022.11.22-21.15.19:217][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/bedroom_Pillow" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Pillow.uasset" SILENT=true
+[2022.11.22-21.15.19:236][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Pillow
+[2022.11.22-21.15.19:236][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_PillowAE6296CA4CCE364DD0B45DA760DD4ACB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Pillow.uasset'
+[2022.11.22-21.15.21:269][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.24:127][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000011s (2.877788s overbudget)
+[2022.11.22-21.15.24:156][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blanket" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Blanket.uasset" SILENT=true
+[2022.11.22-21.15.24:157][430]LogSavePackage: Moving output files for package: /Game/Assets/Blanket
+[2022.11.22-21.15.24:157][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/BlanketE9D8570A48FB58BD0182419B6041FCD3.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Blanket.uasset'
+[2022.11.22-21.15.26:264][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.28:912][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000119s (2.743687s overbudget)
+[2022.11.22-21.15.28:938][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Pillow" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pillow.uasset" SILENT=true
+[2022.11.22-21.15.28:940][430]LogSavePackage: Moving output files for package: /Game/Assets/Pillow
+[2022.11.22-21.15.28:940][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/PillowEF8652CA4029D6BAE827D5ABC9A2EFA6.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Pillow.uasset'
+[2022.11.22-21.15.31:042][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.15.33:696][430]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002133s (2.744625s overbudget)
+[2022.11.22-21.15.33:723][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Frame" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Frame.uasset" SILENT=true
+[2022.11.22-21.15.33:724][430]LogSavePackage: Moving output files for package: /Game/Assets/Frame
+[2022.11.22-21.15.33:724][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Frame204E582B4D71F734DACFB78136087F98.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Frame.uasset'
+[2022.11.22-21.15.33:749][430]LogSavePackage: Moving output files for package: /Game/Assets/bedroom_Pillow_001
+[2022.11.22-21.15.33:749][430]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/bedroom_Pillow_001314041E24E0621C1650DBBAEFAB17976.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/bedroom_Pillow_001.uasset'
