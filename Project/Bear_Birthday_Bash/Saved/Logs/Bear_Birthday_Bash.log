@@ -1612,3 +1612,19 @@ Recommended: 516.25
 [2022.11.22-20.29.03:794][647]LogContentValidation: Display: Validating Material /Game/Assets/Material_010.Material_010
 [2022.11.22-20.29.03:794][647]LogContentValidation: Display: Validating Material /Game/Assets/Material_007.Material_007
 [2022.11.22-20.29.03:794][647]LogContentValidation: Display: Validating Material /Game/Assets/Material_008.Material_008
+[2022.11.22-20.35.09:697][288]LogSlate: Window 'Message' being destroyed
+[2022.11.22-20.35.09:701][288]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Main_color.Main_color
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.22-20.35.10:598][288]LogSlate: Window 'Message' being destroyed
+[2022.11.22-20.35.10:603][288]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Material_003.Material_003
+(Selecting 'No' will cause all changes to be lost!)
+[2022.11.22-20.35.10:624][288]LogSlate: Window 'Material_003' being destroyed
+[2022.11.22-20.35.10:626][288]LogSlate: Window 'Material_003' being destroyed
+[2022.11.22-20.35.10:663][288]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-20.35.10:668][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-20.35.10:727][288]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-20.35.10:727][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-20.35.10:753][288]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-20.35.10:753][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
