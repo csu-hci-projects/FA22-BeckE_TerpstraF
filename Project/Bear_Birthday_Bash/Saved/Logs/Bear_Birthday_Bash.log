@@ -1751,3 +1751,474 @@ Recommended: 516.25
 [2022.11.22-21.08.42:465][337]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/party_hat_Party_Hat_Auto1
 [2022.11.22-21.08.42:465][337]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hat_Party_Hat_Auto10B9FFB7742AF6ABBE9FBA4B76366F1BE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/Assets/party_hat_Party_Hat_Auto1.uasset'
 [2022.11.22-21.08.42:465][337]LogFileHelpers: Auto-saving content packages took 0.026
+[2022.11.22-21.09.09:879][964]AssetReimport: New page: Outstanding source content changes 7:09:09 AM
+[2022.11.22-21.09.09:906][965]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/chair.fbx)
+[2022.11.22-21.09.09:916][965]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/chair.fbx
+[2022.11.22-21.09.09:956][965]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.09.12:618][965]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.09.15:077][965]LogStaticMesh: Built static mesh [0.89s] /Game/Assets/chair.chair
+[2022.11.22-21.09.15:711][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/chair" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/chair.uasset" SILENT=true
+[2022.11.22-21.09.15:846][966]LogSavePackage: Moving output files for package: /Game/Assets/chair
+[2022.11.22-21.09.15:846][966]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/chairD07D713A46A68AD5D026C2823CF9D29F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/chair.uasset'
+[2022.11.22-21.09.15:869][967]AssetCheck: New page: Asset Save: chair
+[2022.11.22-21.09.15:869][967]LogContentValidation: Display: Validating StaticMesh /Game/Assets/chair.chair
+[2022.11.22-21.09.18:764][135]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.09.18:769][135]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.09.18:897][141]AssetReimport: Importing new asset /Game/Assets/chair.
+[2022.11.22-21.09.32:038][313]AssetReimport: New page: Outstanding source content changes 7:09:32 AM
+[2022.11.22-21.09.32:098][314]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/couch.fbx)
+[2022.11.22-21.09.32:135][314]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/couch.fbx
+[2022.11.22-21.09.32:369][314]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.09.33:682][314]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.09.48:654][314]LogStaticMesh: Built static mesh [3.95s] /Game/Assets/couch.couch
+[2022.11.22-21.09.51:204][315]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/balloons.fbx)
+[2022.11.22-21.09.51:216][315]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/balloons.fbx
+[2022.11.22-21.09.51:234][315]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.10.01:112][315]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.10.01:544][315]LogStaticMesh: Built static mesh [0.12s] /Game/Assets/balloons_Sphere_001.balloons_Sphere_001
+[2022.11.22-21.10.01:745][315]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/balloons_NurbsPath_001.balloons_NurbsPath_001
+[2022.11.22-21.10.02:178][316]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen.fbx)
+[2022.11.22-21.10.02:196][316]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen.fbx
+[2022.11.22-21.10.02:293][316]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.22-21.10.09:325][316]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.22-21.10.10:185][316]LogStaticMesh: Built static mesh [0.19s] /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.10.10:405][316]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/kitchen_Cube_003.kitchen_Cube_003
+[2022.11.22-21.10.10:497][316]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/kitchen_Cube_004.kitchen_Cube_004
+[2022.11.22-21.10.10:603][316]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/kitchen_Cube_005.kitchen_Cube_005
+[2022.11.22-21.10.10:683][316]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/kitchen_Cube_047.kitchen_Cube_047
+[2022.11.22-21.10.10:786][316]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/kitchen_Apple_002.kitchen_Apple_002
+[2022.11.22-21.10.11:428][316]LogStaticMesh: Built static mesh [0.19s] /Game/Assets/kitchen_Apple.kitchen_Apple
+[2022.11.22-21.10.11:510][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_flower.kitchen_flower
+[2022.11.22-21.10.11:546][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_001.kitchen_orange_001
+[2022.11.22-21.10.11:577][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_002.kitchen_orange_002
+[2022.11.22-21.10.11:609][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_003.kitchen_orange_003
+[2022.11.22-21.10.11:640][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_004.kitchen_orange_004
+[2022.11.22-21.10.11:670][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_005.kitchen_orange_005
+[2022.11.22-21.10.11:701][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_008.kitchen_orange_008
+[2022.11.22-21.10.11:732][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_009.kitchen_orange_009
+[2022.11.22-21.10.11:764][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange_011.kitchen_orange_011
+[2022.11.22-21.10.11:794][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_orange.kitchen_orange
+[2022.11.22-21.10.11:817][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_OrangeStem_001.kitchen_OrangeStem_001
+[2022.11.22-21.10.11:842][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_OrangeStem_002.kitchen_OrangeStem_002
+[2022.11.22-21.10.11:860][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_OrangeStem.kitchen_OrangeStem
+[2022.11.22-21.10.12:919][316]LogStaticMesh: Built static mesh [0.22s] /Game/Assets/kitchen_Cube_071.kitchen_Cube_071
+[2022.11.22-21.10.13:035][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_Plane_003.kitchen_Plane_003
+[2022.11.22-21.10.13:052][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_Plane_004.kitchen_Plane_004
+[2022.11.22-21.10.13:144][316]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/kitchen_Plane_005.kitchen_Plane_005
+[2022.11.22-21.10.13:233][316]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/kitchen_Plane_006.kitchen_Plane_006
+[2022.11.22-21.10.13:288][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_Plane_007.kitchen_Plane_007
+[2022.11.22-21.10.13:324][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_Plane_008.kitchen_Plane_008
+[2022.11.22-21.10.13:357][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_Plane_009.kitchen_Plane_009
+[2022.11.22-21.10.13:376][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_Torus_000.kitchen_Torus_000
+[2022.11.22-21.10.13:404][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_Handle.kitchen_Handle
+[2022.11.22-21.10.13:511][316]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/kitchen_flower.kitchen_flower
+[2022.11.22-21.10.13:889][316]LogStaticMesh: Built static mesh [0.28s] /Game/Assets/kitchen_Cube_071.kitchen_Cube_071
+[2022.11.22-21.10.13:920][316]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/kitchen_Handle.kitchen_Handle
+[2022.11.22-21.10.14:349][317]LogStaticMesh: Built static mesh [0.33s] /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.10.14:468][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.22-21.10.14:535][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/couch" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/couch.uasset" SILENT=true
+[2022.11.22-21.10.16:138][317]LogSavePackage: Moving output files for package: /Game/Assets/couch
+[2022.11.22-21.10.16:139][317]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/couchCE6D4871484EE6B35210F09DB8DBA223.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/couch.uasset'
+[2022.11.22-21.10.16:197][318]AssetCheck: New page: Asset Save: couch
+[2022.11.22-21.10.16:198][318]LogContentValidation: Display: Validating StaticMesh /Game/Assets/couch.couch
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Total job queries 541, among them cache hits 150 (27.73%)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Tracking 366 distinct input hashes that result in 17 distinct outputs (4.64%)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Shaders Compiled: 126
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Jobs assigned 376, completed 366 (97.34%)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Average time worker was idle: 76.42 s
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Time job spent in pending queue: average 0.49 s, longest 8.80 s
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Job execution time: average 3.03 s, max 7.73 s
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Job life time (pending + execution): average 3.53 s, max 12.13
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 163.20 s
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Jobs were issued in 376 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Average processing rate: 2.24 jobs/sec
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Effective parallelization: 6.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   42 times, average 4.86 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   26 times, average 4.72 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   23 times, average 4.03 sec, max 4.99 sec, min 3.77 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   23 times, average 4.01 sec, max 4.97 sec, min 3.76 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   23 times, average 4.01 sec, max 5.01 sec, min 3.75 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 19.13% of total time (compiled   42 times, average 4.86 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.50% of total time (compiled   26 times, average 4.72 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.10.16:421][324]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.70% of total time (compiled   23 times, average 4.03 sec, max 4.99 sec, min 3.77 sec)
+[2022.11.22-21.10.16:422][324]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.66% of total time (compiled   23 times, average 4.01 sec, max 4.97 sec, min 3.76 sec)
+[2022.11.22-21.10.16:422][324]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 8.64% of total time (compiled   23 times, average 4.01 sec, max 5.01 sec, min 3.75 sec)
+[2022.11.22-21.10.16:422][324]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.10.19:158][486]AssetReimport: Importing new asset /Game/Assets/couch.
+[2022.11.22-21.10.19:158][486]AssetReimport: Importing new asset /Game/Assets/balloons.
+[2022.11.22-21.10.19:158][486]AssetReimport: Importing new asset /Game/Assets/kitchen.
+[2022.11.22-21.10.23:036][701]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.10.23:041][701]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-21.11.14:703][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.22-21.11.16:854][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.19:445][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001071s (2.657947s overbudget)
+[2022.11.22-21.11.19:478][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/black" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/black.uasset" SILENT=true
+[2022.11.22-21.11.19:479][641]LogSavePackage: Moving output files for package: /Game/Assets/black
+[2022.11.22-21.11.19:479][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/black9A60A7E546F1A4868240D6BFD4036615.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/black.uasset'
+[2022.11.22-21.11.21:651][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.23:911][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000135s (2.421246s overbudget)
+[2022.11.22-21.11.23:939][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Putty" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Putty.uasset" SILENT=true
+[2022.11.22-21.11.23:942][641]LogSavePackage: Moving output files for package: /Game/Assets/Putty
+[2022.11.22-21.11.23:942][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Putty3009D7E149B4DFAA6EE287972EC14AB4.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Putty.uasset'
+[2022.11.22-21.11.26:030][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.28:388][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003967s (2.433160s overbudget)
+[2022.11.22-21.11.28:416][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Brown" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Brown.uasset" SILENT=true
+[2022.11.22-21.11.28:417][641]LogSavePackage: Moving output files for package: /Game/Assets/Brown
+[2022.11.22-21.11.28:417][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Brown7AD4409448CB00ACE9A7B5A023F8414D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Brown.uasset'
+[2022.11.22-21.11.30:608][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.32:864][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004051s (2.435610s overbudget)
+[2022.11.22-21.11.32:892][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Red" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Red.uasset" SILENT=true
+[2022.11.22-21.11.32:894][641]LogSavePackage: Moving output files for package: /Game/Assets/Red
+[2022.11.22-21.11.32:894][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Red56283F744E84D107D19BDD8A2D62E06B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Red.uasset'
+[2022.11.22-21.11.34:973][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.37:354][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005151s (2.448927s overbudget)
+[2022.11.22-21.11.37:387][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hartford_Green" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Hartford_Green.uasset" SILENT=true
+[2022.11.22-21.11.37:389][641]LogSavePackage: Moving output files for package: /Game/Assets/Hartford_Green
+[2022.11.22-21.11.37:389][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Hartford_Green432183024B9B00617F8B93B9F2D9BE86.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Hartford_Green.uasset'
+[2022.11.22-21.11.39:562][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.41:924][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004975s (2.524048s overbudget)
+[2022.11.22-21.11.41:951][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Poplar_White" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Poplar_White.uasset" SILENT=true
+[2022.11.22-21.11.41:952][641]LogSavePackage: Moving output files for package: /Game/Assets/Poplar_White
+[2022.11.22-21.11.41:952][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Poplar_White2A4E2E464769A748E7DF638BE6D46D85.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Poplar_White.uasset'
+[2022.11.22-21.11.44:143][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.46:523][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001980s (2.559233s overbudget)
+[2022.11.22-21.11.46:550][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Hemlock" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Hemlock.uasset" SILENT=true
+[2022.11.22-21.11.46:552][641]LogSavePackage: Moving output files for package: /Game/Assets/Hemlock
+[2022.11.22-21.11.46:552][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Hemlock66653B0D4BBEE49480F45D85BAAE966D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Hemlock.uasset'
+[2022.11.22-21.11.48:726][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.51:092][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000033s (2.528240s overbudget)
+[2022.11.22-21.11.51:121][641]LogSavePackage: Moving output files for package: /Game/Assets/Morning_Sky_Gray
+[2022.11.22-21.11.51:121][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Morning_Sky_Gray1951BDA34639959F99973284E624FFF8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Morning_Sky_Gray.uasset'
+[2022.11.22-21.11.53:305][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.11.55:566][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001018s (2.433694s overbudget)
+[2022.11.22-21.11.55:594][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Tan" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Tan.uasset" SILENT=true
+[2022.11.22-21.11.55:596][641]LogSavePackage: Moving output files for package: /Game/Assets/Tan
+[2022.11.22-21.11.55:596][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Tan9872E46948200858362AE2B1FDA346A7.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Tan.uasset'
+[2022.11.22-21.11.57:687][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.00:046][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005047s (2.438935s overbudget)
+[2022.11.22-21.12.00:074][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/White" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/White.uasset" SILENT=true
+[2022.11.22-21.12.00:075][641]LogSavePackage: Moving output files for package: /Game/Assets/White
+[2022.11.22-21.12.00:075][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/WhiteFA4E31294431B1BE6D4C36A42D557B1F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/White.uasset'
+[2022.11.22-21.12.00:077][641]LogSavePackage: Moving output files for package: /Game/Assets/party_hat_Group_001
+[2022.11.22-21.12.00:077][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hat_Group_001AB364A284A8341D784C59382EAE43486.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_hat_Group_001.uasset'
+[2022.11.22-21.12.00:087][641]LogSavePackage: Moving output files for package: /Game/Assets/party_hat_Party_Hat
+[2022.11.22-21.12.00:087][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/party_hat_Party_Hat88FB74CF46539413597FFA9B408DA482.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/party_hat_Party_Hat.uasset'
+[2022.11.22-21.12.02:269][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.04:617][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002026s (2.518390s overbudget)
+[2022.11.22-21.12.04:645][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Mat" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Mat.uasset" SILENT=true
+[2022.11.22-21.12.04:646][641]LogSavePackage: Moving output files for package: /Game/Assets/Mat
+[2022.11.22-21.12.04:646][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Mat47A6CDA04D2D7312B3B5749EBA5218E8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Mat.uasset'
+[2022.11.22-21.12.06:849][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.09:090][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004071s (2.434345s overbudget)
+[2022.11.22-21.12.09:117][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material_001" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_001.uasset" SILENT=true
+[2022.11.22-21.12.09:118][641]LogSavePackage: Moving output files for package: /Game/Assets/Material_001
+[2022.11.22-21.12.09:118][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material_001D9CBE9154805960C2FB5238C9A914403.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_001.uasset'
+[2022.11.22-21.12.11:228][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.13:565][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001063s (2.436067s overbudget)
+[2022.11.22-21.12.13:596][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Handle_inside" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Handle_inside.uasset" SILENT=true
+[2022.11.22-21.12.13:597][641]LogSavePackage: Moving output files for package: /Game/Assets/Handle_inside
+[2022.11.22-21.12.13:598][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Handle_insideF6094BDE43AFC60D323F78BCF5F02F4F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Handle_inside.uasset'
+[2022.11.22-21.12.13:609][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/kitchen_Handle" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Handle.uasset" SILENT=true
+[2022.11.22-21.12.13:611][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Handle
+[2022.11.22-21.12.13:611][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_HandleF913034847DEAC36914435AF05A57F99.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Handle.uasset'
+[2022.11.22-21.12.15:817][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.18:043][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000013s (2.421720s overbudget)
+[2022.11.22-21.12.18:071][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Parafuso" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Parafuso.uasset" SILENT=true
+[2022.11.22-21.12.18:073][641]LogSavePackage: Moving output files for package: /Game/Assets/Parafuso
+[2022.11.22-21.12.18:073][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Parafuso52C3FDF74703B7B955EF2B9E2D85CB28.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Parafuso.uasset'
+[2022.11.22-21.12.20:200][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.22:715][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003936s (2.626554s overbudget)
+[2022.11.22-21.12.22:743][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Buraco" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Buraco.uasset" SILENT=true
+[2022.11.22-21.12.22:744][641]LogSavePackage: Moving output files for package: /Game/Assets/Buraco
+[2022.11.22-21.12.22:744][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Buraco8A3E88BF452FDDA3A1D5FFAC43E2F517.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Buraco.uasset'
+[2022.11.22-21.12.24:771][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.27:286][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000104s (2.531128s overbudget)
+[2022.11.22-21.12.27:316][641]LogSavePackage: Moving output files for package: /Game/Assets/FabricUpholsteryPolyesterPlainWeave001_3K
+[2022.11.22-21.12.27:316][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/FabricUpholsteryPolyesterPlainWe14FD66B94D0BF6A65D6FFAB06D25F495.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/FabricUpholsteryPolyesterPlainWeave001_3K.uasset'
+[2022.11.22-21.12.29:360][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.31:869][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005997s (2.542241s overbudget)
+[2022.11.22-21.12.31:897][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/WoodFine005_3K" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/WoodFine005_3K.uasset" SILENT=true
+[2022.11.22-21.12.31:898][641]LogSavePackage: Moving output files for package: /Game/Assets/WoodFine005_3K
+[2022.11.22-21.12.31:898][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/WoodFine005_3K6D3DBE32454BA22A67B17F88E37357EE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/WoodFine005_3K.uasset'
+[2022.11.22-21.12.33:942][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.36:356][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003577s (2.447668s overbudget)
+[2022.11.22-21.12.36:385][641]LogSavePackage: Moving output files for package: /Game/Assets/FabricUpholsteryIsometricShapes001_3K
+[2022.11.22-21.12.36:385][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/FabricUpholsteryIsometricShapes0E65EBC9D4F5B76B8109E339AC30FE5BD.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/FabricUpholsteryIsometricShapes001_3K.uasset'
+[2022.11.22-21.12.38:522][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.40:932][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005124s (2.536449s overbudget)
+[2022.11.22-21.12.40:961][641]LogSavePackage: Moving output files for package: /Game/Assets/FabricUpholsteryTwill001_3K
+[2022.11.22-21.12.40:961][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/FabricUpholsteryTwill001_3K2A87AC23453505DE2B1A28BDDE63F0FB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/FabricUpholsteryTwill001_3K.uasset'
+[2022.11.22-21.12.43:102][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.45:403][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000038s (2.431290s overbudget)
+[2022.11.22-21.12.45:432][641]LogSavePackage: Moving output files for package: /Game/Assets/FabricUpholsteryGeometricEmbroidered001_3K
+[2022.11.22-21.12.45:432][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/FabricUpholsteryGeometricEmbroidD36D11F243F9E1FA6E3DF3BE86E02DC2.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/FabricUpholsteryGeometricEmbroidered001_3K.uasset'
+[2022.11.22-21.12.47:472][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.49:896][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004162s (2.453422s overbudget)
+[2022.11.22-21.12.49:926][641]LogSavePackage: Moving output files for package: /Game/Assets/FabricUpholsteryWaveEffect001_3K
+[2022.11.22-21.12.49:927][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/FabricUpholsteryWaveEffect001_3K6098B99D4E6204DC3747B5B7EC5C0CEC.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/FabricUpholsteryWaveEffect001_3K.uasset'
+[2022.11.22-21.12.49:941][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_009
+[2022.11.22-21.12.49:941][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_00972F5A3B84FB8793CA253FE9230DB717A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_009.uasset'
+[2022.11.22-21.12.49:984][641]LogSavePackage: Moving output files for package: /Game/Assets/balloons_Sphere_001
+[2022.11.22-21.12.49:984][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/balloons_Sphere_0011D0D15AC46B4CA56D147E7BB62A73FE8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/balloons_Sphere_001.uasset'
+[2022.11.22-21.12.50:002][641]LogSavePackage: Moving output files for package: /Game/Assets/balloons_NurbsPath_001
+[2022.11.22-21.12.50:002][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/balloons_NurbsPath_00170E647ED4533AC97470E718A51DAA310.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/balloons_NurbsPath_001.uasset'
+[2022.11.22-21.12.50:016][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_008
+[2022.11.22-21.12.50:016][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_0081DB19735412B6949966C60A01838355D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_008.uasset'
+[2022.11.22-21.12.50:086][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Circle_005
+[2022.11.22-21.12.50:086][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Circle_00511365F2342827B4A1F81A89DEB172C51.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Circle_005.uasset'
+[2022.11.22-21.12.52:273][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.54:473][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000116s (2.376582s overbudget)
+[2022.11.22-21.12.54:500][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grill_001" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Grill_001.uasset" SILENT=true
+[2022.11.22-21.12.54:502][641]LogSavePackage: Moving output files for package: /Game/Assets/Grill_001
+[2022.11.22-21.12.54:502][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Grill_001C529F7B641B2B6E6B53B9A8A9F1733B1.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Grill_001.uasset'
+[2022.11.22-21.12.56:639][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.12.59:050][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003921s (2.537911s overbudget)
+[2022.11.22-21.12.59:077][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Ceramic_001" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Ceramic_001.uasset" SILENT=true
+[2022.11.22-21.12.59:078][641]LogSavePackage: Moving output files for package: /Game/Assets/Ceramic_001
+[2022.11.22-21.12.59:078][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Ceramic_001251D9C4C42618C8EEB7C70BD12D69D91.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Ceramic_001.uasset'
+[2022.11.22-21.13.01:219][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.03:527][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003108s (2.436381s overbudget)
+[2022.11.22-21.13.03:554][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Loaf_001" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Loaf_001.uasset" SILENT=true
+[2022.11.22-21.13.03:556][641]LogSavePackage: Moving output files for package: /Game/Assets/Loaf_001
+[2022.11.22-21.13.03:556][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Loaf_00158D01FBB4209D67C7469EB86D416BD2C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Loaf_001.uasset'
+[2022.11.22-21.13.05:575][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.08:000][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000991s (2.434342s overbudget)
+[2022.11.22-21.13.08:028][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Slice_001" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Slice_001.uasset" SILENT=true
+[2022.11.22-21.13.08:029][641]LogSavePackage: Moving output files for package: /Game/Assets/Slice_001
+[2022.11.22-21.13.08:029][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Slice_0018A9E22E944E4F2B386CCBC8CDB074B51.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Slice_001.uasset'
+[2022.11.22-21.13.10:151][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.12:471][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005966s (2.431943s overbudget)
+[2022.11.22-21.13.12:499][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material_015" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_015.uasset" SILENT=true
+[2022.11.22-21.13.12:500][641]LogSavePackage: Moving output files for package: /Game/Assets/Material_015
+[2022.11.22-21.13.12:500][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material_015342A33B34A1E3998C53EA297F51E52D9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_015.uasset'
+[2022.11.22-21.13.14:698][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.16:954][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002575s (2.443523s overbudget)
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Total job queries 905, among them cache hits 150 (16.57%)
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Tracking 741 distinct input hashes that result in 17 distinct outputs (2.29%)
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Shaders Compiled: 166
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Jobs assigned 741, completed 741 (100.00%)
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Average time worker was idle: 39.14 s
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Time job spent in pending queue: average 0.69 s, longest 13.98 s
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Job execution time: average 3.08 s, max 7.73 s
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Job life time (pending + execution): average 3.77 s, max 17.12
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 305.16 s
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Jobs were issued in 741 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Average processing rate: 2.43 jobs/sec
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Effective parallelization: 7.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   68 times, average 5.25 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   53 times, average 4.30 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.13.16:956][641]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   50 times, average 4.17 sec, max 4.99 sec, min 3.77 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   50 times, average 4.16 sec, max 4.97 sec, min 3.76 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   50 times, average 4.16 sec, max 5.01 sec, min 3.75 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.21% of total time (compiled   68 times, average 5.25 sec, max 7.45 sec, min 1.90 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.34% of total time (compiled   53 times, average 4.30 sec, max 7.46 sec, min 0.55 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.47% of total time (compiled   50 times, average 4.17 sec, max 4.99 sec, min 3.77 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 9.45% of total time (compiled   50 times, average 4.16 sec, max 4.97 sec, min 3.76 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.43% of total time (compiled   50 times, average 4.16 sec, max 5.01 sec, min 3.75 sec)
+[2022.11.22-21.13.16:957][641]LogShaderCompilers: Display: ================================================
+[2022.11.22-21.13.16:987][641]LogSavePackage: Moving output files for package: /Game/Assets/Kitchen_Top_001
+[2022.11.22-21.13.16:987][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Kitchen_Top_001DAE8E16948E0F65D4FC5B0A206B21B0A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Kitchen_Top_001.uasset'
+[2022.11.22-21.13.17:000][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Torus_000
+[2022.11.22-21.13.17:000][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Torus_00015DCCEDB45F6B7E2CA0E95BEEADB8A96.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Torus_000.uasset'
+[2022.11.22-21.13.19:054][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.21:425][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000123s (2.414359s overbudget)
+[2022.11.22-21.13.21:453][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Chrome_002" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Chrome_002.uasset" SILENT=true
+[2022.11.22-21.13.21:454][641]LogSavePackage: Moving output files for package: /Game/Assets/Chrome_002
+[2022.11.22-21.13.21:454][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Chrome_002B6E4A6BE44D804F8DC37AD828C15874D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Chrome_002.uasset'
+[2022.11.22-21.13.23:612][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.26:006][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003067s (2.542003s overbudget)
+[2022.11.22-21.13.26:033][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material_000" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_000.uasset" SILENT=true
+[2022.11.22-21.13.26:035][641]LogSavePackage: Moving output files for package: /Game/Assets/Material_000
+[2022.11.22-21.13.26:035][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material_000290C4FF14D15F3DB6110AA99870E1D6E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_000.uasset'
+[2022.11.22-21.13.26:055][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Cube_003
+[2022.11.22-21.13.26:055][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Cube_003EA743AC74C92EED4BFA7E99B251B2F38.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Cube_003.uasset'
+[2022.11.22-21.13.26:071][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Cube_004
+[2022.11.22-21.13.26:071][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Cube_004A51356974D1803AA34D6A8873DB4F31C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Cube_004.uasset'
+[2022.11.22-21.13.26:088][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Cube_005
+[2022.11.22-21.13.26:088][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Cube_005299AAE3F43D68AC25D4E9A821CC5D3E0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Cube_005.uasset'
+[2022.11.22-21.13.26:104][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Cube_047
+[2022.11.22-21.13.26:105][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Cube_047B8F425B04C3800D3DDCED5B014051850.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Cube_047.uasset'
+[2022.11.22-21.13.28:156][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.30:792][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005965s (2.676441s overbudget)
+[2022.11.22-21.13.30:821][641]LogSavePackage: Moving output files for package: /Game/Assets/Steel_bowl_outside_002
+[2022.11.22-21.13.30:821][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Steel_bowl_outside_0022FA6AA9B4291A527DB3D0195F88F2F7D.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Steel_bowl_outside_002.uasset'
+[2022.11.22-21.13.32:916][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.35:360][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001959s (2.529715s overbudget)
+[2022.11.22-21.13.35:389][641]LogSavePackage: Moving output files for package: /Game/Assets/Steel_bowl_inside_002
+[2022.11.22-21.13.35:389][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Steel_bowl_inside_00254B881EC4DD546E5685151B7001A0B95.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Steel_bowl_inside_002.uasset'
+[2022.11.22-21.13.35:409][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Apple_002
+[2022.11.22-21.13.35:409][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Apple_0020C803BF0404E9159C8F618900802DD95.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Apple_002.uasset'
+[2022.11.22-21.13.37:482][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.40:139][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001002s (2.718901s overbudget)
+[2022.11.22-21.13.40:166][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material_032" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_032.uasset" SILENT=true
+[2022.11.22-21.13.40:168][641]LogSavePackage: Moving output files for package: /Game/Assets/Material_032
+[2022.11.22-21.13.40:168][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material_032032959D74628241981487CB76B328F90.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_032.uasset'
+[2022.11.22-21.13.40:179][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/kitchen_Apple" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Apple.uasset" SILENT=true
+[2022.11.22-21.13.40:226][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Apple
+[2022.11.22-21.13.40:226][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Apple8EAD80A5468D908FEA2397976825D80A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Apple.uasset'
+[2022.11.22-21.13.40:239][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/kitchen_flower" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_flower.uasset" SILENT=true
+[2022.11.22-21.13.40:242][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_flower
+[2022.11.22-21.13.40:242][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_flowerC92A63B04C3A5BC6EAFBD4AC52FBD5A5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_flower.uasset'
+[2022.11.22-21.13.42:305][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.44:825][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004935s (2.572131s overbudget)
+[2022.11.22-21.13.44:854][641]LogSavePackage: Moving output files for package: /Game/Assets/Leaves_flowers_002
+[2022.11.22-21.13.44:854][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Leaves_flowers_002D955B81548784479DAEDC39A8A6AABC0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Leaves_flowers_002.uasset'
+[2022.11.22-21.13.44:869][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_001
+[2022.11.22-21.13.44:869][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_00158D0313749AC770F0464BAB2E6E9C675.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_001.uasset'
+[2022.11.22-21.13.46:894][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.49:298][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000038s (2.417493s overbudget)
+[2022.11.22-21.13.49:326][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Orange_002" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Orange_002.uasset" SILENT=true
+[2022.11.22-21.13.49:327][641]LogSavePackage: Moving output files for package: /Game/Assets/Orange_002
+[2022.11.22-21.13.49:327][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Orange_0020E3EF2DD477EBA62D9853C8512E794C4.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Orange_002.uasset'
+[2022.11.22-21.13.49:341][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_002
+[2022.11.22-21.13.49:341][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_0022A82863F475D6689FF0E5CA7686B73BB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_002.uasset'
+[2022.11.22-21.13.49:356][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_003
+[2022.11.22-21.13.49:356][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_003AD3952AC4E75F66802CEE4A189417A8C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_003.uasset'
+[2022.11.22-21.13.49:371][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_004
+[2022.11.22-21.13.49:371][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_00476056B7F491769D7EDB0FC81B2E14D23.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_004.uasset'
+[2022.11.22-21.13.49:386][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_005
+[2022.11.22-21.13.49:386][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_00565E248794D2ABB78DD449A9A1965B5EC.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_005.uasset'
+[2022.11.22-21.13.49:403][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_008
+[2022.11.22-21.13.49:403][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_008253C3F3E4D4D8D86E31B2E8E2F0A3FF3.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_008.uasset'
+[2022.11.22-21.13.49:418][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_009
+[2022.11.22-21.13.49:418][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_009B37746DF4EBE081AA08117BE92023799.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_009.uasset'
+[2022.11.22-21.13.49:433][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange_011
+[2022.11.22-21.13.49:433][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orange_01164B6B7AB48287970B2331684AE47BDCA.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange_011.uasset'
+[2022.11.22-21.13.49:444][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/kitchen_orange" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange.uasset" SILENT=true
+[2022.11.22-21.13.49:448][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_orange
+[2022.11.22-21.13.49:448][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_orangeC1D00F094DC40122BFF64E9BDA0ACFB3.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_orange.uasset'
+[2022.11.22-21.13.49:461][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_OrangeStem_001
+[2022.11.22-21.13.49:461][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_OrangeStem_0014C3739D247A1033A22DC0ABEE1BDC119.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_OrangeStem_001.uasset'
+[2022.11.22-21.13.51:680][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.53:992][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004142s (2.519589s overbudget)
+[2022.11.22-21.13.54:019][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Material_031" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_031.uasset" SILENT=true
+[2022.11.22-21.13.54:021][641]LogSavePackage: Moving output files for package: /Game/Assets/Material_031
+[2022.11.22-21.13.54:021][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Material_0318A707E5B460FE6F1D8D676A46788D1D6.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Material_031.uasset'
+[2022.11.22-21.13.54:035][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_OrangeStem_002
+[2022.11.22-21.13.54:035][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_OrangeStem_002FF229BEE458F6CE63E72F2953C13FC6C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_OrangeStem_002.uasset'
+[2022.11.22-21.13.56:056][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.13.58:574][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001009s (2.528212s overbudget)
+[2022.11.22-21.13.58:603][641]LogSavePackage: Moving output files for package: /Game/Assets/orange_stem_long_002
+[2022.11.22-21.13.58:603][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/orange_stem_long_002693A3D9F491897E34ED673AC1347A6D5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/orange_stem_long_002.uasset'
+[2022.11.22-21.13.58:618][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_OrangeStem
+[2022.11.22-21.13.58:618][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_OrangeStemA1E44C714B05CC4F5AB7BD947D6F9A42.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_OrangeStem.uasset'
+[2022.11.22-21.13.58:688][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Cube_071
+[2022.11.22-21.13.58:688][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Cube_071BCDEBFF2458127CE29DBE4AA7B9892D2.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Cube_071.uasset'
+[2022.11.22-21.14.00:847][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.14.03:269][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004019s (2.569715s overbudget)
+[2022.11.22-21.14.03:297][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/ChromePot" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/ChromePot.uasset" SILENT=true
+[2022.11.22-21.14.03:299][641]LogSavePackage: Moving output files for package: /Game/Assets/ChromePot
+[2022.11.22-21.14.03:299][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/ChromePot8629A7154A95A84E186DCBA030E4543B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/ChromePot.uasset'
+[2022.11.22-21.14.05:431][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.14.07:749][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003886s (2.436922s overbudget)
+[2022.11.22-21.14.07:777][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Red_Plastic" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Red_Plastic.uasset" SILENT=true
+[2022.11.22-21.14.07:778][641]LogSavePackage: Moving output files for package: /Game/Assets/Red_Plastic
+[2022.11.22-21.14.07:778][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Red_PlasticDD753BE94FB7F0DE1D264D90416E55FE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Red_Plastic.uasset'
+[2022.11.22-21.14.09:810][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.14.12:223][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000968s (2.433484s overbudget)
+[2022.11.22-21.14.12:251][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Black_Plastic" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Black_Plastic.uasset" SILENT=true
+[2022.11.22-21.14.12:253][641]LogSavePackage: Moving output files for package: /Game/Assets/Black_Plastic
+[2022.11.22-21.14.12:253][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Black_PlasticC1D72E8F4CC903194E68D59F40DE7975.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Black_Plastic.uasset'
+[2022.11.22-21.14.14:391][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-21.14.16:806][641]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003084s (2.543946s overbudget)
+[2022.11.22-21.14.16:834][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Gloss" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Gloss.uasset" SILENT=true
+[2022.11.22-21.14.16:835][641]LogSavePackage: Moving output files for package: /Game/Assets/Gloss
+[2022.11.22-21.14.16:835][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/GlossAE0820DB4D64828AB3E534AB44369080.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Gloss.uasset'
+[2022.11.22-21.14.16:848][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_003
+[2022.11.22-21.14.16:848][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_0034E05A68A4234AA0295F999B4E48AE653.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_003.uasset'
+[2022.11.22-21.14.16:862][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_004
+[2022.11.22-21.14.16:862][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_004118B2CB143849567814465BFCD544622.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_004.uasset'
+[2022.11.22-21.14.16:878][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_005
+[2022.11.22-21.14.16:879][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_0053AEF5A644D174D8127DE8F956C95773A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_005.uasset'
+[2022.11.22-21.14.16:895][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_006
+[2022.11.22-21.14.16:895][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_0063B80773F409B014C71BA18A79191FF27.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_006.uasset'
+[2022.11.22-21.14.16:909][641]LogSavePackage: Moving output files for package: /Game/Assets/kitchen_Plane_007
+[2022.11.22-21.14.16:909][641]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/kitchen_Plane_007AC2AA73D42CC2A799BC5F0B6E7ADC483.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/kitchen_Plane_007.uasset'
+[2022.11.22-21.14.16:928][641]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Leaves_flowers_002.Leaves_flowers_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Cube_004.kitchen_Cube_004
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_002.kitchen_orange_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Apple.kitchen_Apple
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_flower.kitchen_flower
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Material_032.Material_032
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Apple_002.kitchen_Apple_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Steel_bowl_inside_002.Steel_bowl_inside_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Orange_002.Orange_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_001.kitchen_orange_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Steel_bowl_outside_002.Steel_bowl_outside_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Cube_047.kitchen_Cube_047
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Cube_005.kitchen_Cube_005
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Cube_003.kitchen_Cube_003
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Material_000.Material_000
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Chrome_002.Chrome_002
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Kitchen_Top_001.Kitchen_Top_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Material_015.Material_015
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Slice_001.Slice_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Loaf_001.Loaf_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Ceramic_001.Ceramic_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Handle_inside.Handle_inside
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/Grill_001.Grill_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Circle_005.kitchen_Circle_005
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Handle.kitchen_Handle
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/balloons_NurbsPath_001.balloons_NurbsPath_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/balloons_Sphere_001.balloons_Sphere_001
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Torus_000.kitchen_Torus_000
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/FabricUpholsteryWaveEffect001_3K.FabricUpholsteryWaveEffect001_3K
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/FabricUpholsteryGeometricEmbroidered001_3K.FabricUpholsteryGeometricEmbroidered001_3K
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/FabricUpholsteryTwill001_3K.FabricUpholsteryTwill001_3K
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/FabricUpholsteryIsometricShapes001_3K.FabricUpholsteryIsometricShapes001_3K
+[2022.11.22-21.14.16:928][641]LogContentValidation: Display: Validating Material /Game/Assets/WoodFine005_3K.WoodFine005_3K
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_009.kitchen_Plane_009
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/FabricUpholsteryPolyesterPlainWeave001_3K.FabricUpholsteryPolyesterPlainWeave001_3K
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Mat.Mat
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_008.kitchen_Plane_008
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/party_hat_Party_Hat.party_hat_Party_Hat
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Buraco.Buraco
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/party_hat_Group_001.party_hat_Group_001
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Parafuso.Parafuso
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_007.kitchen_Plane_007
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/White.White
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Tan.Tan
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Material_001.Material_001
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Morning_Sky_Gray.Morning_Sky_Gray
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Hemlock.Hemlock
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_006.kitchen_Plane_006
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Poplar_White.Poplar_White
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Hartford_Green.Hartford_Green
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Red.Red
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Brown.Brown
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Putty.Putty
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_005.kitchen_Plane_005
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_004.kitchen_Plane_004
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/black.black
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Plane_003.kitchen_Plane_003
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Gloss.Gloss
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Black_Plastic.Black_Plastic
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/Red_Plastic.Red_Plastic
+[2022.11.22-21.14.16:929][641]LogContentValidation: Display: Validating Material /Game/Assets/ChromePot.ChromePot
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_Cube_071.kitchen_Cube_071
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_OrangeStem.kitchen_OrangeStem
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating Material /Game/Assets/orange_stem_long_002.orange_stem_long_002
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_OrangeStem_002.kitchen_OrangeStem_002
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating Material /Game/Assets/Material_031.Material_031
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_OrangeStem_001.kitchen_OrangeStem_001
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange.kitchen_orange
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_011.kitchen_orange_011
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_009.kitchen_orange_009
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_008.kitchen_orange_008
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_005.kitchen_orange_005
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_004.kitchen_orange_004
+[2022.11.22-21.14.16:930][641]LogContentValidation: Display: Validating StaticMesh /Game/Assets/kitchen_orange_003.kitchen_orange_003
+[2022.11.22-21.14.23:708][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
