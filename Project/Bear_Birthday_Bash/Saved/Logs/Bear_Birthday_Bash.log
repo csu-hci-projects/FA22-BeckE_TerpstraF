@@ -7563,3 +7563,1350 @@ RectLight7
 [2022.11.23-20.19.51:934][692]AssetCheck: New page: Asset Save: multiple assets
 [2022.11.23-20.19.51:934][692]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2022.11.23-20.19.51:934][692]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.23-20.21.43:007][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.23-20.24.05:094][747]AssetReimport: New page: Outstanding source content changes 6:24:05 AM
+[2022.11.23-20.24.05:136][748]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/3d-model.fbx)
+[2022.11.23-20.24.05:142][748]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/3d-model.fbx
+[2022.11.23-20.24.05:148][748]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.23-20.24.06:513][748]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.23-20.24.06:560][748]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/3d-model.3d-model
+[2022.11.23-20.24.07:384][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/3d-model" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/3d-model.uasset" SILENT=true
+[2022.11.23-20.24.07:389][749]LogSavePackage: Moving output files for package: /Game/Assets/3d-model
+[2022.11.23-20.24.07:390][749]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/3d-modelD2DA40D4442C3A406459BA9FFB4B587B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/3d-model.uasset'
+[2022.11.23-20.24.07:423][750]AssetCheck: New page: Asset Save: 3d-model
+[2022.11.23-20.24.07:423][750]LogContentValidation: Display: Validating StaticMesh /Game/Assets/3d-model.3d-model
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: ================================================
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Total job queries 4623, among them cache hits 761 (16.46%)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Tracking 3813 distinct input hashes that result in 1110 distinct outputs (29.11%)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: RAM used: 6.09 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.74%
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Shaders Compiled: 3112
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Jobs assigned 3815, completed 3813 (99.95%)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Average time worker was idle: 451.08 s
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Time job spent in pending queue: average 32.15 s, longest 296.55 s
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Job execution time: average 22.40 s, max 106.98 s
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Job life time (pending + execution): average 54.57 s, max 300.30
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1659.73 s
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Jobs were issued in 1882 batches (only local compilation was used), average 2.03 jobs/batch
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Average processing rate: 2.30 jobs/sec
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Effective parallelization: 8.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled   11 times, average 11.59 sec, max 14.08 sec, min 5.16 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 11.57 sec, max 13.63 sec, min 5.62 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled   11 times, average 11.33 sec, max 13.52 sec, min 5.34 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   11 times, average 11.07 sec, max 14.03 sec, min 5.17 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled   11 times, average 10.97 sec, max 12.93 sec, min 5.29 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.23% of total time (compiled  186 times, average 6.34 sec, max 13.02 sec, min 1.90 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.94% of total time (compiled  252 times, average 4.52 sec, max 13.20 sec, min 0.53 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.89% of total time (compiled  179 times, average 6.32 sec, max 13.79 sec, min 3.32 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.79% of total time (compiled  179 times, average 6.24 sec, max 14.19 sec, min 2.36 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.63% of total time (compiled  179 times, average 6.11 sec, max 13.68 sec, min 3.51 sec)
+[2022.11.23-20.24.08:904][827]LogShaderCompilers: Display: ================================================
+[2022.11.23-20.24.10:452][916]AssetReimport: Importing new asset /Game/Assets/3d-model.
+[2022.11.23-20.24.44:307][ 20]AssetReimport: New page: Outstanding source content changes 6:24:44 AM
+[2022.11.23-20.24.44:346][ 21]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.fbx)
+[2022.11.23-20.24.44:350][ 21]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.fbx
+[2022.11.23-20.24.44:365][ 21]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.23-20.24.45:843][ 21]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.23-20.24.45:863][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_French_Door_Frame_-_72__001.door2_French_Door_Frame_-_72__001
+[2022.11.23-20.24.45:873][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Lockset_Strikeplate_001.door2_Lockset_Strikeplate_001
+[2022.11.23-20.24.45:880][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Deadbolt_Strikeplate_001.door2_Deadbolt_Strikeplate_001
+[2022.11.23-20.24.45:890][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Accent_Lever_Door_Handle_002.door2_Accent_Lever_Door_Handle_002
+[2022.11.23-20.24.45:899][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Deadbolt_Lever_-_Antique_Brass_002.door2_Deadbolt_Lever_-_Antique_Brass_002
+[2022.11.23-20.24.45:906][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Keyhole_-_Antique_Brass_003.door2_Keyhole_-_Antique_Brass_003
+[2022.11.23-20.24.45:915][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Bowman_Deadbolt_Lock_002.door2_Bowman_Deadbolt_Lock_002
+[2022.11.23-20.24.45:922][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Screw_Cover_002.door2_Screw_Cover_002
+[2022.11.23-20.24.45:950][ 21]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/door2_Bowman_Entry_Handle_003.door2_Bowman_Entry_Handle_003
+[2022.11.23-20.24.45:987][ 21]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/door2_French_Door_Slab_-_36__-_Left_001.door2_French_Door_Slab_-_36__-_Left_001
+[2022.11.23-20.24.46:001][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Accent_Lever_Door_Handle_001.door2_Accent_Lever_Door_Handle_001
+[2022.11.23-20.24.46:010][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Entry_Latch_001.door2_Entry_Latch_001
+[2022.11.23-20.24.46:018][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Deadbolt_Mounting_Plate_001.door2_Deadbolt_Mounting_Plate_001
+[2022.11.23-20.24.46:023][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Deadbolt_Lever_-_Antique_Brass_001.door2_Deadbolt_Lever_-_Antique_Brass_001
+[2022.11.23-20.24.46:030][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Keyhole_-_Antique_Brass_001.door2_Keyhole_-_Antique_Brass_001
+[2022.11.23-20.24.46:040][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Bowman_Deadbolt_Lock_001.door2_Bowman_Deadbolt_Lock_001
+[2022.11.23-20.24.46:050][ 21]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/door2_Screw_Cover_001.door2_Screw_Cover_001
+[2022.11.23-20.24.46:083][ 21]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/door2_Bowman_Entry_Handle_001.door2_Bowman_Entry_Handle_001
+[2022.11.23-20.24.46:130][ 21]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/door2_French_Door_Slab_-_36__-_Right_001.door2_French_Door_Slab_-_36__-_Right_001
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_1' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_2' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_3' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_4' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_5' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_6' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_7' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_French Door Slab - 36" - Right_002' was renamed 'dbl_French Door Slab - 36" - Right_002_ncl1_1' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_8' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Deadbolt Mounting Plate_001' was renamed 'dbl_Deadbolt Mounting Plate_001_ncl1_1' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_9' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_10' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_11' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_12' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_Bowman Entry Handle_001' was renamed 'dbl_Bowman Entry Handle_001_ncl1_13' 
+[2022.11.23-20.24.46:919][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_French Door Slab - 36" - Right_001' was renamed 'dbl_French Door Slab - 36" - Right_001_ncl1_1' 
+[2022.11.23-20.24.46:920][ 21]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'dbl_French Door Slab - 36" - Right_002' was renamed 'dbl_French Door Slab - 36" - Right_002_ncl1_2' 
+[2022.11.23-20.24.47:034][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.23-20.24.48:781][106]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/uploads_files_2479898_Doordark.fbx)
+[2022.11.23-20.24.48:785][106]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/uploads_files_2479898_Doordark.fbx
+[2022.11.23-20.24.48:804][106]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.23-20.24.50:223][106]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.23-20.24.50:245][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder.uploads_files_2479898_Doordark_Cylinder
+[2022.11.23-20.24.50:256][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_001.uploads_files_2479898_Doordark_Cylinder_001
+[2022.11.23-20.24.50:265][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_002.uploads_files_2479898_Doordark_Cylinder_002
+[2022.11.23-20.24.50:275][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_003.uploads_files_2479898_Doordark_Cylinder_003
+[2022.11.23-20.24.50:285][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_004.uploads_files_2479898_Doordark_Cylinder_004
+[2022.11.23-20.24.50:298][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_005.uploads_files_2479898_Doordark_Cylinder_005
+[2022.11.23-20.24.50:309][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_006.uploads_files_2479898_Doordark_Cylinder_006
+[2022.11.23-20.24.50:321][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_007.uploads_files_2479898_Doordark_Cylinder_007
+[2022.11.23-20.24.50:331][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_008.uploads_files_2479898_Doordark_Cylinder_008
+[2022.11.23-20.24.50:341][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_009.uploads_files_2479898_Doordark_Cylinder_009
+[2022.11.23-20.24.50:351][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_010.uploads_files_2479898_Doordark_Cylinder_010
+[2022.11.23-20.24.50:361][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_011.uploads_files_2479898_Doordark_Cylinder_011
+[2022.11.23-20.24.50:374][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_012.uploads_files_2479898_Doordark_Cylinder_012
+[2022.11.23-20.24.50:384][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_013.uploads_files_2479898_Doordark_Cylinder_013
+[2022.11.23-20.24.50:397][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_014.uploads_files_2479898_Doordark_Cylinder_014
+[2022.11.23-20.24.50:408][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_015.uploads_files_2479898_Doordark_Cylinder_015
+[2022.11.23-20.24.50:417][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_016.uploads_files_2479898_Doordark_Cylinder_016
+[2022.11.23-20.24.50:427][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_017.uploads_files_2479898_Doordark_Cylinder_017
+[2022.11.23-20.24.50:436][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_002.uploads_files_2479898_Doordark_Plane_002
+[2022.11.23-20.24.50:445][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_003.uploads_files_2479898_Doordark_Plane_003
+[2022.11.23-20.24.50:546][106]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/uploads_files_2479898_Doordark_Plane_004.uploads_files_2479898_Doordark_Plane_004
+[2022.11.23-20.24.50:566][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_005.uploads_files_2479898_Doordark_Plane_005
+[2022.11.23-20.24.50:579][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_006.uploads_files_2479898_Doordark_Plane_006
+[2022.11.23-20.24.50:590][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_007.uploads_files_2479898_Doordark_Plane_007
+[2022.11.23-20.24.50:603][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Plane_008.uploads_files_2479898_Doordark_Plane_008
+[2022.11.23-20.24.50:619][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_018.uploads_files_2479898_Doordark_Cylinder_018
+[2022.11.23-20.24.50:633][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_019.uploads_files_2479898_Doordark_Cylinder_019
+[2022.11.23-20.24.50:646][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_020.uploads_files_2479898_Doordark_Cylinder_020
+[2022.11.23-20.24.50:663][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_021.uploads_files_2479898_Doordark_Cylinder_021
+[2022.11.23-20.24.50:677][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_022.uploads_files_2479898_Doordark_Cylinder_022
+[2022.11.23-20.24.50:695][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_023.uploads_files_2479898_Doordark_Cylinder_023
+[2022.11.23-20.24.50:711][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_024.uploads_files_2479898_Doordark_Cylinder_024
+[2022.11.23-20.24.50:726][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_025.uploads_files_2479898_Doordark_Cylinder_025
+[2022.11.23-20.24.50:740][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_026.uploads_files_2479898_Doordark_Cylinder_026
+[2022.11.23-20.24.50:758][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_027.uploads_files_2479898_Doordark_Cylinder_027
+[2022.11.23-20.24.50:773][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_028.uploads_files_2479898_Doordark_Cylinder_028
+[2022.11.23-20.24.50:790][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_029.uploads_files_2479898_Doordark_Cylinder_029
+[2022.11.23-20.24.50:806][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_030.uploads_files_2479898_Doordark_Cylinder_030
+[2022.11.23-20.24.50:821][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_031.uploads_files_2479898_Doordark_Cylinder_031
+[2022.11.23-20.24.50:835][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_032.uploads_files_2479898_Doordark_Cylinder_032
+[2022.11.23-20.24.50:851][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_033.uploads_files_2479898_Doordark_Cylinder_033
+[2022.11.23-20.24.50:867][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_034.uploads_files_2479898_Doordark_Cylinder_034
+[2022.11.23-20.24.50:882][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_035.uploads_files_2479898_Doordark_Cylinder_035
+[2022.11.23-20.24.50:892][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_001.uploads_files_2479898_Doordark_Plane_001
+[2022.11.23-20.24.50:907][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_036.uploads_files_2479898_Doordark_Cylinder_036
+[2022.11.23-20.24.50:922][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_037.uploads_files_2479898_Doordark_Cylinder_037
+[2022.11.23-20.24.50:936][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_038.uploads_files_2479898_Doordark_Cylinder_038
+[2022.11.23-20.24.50:952][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_039.uploads_files_2479898_Doordark_Cylinder_039
+[2022.11.23-20.24.50:968][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_040.uploads_files_2479898_Doordark_Cylinder_040
+[2022.11.23-20.24.50:984][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_041.uploads_files_2479898_Doordark_Cylinder_041
+[2022.11.23-20.24.51:000][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_042.uploads_files_2479898_Doordark_Cylinder_042
+[2022.11.23-20.24.51:016][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_043.uploads_files_2479898_Doordark_Cylinder_043
+[2022.11.23-20.24.51:031][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_044.uploads_files_2479898_Doordark_Cylinder_044
+[2022.11.23-20.24.51:045][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_045.uploads_files_2479898_Doordark_Cylinder_045
+[2022.11.23-20.24.51:061][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_046.uploads_files_2479898_Doordark_Cylinder_046
+[2022.11.23-20.24.51:077][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_047.uploads_files_2479898_Doordark_Cylinder_047
+[2022.11.23-20.24.51:092][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_048.uploads_files_2479898_Doordark_Cylinder_048
+[2022.11.23-20.24.51:107][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_049.uploads_files_2479898_Doordark_Cylinder_049
+[2022.11.23-20.24.51:121][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_050.uploads_files_2479898_Doordark_Cylinder_050
+[2022.11.23-20.24.51:137][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_051.uploads_files_2479898_Doordark_Cylinder_051
+[2022.11.23-20.24.51:149][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_052.uploads_files_2479898_Doordark_Cylinder_052
+[2022.11.23-20.24.51:163][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_053.uploads_files_2479898_Doordark_Cylinder_053
+[2022.11.23-20.24.51:173][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_009.uploads_files_2479898_Doordark_Plane_009
+[2022.11.23-20.24.51:184][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_054.uploads_files_2479898_Doordark_Cylinder_054
+[2022.11.23-20.24.51:194][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_055.uploads_files_2479898_Doordark_Cylinder_055
+[2022.11.23-20.24.51:203][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_056.uploads_files_2479898_Doordark_Cylinder_056
+[2022.11.23-20.24.51:214][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_057.uploads_files_2479898_Doordark_Cylinder_057
+[2022.11.23-20.24.51:227][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_058.uploads_files_2479898_Doordark_Cylinder_058
+[2022.11.23-20.24.51:243][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_059.uploads_files_2479898_Doordark_Cylinder_059
+[2022.11.23-20.24.51:263][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_060.uploads_files_2479898_Doordark_Cylinder_060
+[2022.11.23-20.24.51:277][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_061.uploads_files_2479898_Doordark_Cylinder_061
+[2022.11.23-20.24.51:292][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_062.uploads_files_2479898_Doordark_Cylinder_062
+[2022.11.23-20.24.51:309][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_063.uploads_files_2479898_Doordark_Cylinder_063
+[2022.11.23-20.24.51:325][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_064.uploads_files_2479898_Doordark_Cylinder_064
+[2022.11.23-20.24.51:340][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_065.uploads_files_2479898_Doordark_Cylinder_065
+[2022.11.23-20.24.51:355][106]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_066.uploads_files_2479898_Doordark_Cylinder_066
+[2022.11.23-20.24.51:369][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_067.uploads_files_2479898_Doordark_Cylinder_067
+[2022.11.23-20.24.51:383][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_068.uploads_files_2479898_Doordark_Cylinder_068
+[2022.11.23-20.24.51:394][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_069.uploads_files_2479898_Doordark_Cylinder_069
+[2022.11.23-20.24.51:403][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_070.uploads_files_2479898_Doordark_Cylinder_070
+[2022.11.23-20.24.51:414][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Cylinder_071.uploads_files_2479898_Doordark_Cylinder_071
+[2022.11.23-20.24.51:420][106]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/uploads_files_2479898_Doordark_Plane_010.uploads_files_2479898_Doordark_Plane_010
+[2022.11.23-20.24.52:027][107]LogSlate: Window 'Message Log' being destroyed
+[2022.11.23-20.24.52:035][107]LogSlate: Window 'Message Log' being destroyed
+[2022.11.23-20.24.52:112][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.23-20.24.55:235][248]AssetReimport: Importing new asset /Game/Assets/door2.
+[2022.11.23-20.24.55:235][248]AssetReimport: Importing new asset /Game/Assets/uploads_files_2479898_Doordark.
+[2022.11.23-20.25.26:685][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.23-20.25.28:394][ 86]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.23-20.25.28:420][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.23-20.25.28:428][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.11.23-20.25.28:434][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.23-20.25.52:308][251]AssetReimport: New page: Outstanding source content changes 6:25:52 AM
+[2022.11.23-20.25.52:336][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.23-20.25.54:878][252]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.23-20.25.54:894][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.23-20.25.54:901][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.23-20.25.54:907][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.11.23-20.25.57:934][425]AssetReimport: Attempting to delete door2_French_Door_Frame_-_72__001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Lockset_Strikeplate_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Deadbolt_Strikeplate_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Accent_Lever_Door_Handle_002 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Deadbolt_Lever_-_Antique_Brass_002 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Keyhole_-_Antique_Brass_003 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Bowman_Deadbolt_Lock_002 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Screw_Cover_002 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Bowman_Entry_Handle_003 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_French_Door_Slab_-_36__-_Left_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Accent_Lever_Door_Handle_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Entry_Latch_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Deadbolt_Mounting_Plate_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Deadbolt_Lever_-_Antique_Brass_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Keyhole_-_Antique_Brass_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Bowman_Deadbolt_Lock_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Screw_Cover_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_Bowman_Entry_Handle_001 (its source file has been removed).
+[2022.11.23-20.25.57:935][425]AssetReimport: Attempting to delete door2_French_Door_Slab_-_36__-_Right_001 (its source file has been removed).
+[2022.11.23-20.30.26:958][600]AssetReimport: New page: Outstanding source content changes 6:30:26 AM
+[2022.11.23-20.30.26:988][601]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door1.fbx)
+[2022.11.23-20.30.26:992][601]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door1.fbx
+[2022.11.23-20.30.26:997][601]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.23-20.30.28:300][601]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.23-20.30.28:338][601]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/door1.door1
+[2022.11.23-20.30.28:410][602]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.fbx)
+[2022.11.23-20.30.28:414][602]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.fbx
+[2022.11.23-20.30.28:424][602]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.23-20.30.29:204][602]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.23-20.30.29:340][602]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/door3.door3
+[2022.11.23-20.30.29:422][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.fbx)
+[2022.11.23-20.30.29:429][603]LogFbx: Loading FBX Scene from C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.fbx
+[2022.11.23-20.30.29:438][603]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.23-20.30.30:065][603]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.23-20.30.30:324][603]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/door2.door2
+[2022.11.23-20.30.31:326][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door1" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door1.uasset" SILENT=true
+[2022.11.23-20.30.31:333][604]LogSavePackage: Moving output files for package: /Game/Assets/door1
+[2022.11.23-20.30.31:333][604]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door156C8ED13450C3C307D0621ACE99E0A65.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door1.uasset'
+[2022.11.23-20.30.31:358][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door3" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.uasset" SILENT=true
+[2022.11.23-20.30.31:392][604]LogSavePackage: Moving output files for package: /Game/Assets/door3
+[2022.11.23-20.30.31:392][604]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door3A92ED18F4DAE01522FF9C5A53E30F9DB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.uasset'
+[2022.11.23-20.30.31:403][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door2" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.uasset" SILENT=true
+[2022.11.23-20.30.31:427][604]LogSavePackage: Moving output files for package: /Game/Assets/door2
+[2022.11.23-20.30.31:427][604]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door20C71AB4840553B5BA119A5AE1476759E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.uasset'
+[2022.11.23-20.30.31:461][605]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.23-20.30.31:462][605]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door3.door3
+[2022.11.23-20.30.31:462][605]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.30.31:462][605]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.30.32:633][666]LogSlate: Window 'Message Log' being destroyed
+[2022.11.23-20.30.32:639][666]LogSlate: Window 'Message Log' being destroyed
+[2022.11.23-20.30.33:153][693]LogShaderCompilers: Display: ================================================
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Total job queries 4641, among them cache hits 761 (16.40%)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Tracking 3828 distinct input hashes that result in 1110 distinct outputs (29.00%)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: RAM used: 6.09 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.74%
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Shaders Compiled: 3130
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Jobs assigned 3833, completed 3828 (99.87%)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Average time worker was idle: 449.81 s
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Time job spent in pending queue: average 32.00 s, longest 296.55 s
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Job execution time: average 22.32 s, max 106.98 s
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Job life time (pending + execution): average 54.37 s, max 300.30
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1669.88 s
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Jobs were issued in 1900 batches (only local compilation was used), average 2.02 jobs/batch
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Average processing rate: 2.29 jobs/sec
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Effective parallelization: 8.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled   11 times, average 11.59 sec, max 14.08 sec, min 5.16 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 11.57 sec, max 13.63 sec, min 5.62 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled   11 times, average 11.33 sec, max 13.52 sec, min 5.34 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   11 times, average 11.07 sec, max 14.03 sec, min 5.17 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled   11 times, average 10.97 sec, max 12.93 sec, min 5.29 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.38% of total time (compiled  194 times, average 6.21 sec, max 13.02 sec, min 1.90 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.93% of total time (compiled  252 times, average 4.52 sec, max 13.20 sec, min 0.53 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.87% of total time (compiled  179 times, average 6.32 sec, max 13.79 sec, min 3.32 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.77% of total time (compiled  179 times, average 6.24 sec, max 14.19 sec, min 2.36 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.61% of total time (compiled  179 times, average 6.11 sec, max 13.68 sec, min 3.51 sec)
+[2022.11.23-20.30.33:154][693]LogShaderCompilers: Display: ================================================
+[2022.11.23-20.30.34:489][768]AssetReimport: Importing new asset /Game/Assets/door1.
+[2022.11.23-20.30.34:489][768]AssetReimport: Importing new asset /Game/Assets/door3.
+[2022.11.23-20.30.34:489][768]AssetReimport: Importing new asset /Game/Assets/door2.
+[2022.11.23-20.30.59:941][266]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.30.59:957][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-20.31.00:167][266]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.23-20.31.23:389][618]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: F91F514EBE84C5DB4D7FBB0DD502302ECCDD116F), compiling. 
+[2022.11.23-20.31.30:513][929]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/door2) ...
+[2022.11.23-20.31.40:856][467]LogMaterial: Display: Missing cached shadermap for M_Template_Master in PCD3D_SM5, Default, SM5 (DDC key hash: ED9BD6FCBB970147E79397A7A46FFCC5091C26F2), compiling. 
+[2022.11.23-20.31.43:747][549]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/door2) ...
+[2022.11.23-20.31.46:763][652]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/door2) ...
+[2022.11.23-20.31.56:454][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door2" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.uasset" SILENT=true
+[2022.11.23-20.31.56:474][ 35]LogSavePackage: Moving output files for package: /Game/Assets/door2
+[2022.11.23-20.31.56:475][ 35]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door269FA29674CB7FDB0C0F7A9A3404D2E4B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door2.uasset'
+[2022.11.23-20.31.56:498][ 35]AssetCheck: New page: Asset Save: door2
+[2022.11.23-20.31.56:499][ 35]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.31.58:246][124]LogSlate: Window 'door2' being destroyed
+[2022.11.23-20.31.58:253][124]LogSlate: Window 'door2' being destroyed
+[2022.11.23-20.31.58:290][124]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-20.31.58:290][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-20.31.58:347][124]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-20.31.58:347][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-20.32.01:578][302]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/door3.door3
+[2022.11.23-20.32.01:633][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-20.32.01:833][302]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.23-20.32.59:946][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door3" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.uasset" SILENT=true
+[2022.11.23-20.32.59:962][696]LogSavePackage: Moving output files for package: /Game/Assets/door3
+[2022.11.23-20.32.59:964][696]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door36A8FD08840C9D8EC0155F194BA75BBE8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.uasset'
+[2022.11.23-20.32.59:977][696]AssetCheck: New page: Asset Save: door3
+[2022.11.23-20.32.59:977][696]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door3.door3
+[2022.11.23-20.33.02:420][842]LogSlate: Window 'door3' being destroyed
+[2022.11.23-20.33.02:425][842]LogSlate: Window 'door3' being destroyed
+[2022.11.23-20.33.02:445][842]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-20.33.02:445][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-20.33.06:338][ 71]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.33.06:398][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-20.33.06:597][ 71]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.23-20.33.27:632][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door1" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door1.uasset" SILENT=true
+[2022.11.23-20.33.27:638][291]LogSavePackage: Moving output files for package: /Game/Assets/door1
+[2022.11.23-20.33.27:638][291]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door10138A49A4F27EF00A06C11BF7CE84221.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door1.uasset'
+[2022.11.23-20.33.27:648][291]AssetCheck: New page: Asset Save: door1
+[2022.11.23-20.33.27:648][291]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.33.28:858][364]LogSlate: Window 'door1' being destroyed
+[2022.11.23-20.33.28:863][364]LogSlate: Window 'door1' being destroyed
+[2022.11.23-20.33.28:883][364]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-20.33.28:883][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-20.33.31:866][541]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/door3.door3
+[2022.11.23-20.33.31:914][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.23-20.33.32:106][541]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2022.11.23-20.33.42:390][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/door3" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.uasset" SILENT=true
+[2022.11.23-20.33.42:409][134]LogSavePackage: Moving output files for package: /Game/Assets/door3
+[2022.11.23-20.33.42:409][134]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/door351A066CB433AD5B84311599FB8DCDAAF.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/door3.uasset'
+[2022.11.23-20.33.42:418][134]AssetCheck: New page: Asset Save: door3
+[2022.11.23-20.33.42:418][134]LogContentValidation: Display: Validating StaticMesh /Game/Assets/door3.door3
+[2022.11.23-20.33.43:344][190]LogSlate: Window 'door3' being destroyed
+[2022.11.23-20.33.43:349][190]LogSlate: Window 'door3' being destroyed
+[2022.11.23-20.33.43:371][190]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-20.33.43:371][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-20.33.50:128][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.33.50:128][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.33.50:128][590]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/door2.door2 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_115
+[2022.11.23-20.33.51:895][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.33.51:895][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door2.door2
+[2022.11.23-20.33.51:896][692]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/door2.door2 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_116
+[2022.11.23-20.33.51:932][693]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.33.55:456][903]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.33.56:256][951]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.33.57:272][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.03:794][403]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.06:296][553]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.07:762][641]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:630][753]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:696][757]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:730][759]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:763][761]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:846][766]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:896][769]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:929][771]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.09:979][774]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:029][777]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:095][781]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:179][786]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:230][789]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:313][794]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:479][804]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:629][813]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.10:868][827]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.11:801][883]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.11:868][887]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.12:173][905]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.13:107][961]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.13:173][965]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.13:340][975]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.13:795][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.20:372][396]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.21:588][469]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.23:454][581]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.34:055][213]Cmd: EDIT COPY
+[2022.11.23-20.34.34:422][235]Cmd: EDIT PASTE
+[2022.11.23-20.34.34:457][236]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.35:591][304]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.35:691][310]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.35:791][316]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.35:841][319]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.35:925][324]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.35:957][326]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.36:181][339]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.36:832][378]Cmd: TRANSACTION UNDO
+[2022.11.23-20.34.36:832][378]LogEditorTransaction: Undo Move Elements
+[2022.11.23-20.34.36:892][379]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.37:367][399]Cmd: TRANSACTION UNDO
+[2022.11.23-20.34.37:367][399]LogEditorTransaction: Undo Paste
+[2022.11.23-20.34.37:425][400]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.39:326][514]Cmd: EDIT COPY
+[2022.11.23-20.34.39:843][545]Cmd: EDIT PASTE
+[2022.11.23-20.34.39:877][546]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.41:337][631]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.41:467][635]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.45:508][873]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.45:726][885]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.45:761][887]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.46:352][915]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.46:685][935]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.46:785][941]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.46:985][953]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.47:052][957]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.47:102][960]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.47:376][976]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.48:476][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.48:509][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.48:576][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.48:743][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.48:843][ 64]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.48:876][ 66]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.49:177][ 84]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.49:293][ 91]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.50:116][140]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.56:933][549]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.57:784][600]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.34.58:206][625]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.01:644][831]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.07:399][176]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:066][276]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:100][278]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:233][286]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:266][288]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:316][291]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:383][295]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:483][301]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.09:950][329]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.10:617][369]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.11:916][447]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.13:588][547]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.16:504][722]Cmd: EDIT COPY
+[2022.11.23-20.35.16:805][740]Cmd: EDIT PASTE
+[2022.11.23-20.35.16:840][741]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.18:266][821]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.18:399][826]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.18:536][833]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.19:094][866]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.21:682][ 18]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.22:000][ 37]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.23:566][131]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.23:921][152]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.28:114][402]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.31:596][611]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.35:924][869]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.38:775][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.39:075][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.39:893][107]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.40:510][144]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.40:881][166]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.53:610][926]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.35.56:509][100]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.01:067][371]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.03:951][544]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.04:340][567]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.06:914][720]Cmd: EDIT COPY
+[2022.11.23-20.36.07:998][785]Cmd: EDIT PASTE
+[2022.11.23-20.36.08:050][786]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:106][849]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:239][857]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:356][864]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:390][866]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:440][869]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:540][875]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:590][878]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.09:639][881]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.10:063][906]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.12:696][ 64]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.14:164][152]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.14:230][156]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.14:330][162]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.14:769][188]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.16:919][317]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.18:087][387]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.18:403][406]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.18:553][415]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.18:892][435]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.21:658][601]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.23:596][717]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.36.23:696][723]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.09:328][449]Cmd: EDIT COPY
+[2022.11.23-20.37.09:662][469]Cmd: EDIT PASTE
+[2022.11.23-20.37.09:697][470]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.13:841][708]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.14:105][720]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.14:171][724]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.14:399][737]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.16:399][847]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.16:632][861]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.16:726][866]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.22:126][190]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.24:270][317]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.24:303][319]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.24:692][336]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.24:933][350]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.27:166][484]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.29:450][621]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.29:716][637]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.29:905][648]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.30:989][713]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:056][717]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:155][723]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:223][727]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:273][730]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:305][732]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:473][742]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:556][747]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.31:605][750]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.32:189][785]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.32:272][790]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.32:712][816]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.40:016][249]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.41:545][337]Cmd: EDIT COPY
+[2022.11.23-20.37.41:995][364]Cmd: EDIT PASTE
+[2022.11.23-20.37.42:028][365]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:061][427]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:419][446]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:502][449]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:697][457]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:734][459]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:900][469]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.43:968][473]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.44:075][479]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.47:959][712]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.54:050][ 77]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.56:101][200]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.58:451][341]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.58:517][345]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.58:601][350]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.59:469][402]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.37.59:808][422]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.01:651][532]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.03:315][629]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.03:816][659]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.03:966][668]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.04:315][689]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.04:366][692]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.04:416][695]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.04:716][713]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.05:209][742]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.05:742][774]Cmd: EDIT COPY
+[2022.11.23-20.38.06:043][792]Cmd: EDIT PASTE
+[2022.11.23-20.38.06:077][793]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.07:165][856]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.07:518][870]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.07:551][872]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.07:684][880]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.08:034][901]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.08:450][926]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.08:584][934]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.09:594][994]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.14:493][287]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.38.16:144][381]Cmd: EDIT COPY
+[2022.11.23-20.38.17:010][433]Cmd: EDIT PASTE
+[2022.11.23-20.39.13:025][773]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.39.19:613][150]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.39.25:142][474]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.13:117][343]Cmd: EDIT COPY
+[2022.11.23-20.40.13:651][375]Cmd: EDIT PASTE
+[2022.11.23-20.40.13:686][376]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.29:455][320]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.34:330][612]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.35:630][690]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.41:482][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.41:533][ 43]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.41:599][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.41:666][ 51]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.42:072][ 75]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.43:072][135]Cmd: EDIT COPY
+[2022.11.23-20.40.43:473][159]Cmd: EDIT PASTE
+[2022.11.23-20.40.43:509][160]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.40.45:177][259]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.09:070][672]Cmd: EDIT COPY
+[2022.11.23-20.41.09:320][687]Cmd: EDIT PASTE
+[2022.11.23-20.41.09:356][688]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.10:869][778]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.14:316][975]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.14:412][980]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.16:975][125]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.17:419][146]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.19:489][260]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.19:522][262]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.20:023][286]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.20:509][312]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.20:593][317]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.20:753][326]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.22:937][457]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.23:936][516]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.26:986][699]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.28:359][780]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.28:660][793]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.28:717][795]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.28:830][800]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.28:963][808]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.29:446][837]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.29:757][855]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:435][947]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:485][950]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:553][954]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:653][960]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:802][969]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:886][974]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:919][976]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.31:969][979]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.32:302][999]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.32:335][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.32:711][ 23]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.44:228][706]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.52:498][197]LogMaterial: Display: Missing cached shadermap for TerrainCollisionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D10A11F70A5522717A8CD2FC93CD064815F7A3DF), compiling. Is special engine material.
+[2022.11.23-20.41.52:870][198]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: ================================================
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Total job queries 5127, among them cache hits 762 (14.86%)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Tracking 3911 distinct input hashes that result in 1150 distinct outputs (29.40%)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: RAM used: 6.33 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.77%
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Shaders Compiled: 3607
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Jobs assigned 4002, completed 3911 (97.73%)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Average time worker was idle: 446.12 s
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Time job spent in pending queue: average 30.66 s, longest 296.55 s
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Job execution time: average 22.07 s, max 106.98 s
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Job life time (pending + execution): average 53.44 s, max 300.30
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1720.15 s
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Jobs were issued in 1940 batches (only local compilation was used), average 2.06 jobs/batch
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Average processing rate: 2.27 jobs/sec
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Effective parallelization: 8.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled   11 times, average 11.59 sec, max 14.08 sec, min 5.16 sec)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 11.57 sec, max 13.63 sec, min 5.62 sec)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled   11 times, average 11.33 sec, max 13.52 sec, min 5.34 sec)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   11 times, average 11.07 sec, max 14.03 sec, min 5.17 sec)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled   11 times, average 10.97 sec, max 12.93 sec, min 5.29 sec)
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.23-20.41.59:083][528]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.43% of total time (compiled  201 times, average 6.14 sec, max 13.02 sec, min 1.09 sec)
+[2022.11.23-20.41.59:084][528]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.07% of total time (compiled  263 times, average 4.49 sec, max 13.20 sec, min 0.53 sec)
+[2022.11.23-20.41.59:084][528]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.87% of total time (compiled  182 times, average 6.33 sec, max 13.79 sec, min 3.32 sec)
+[2022.11.23-20.41.59:084][528]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.73% of total time (compiled  182 times, average 6.22 sec, max 14.19 sec, min 2.36 sec)
+[2022.11.23-20.41.59:084][528]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.56% of total time (compiled  182 times, average 6.08 sec, max 13.68 sec, min 2.23 sec)
+[2022.11.23-20.41.59:084][528]LogShaderCompilers: Display: ================================================
+[2022.11.23-20.42.39:129][636]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.42:253][814]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.45:578][ 11]LogMaterial: Display: Missing cached shadermap for SelectBrushMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D9B5C6EB511CC009FE5308452F3662D534167BF7), compiling. 
+[2022.11.23-20.42.45:624][ 12]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.51:093][319]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.54:858][531]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.54:942][534]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.55:587][570]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.55:620][572]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.55:654][574]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.55:730][578]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.56:547][627]Cmd: TRANSACTION UNDO
+[2022.11.23-20.42.56:547][627]LogEditorTransaction: Undo Move Elements
+[2022.11.23-20.42.56:601][628]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.57:253][659]Cmd: EDIT COPY
+[2022.11.23-20.42.58:046][706]Cmd: EDIT PASTE
+[2022.11.23-20.42.58:080][707]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.42.59:725][800]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.00:575][846]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.02:795][976]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.04:146][ 57]Cmd: EDIT COPY
+[2022.11.23-20.43.04:499][ 78]Cmd: EDIT PASTE
+[2022.11.23-20.43.04:552][ 79]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.06:260][172]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.06:301][174]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.06:334][176]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.06:401][180]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.06:651][195]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.06:784][203]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.07:330][235]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.11:826][500]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.26:420][354]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.43.44:298][402]Cmd: DELETE
+[2022.11.23-20.43.44:298][402]Cmd: ACTOR DELETE
+[2022.11.23-20.43.44:301][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.23-20.43.44:309][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.23-20.43.44:317][402]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.11.23-20.44.22:339][670]Cmd: EDIT COPY
+[2022.11.23-20.44.22:688][691]Cmd: EDIT PASTE
+[2022.11.23-20.44.35:221][440]Cmd: EDIT COPY
+[2022.11.23-20.44.36:092][492]Cmd: EDIT PASTE
+[2022.11.23-20.45.27:232][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.23-20.45.27:260][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5
+[2022.11.23-20.45.27:260][519]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap_Auto5F1AE8FC0408EBF326DF28EA76FEB488B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5.umap'
+[2022.11.23-20.45.27:265][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.040
+[2022.11.23-20.45.27:265][519]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2022.11.23-20.46.06:437][860]Cmd: EDIT COPY
+[2022.11.23-20.46.06:840][884]Cmd: EDIT PASTE
+[2022.11.23-20.46.06:903][885]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.09:691][ 47]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.09:968][ 59]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:001][ 61]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:267][ 77]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:351][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:418][ 86]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:551][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:601][ 97]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:651][100]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:734][105]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:835][111]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.10:885][114]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.11:084][126]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.11:502][151]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.11:551][154]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.11:717][164]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.11:901][175]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.12:035][183]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.12:102][187]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.12:202][193]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.12:301][199]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.12:485][209]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.14:766][345]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.15:895][410]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.15:945][413]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.15:978][415]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.16:077][421]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.16:344][437]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.16:378][439]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.16:411][441]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.16:511][447]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.17:127][484]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.17:457][503]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.19:209][608]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.19:309][614]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.19:693][637]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.19:759][641]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.19:909][650]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.20:275][672]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.20:409][680]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.20:676][696]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.20:843][706]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.21:305][733]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.22:772][821]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.22:805][823]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.23:806][883]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.23:873][887]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.24:586][929]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.36:228][623]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.38:980][788]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:206][800]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:289][804]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:324][806]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:376][808]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:655][820]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:788][828]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:922][836]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.39:955][838]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.40:022][842]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.40:055][844]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.40:139][849]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.40:172][851]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.40:271][857]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.40:790][887]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.44:004][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.44:121][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.44:288][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.44:437][ 99]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.44:852][123]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.45:570][166]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.45:719][175]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.46:253][207]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.46:602][227]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.46.52:580][585]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.12:561][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow
+[2022.11.23-20.47.12:561][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow
+[2022.11.23-20.47.12:561][769]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_130
+[2022.11.23-20.47.13:499][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow
+[2022.11.23-20.47.13:499][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow
+[2022.11.23-20.47.13:500][825]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Pillow.bedroom_Pillow as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_131
+[2022.11.23-20.47.13:536][826]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.27:589][667]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.28:909][736]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.29:293][759]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.29:443][768]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.29:693][783]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.29:759][787]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.30:409][826]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.30:976][860]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.31:359][882]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:025][922]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:059][924]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:092][926]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:125][928]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:208][933]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:241][935]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:341][941]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:391][944]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:442][947]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:491][950]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:541][953]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:642][959]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:692][962]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:809][969]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.32:874][973]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.33:159][990]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.33:209][993]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.33:258][996]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.33:492][ 10]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.33:641][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.33:791][ 28]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.34:209][ 53]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.34:259][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.34:291][ 58]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.34:391][ 64]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.35:175][111]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.35:290][117]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.52:868][150]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.54:571][252]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.54:687][259]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.54:721][261]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.54:787][265]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.55:021][279]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.55:121][285]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.55:171][288]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.55:334][297]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:268][353]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:301][355]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:352][358]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:435][363]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:501][367]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:685][378]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.56:751][382]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:201][409]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:235][411]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:302][415]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:368][419]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:402][421]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:536][429]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:569][431]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:635][435]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:785][444]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.57:935][453]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.59:419][542]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.59:752][562]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.47.59:852][568]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.00:051][580]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.00:235][591]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.00:352][598]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.00:518][608]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.01:368][659]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.01:451][664]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.01:602][673]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.01:718][680]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.02:118][704]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.02:202][709]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.02:565][730]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.03:482][785]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.03:566][790]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.03:949][813]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.04:449][843]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.04:847][866]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.06:597][971]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.06:747][980]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.07:248][ 10]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.07:629][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.12:433][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.23-20.48.12:433][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.23-20.48.12:434][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_132
+[2022.11.23-20.48.14:058][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.23-20.48.14:058][412]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001
+[2022.11.23-20.48.14:058][412]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Pillow_001.bedroom_Pillow_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_133
+[2022.11.23-20.48.14:090][413]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.17:541][610]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.17:674][618]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.17:724][621]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.17:791][625]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.17:957][635]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.18:058][641]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.18:140][646]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.18:691][679]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.19:024][699]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.19:471][725]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.23:813][985]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.26:953][163]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.27:003][166]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.27:085][171]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.27:194][177]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.28:748][270]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.28:863][277]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:031][287]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:097][291]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:147][294]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:197][297]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:314][304]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:414][310]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:464][313]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:530][317]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.29:930][341]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.30:341][365]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.40:455][969]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.44:104][188]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.46:257][317]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.48:690][463]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.51:190][613]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.53:325][741]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.53:479][749]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.53:549][753]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.53:590][755]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:089][777]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:621][809]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:655][811]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:688][813]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:739][816]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:771][818]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.54:855][823]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.55:022][833]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.55:355][853]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.55:388][855]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.48.56:151][900]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.09:893][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Table.bedroom_Table
+[2022.11.23-20.49.09:893][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Table.bedroom_Table
+[2022.11.23-20.49.09:894][719]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Table.bedroom_Table as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_134
+[2022.11.23-20.49.17:698][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Table.bedroom_Table
+[2022.11.23-20.49.17:698][187]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Table.bedroom_Table
+[2022.11.23-20.49.17:698][187]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Table.bedroom_Table as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_135
+[2022.11.23-20.49.17:727][188]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.21:679][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf
+[2022.11.23-20.49.21:679][419]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf
+[2022.11.23-20.49.21:680][419]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_136
+[2022.11.23-20.49.22:833][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf
+[2022.11.23-20.49.22:833][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf
+[2022.11.23-20.49.22:834][488]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Bookshelf.bedroom_Bookshelf as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_137
+[2022.11.23-20.49.22:882][489]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.25:219][629]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.29:019][857]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.32:242][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.32:311][ 45]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.32:644][ 65]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.32:777][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.32:877][ 79]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:027][ 88]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:444][113]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:478][115]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:511][117]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:544][119]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:644][125]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:677][127]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:711][129]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:745][131]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:795][134]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:827][136]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:861][138]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:927][142]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.33:961][144]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.34:077][151]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.34:590][181]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.38:592][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair
+[2022.11.23-20.49.38:592][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair
+[2022.11.23-20.49.38:592][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_138
+[2022.11.23-20.49.40:163][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair
+[2022.11.23-20.49.40:163][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair
+[2022.11.23-20.49.40:163][507]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Chair.bedroom_Chair as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_139
+[2022.11.23-20.49.40:193][508]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.41:487][585]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.41:667][595]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.41:740][599]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.41:793][602]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.41:869][605]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.41:926][607]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.42:059][612]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.42:128][615]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.42:194][619]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.42:628][644]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.43:845][717]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.43:894][720]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.43:994][726]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.44:377][748]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.49.50:827][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_PC.bedroom_PC
+[2022.11.23-20.49.50:827][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_PC.bedroom_PC
+[2022.11.23-20.49.50:827][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_PC.bedroom_PC as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_140
+[2022.11.23-20.49.53:354][275]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_PC.bedroom_PC
+[2022.11.23-20.49.53:354][275]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_PC.bedroom_PC
+[2022.11.23-20.49.53:355][275]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_PC.bedroom_PC as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_141
+[2022.11.23-20.50.02:508][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard
+[2022.11.23-20.50.02:508][814]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard
+[2022.11.23-20.50.02:508][814]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_142
+[2022.11.23-20.50.05:895][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard
+[2022.11.23-20.50.05:896][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard
+[2022.11.23-20.50.05:896][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Keyboard.bedroom_Keyboard as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_143
+[2022.11.23-20.50.20:319][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.23-20.50.20:319][869]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.23-20.50.20:319][869]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_144
+[2022.11.23-20.50.23:807][ 78]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.23-20.50.23:807][ 78]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001
+[2022.11.23-20.50.23:807][ 78]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_001.bedroom_Book_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_145
+[2022.11.23-20.51.49:674][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.49:674][204]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.49:674][204]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_146
+[2022.11.23-20.51.51:530][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.51:530][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.51:530][315]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_147
+[2022.11.23-20.51.53:766][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.53:766][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.53:766][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_148
+[2022.11.23-20.51.54:450][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.54:450][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.51.54:450][490]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_149
+[2022.11.23-20.52.19:260][962]Cmd: EDIT COPY
+[2022.11.23-20.52.19:526][978]Cmd: EDIT PASTE
+[2022.11.23-20.52.35:869][949]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.23-20.52.35:869][949]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.23-20.52.35:870][949]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book.bedroom_Book as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_151
+[2022.11.23-20.52.39:508][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.23-20.52.39:509][167]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.23-20.52.39:509][167]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book.bedroom_Book as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_152
+[2022.11.23-20.52.40:278][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.23-20.52.40:278][213]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book.bedroom_Book
+[2022.11.23-20.52.40:279][213]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book.bedroom_Book as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_153
+[2022.11.23-20.52.57:147][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.52.57:147][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.52.57:148][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_154
+[2022.11.23-20.52.59:218][329]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.52.59:218][329]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002
+[2022.11.23-20.52.59:218][329]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_002.bedroom_Book_002 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_155
+[2022.11.23-20.53.00:692][416]Cmd: TRANSACTION UNDO
+[2022.11.23-20.53.00:692][416]LogEditorTransaction: Undo Create Actors
+[2022.11.23-20.53.04:106][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.23-20.53.04:106][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.23-20.53.04:106][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_156
+[2022.11.23-20.53.06:677][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.23-20.53.06:677][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.23-20.53.06:677][755]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_157
+[2022.11.23-20.53.07:236][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.23-20.53.07:236][788]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003
+[2022.11.23-20.53.07:236][788]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Book_003.bedroom_Book_003 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_158
+[2022.11.23-20.53.19:207][493]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.19:624][518]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.19:856][531]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.20:423][565]Cmd: TRANSACTION UNDO
+[2022.11.23-20.53.20:423][565]LogEditorTransaction: Undo Move Elements
+[2022.11.23-20.53.20:489][566]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.32:713][259]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.32:847][267]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.33:266][291]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.38:516][605]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.40:010][689]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.40:410][713]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.40:709][730]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.41:827][797]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.42:226][820]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.49:942][272]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.50:409][300]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.53.50:925][330]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.05:523][163]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.06:022][193]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.06:285][208]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.10:394][448]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.10:811][473]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.10:977][483]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.11:137][492]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.12:071][548]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.12:331][563]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.19:424][985]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.19:820][  8]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.42:498][351]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.42:577][354]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.42:681][358]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.42:758][361]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.43:408][400]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.43:775][422]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.43:842][426]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.43:925][431]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.43:992][435]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.44:042][438]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.44:075][440]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.44:274][452]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.44:359][457]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.44:558][469]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.44:626][472]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.48:431][700]Cmd: EDIT COPY
+[2022.11.23-20.54.49:382][757]Cmd: EDIT PASTE
+[2022.11.23-20.54.49:420][758]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.51:558][886]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:013][908]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:090][911]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:146][913]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:279][919]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:313][921]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:346][923]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:379][925]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.52:763][947]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.54.55:260][ 96]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.01:755][463]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.01:855][469]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.01:939][474]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.01:988][477]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.02:121][485]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.02:471][506]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.02:802][525]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.05:431][682]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.07:794][818]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.13:103][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.23-20.55.13:104][126]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.23-20.55.13:104][126]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_160
+[2022.11.23-20.55.15:707][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.23-20.55.15:708][282]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant
+[2022.11.23-20.55.15:708][282]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Plant.bedroom_Plant as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_161
+[2022.11.23-20.55.27:283][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.55.27:283][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.55.27:283][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/door1.door1 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_162
+[2022.11.23-20.55.28:605][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.55.28:605][ 43]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/door1.door1
+[2022.11.23-20.55.28:605][ 43]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/door1.door1 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_163
+[2022.11.23-20.55.28:657][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.30:784][171]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.31:285][201]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.31:884][237]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.36:757][520]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.37:200][546]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.38:267][610]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.38:844][644]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.41:511][802]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.41:561][805]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.41:595][807]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.41:645][810]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.41:695][813]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.41:777][818]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.42:044][834]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.42:178][842]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.42:911][886]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.43:323][910]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.44:233][964]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.47:568][162]Cmd: EDIT COPY
+[2022.11.23-20.55.47:869][180]Cmd: EDIT PASTE
+[2022.11.23-20.55.47:904][181]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.49:026][248]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.49:432][268]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.49:530][272]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.49:584][274]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.49:685][278]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.49:730][280]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.52:781][463]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:662][635]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:696][637]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:745][640]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:778][642]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:828][645]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:878][648]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.55:945][652]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.56:028][657]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.56:195][667]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.56:345][676]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.55.56:757][700]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.00:904][948]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.02:810][ 62]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.02:843][ 64]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.02:926][ 69]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.02:959][ 71]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.03:009][ 74]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.03:059][ 77]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.28:918][609]Cmd: EDIT COPY
+[2022.11.23-20.56.31:785][779]Cmd: EDIT COPY
+[2022.11.23-20.56.32:054][795]Cmd: EDIT PASTE
+[2022.11.23-20.56.32:117][796]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.34:145][906]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.35:529][989]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.35:562][991]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.35:611][994]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.35:728][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.35:812][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.35:946][ 13]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.37:859][127]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.39:160][200]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.39:460][218]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.39:888][243]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.56.58:148][335]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.00:450][473]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.02:318][585]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.07:421][881]Cmd: EDIT COPY
+[2022.11.23-20.57.08:505][946]Cmd: EDIT PASTE
+[2022.11.23-20.57.08:541][947]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:361][225]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:592][235]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:642][238]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:692][241]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:742][244]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:825][249]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:859][251]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:892][253]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:942][256]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.13:975][258]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:025][261]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:108][266]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:158][269]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:258][275]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:359][281]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:543][292]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.14:725][303]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.15:011][319]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:010][850]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:044][852]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:160][859]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:294][867]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:427][875]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:510][880]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:560][883]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:693][891]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.24:903][903]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.33:894][433]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/window.window
+[2022.11.23-20.57.33:894][433]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/window.window
+[2022.11.23-20.57.33:895][433]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/window.window as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_167
+[2022.11.23-20.57.35:531][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/window.window
+[2022.11.23-20.57.35:531][531]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/window.window
+[2022.11.23-20.57.35:532][531]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/window.window as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_168
+[2022.11.23-20.57.43:670][ 14]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.44:019][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.44:129][ 41]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.45:439][119]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.45:605][129]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.45:656][132]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.45:773][139]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.45:939][149]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.45:989][152]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.46:022][154]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.46:156][162]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.46:239][167]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.46:572][187]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.46:732][196]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.47:898][266]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.48:341][292]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.52:057][514]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.54:626][668]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.57.54:694][672]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-20.58.01:036][ 42]Cmd: EDIT COPY
+[2022.11.23-20.58.01:653][ 79]Cmd: EDIT PASTE
+[2022.11.23-20.58.40:250][351]Cmd: EDIT COPY
+[2022.11.23-20.58.40:620][373]Cmd: EDIT PASTE
+[2022.11.23-20.59.39:188][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.23-20.59.39:188][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.23-20.59.39:188][827]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_169
+[2022.11.23-20.59.42:244][ 10]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.23-20.59.42:244][ 10]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.23-20.59.42:244][ 10]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_170
+[2022.11.23-20.59.43:179][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.23-20.59.43:179][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001
+[2022.11.23-20.59.43:180][ 66]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Succulent_001.bedroom_Succulent_001 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_171
+[2022.11.23-21.00.29:584][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.23-21.00.29:584][793]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.23-21.00.29:584][793]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Board.bedroom_Board as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_172
+[2022.11.23-21.00.31:738][922]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.23-21.00.31:738][922]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/bedroom_Board.bedroom_Board
+[2022.11.23-21.00.31:739][922]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/bedroom_Board.bedroom_Board as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_173
+[2022.11.23-21.01.51:044][607]Cmd: DELETE
+[2022.11.23-21.01.51:044][607]Cmd: ACTOR DELETE
+[2022.11.23-21.01.51:048][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.23-21.01.51:057][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.23-21.01.51:066][607]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.11.23-21.01.51:094][608]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.24:919][625]Cmd: EDIT COPY
+[2022.11.23-21.02.25:224][643]Cmd: EDIT PASTE
+[2022.11.23-21.02.25:262][644]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.27:245][755]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.27:539][770]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.27:573][772]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.27:606][774]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.27:639][776]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.27:905][792]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.28:189][809]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.28:273][814]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.28:373][820]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.28:506][828]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.28:556][831]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.28:722][841]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.29:173][868]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.29:205][870]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.29:439][883]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.34:721][199]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.23-21.02.46:630][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.23-21.02.46:697][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.23-21.02.46:731][896]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.23-21.02.46:732][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap56E3EFFD49835EF65BD2A0B35295C8B0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.23-21.02.46:741][896]LogFileHelpers: No new changes to save!
+[2022.11.23-21.02.46:741][896]LogFileHelpers: Saving map 'VRTemplateMap' took 0.051
+[2022.11.23-21.02.48:766][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.02.51:540][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003014s (2.786231s overbudget)
+[2022.11.23-21.02.51:543][896]LogShaderCompilers: Display: ================================================
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Total job queries 5151, among them cache hits 766 (14.87%)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Tracking 4338 distinct input hashes that result in 1385 distinct outputs (31.93%)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: RAM used: 7.02 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.86%
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Shaders Compiled: 3616
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Jobs assigned 4338, completed 4338 (100.00%)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Average time worker was idle: 436.59 s
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Time job spent in pending queue: average 29.56 s, longest 296.55 s
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Job execution time: average 20.61 s, max 106.98 s
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Job life time (pending + execution): average 50.17 s, max 300.30
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1756.01 s
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Jobs were issued in 2010 batches (only local compilation was used), average 2.16 jobs/batch
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Average processing rate: 2.47 jobs/sec
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Effective parallelization: 8.52 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled   11 times, average 11.59 sec, max 14.08 sec, min 5.16 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 11.57 sec, max 13.63 sec, min 5.62 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled   11 times, average 11.33 sec, max 13.52 sec, min 5.34 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   11 times, average 11.07 sec, max 14.03 sec, min 5.17 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled   11 times, average 10.97 sec, max 12.93 sec, min 5.29 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.43% of total time (compiled  229 times, average 5.50 sec, max 13.02 sec, min 0.58 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.07% of total time (compiled  292 times, average 4.13 sec, max 13.20 sec, min 0.53 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.74% of total time (compiled  183 times, average 6.32 sec, max 13.79 sec, min 3.32 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.60% of total time (compiled  183 times, average 6.21 sec, max 14.19 sec, min 2.36 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.43% of total time (compiled  183 times, average 6.07 sec, max 13.68 sec, min 2.23 sec)
+[2022.11.23-21.02.51:544][896]LogShaderCompilers: Display: ================================================
+[2022.11.23-21.02.51:575][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_intdoor_dxf_001
+[2022.11.23-21.02.51:575][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_intdoor_dxf_001F52E3EC74F0F292C3BEB8FAD782619BA.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_intdoor_dxf_001.uasset'
+[2022.11.23-21.02.53:773][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.02.55:703][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005120s (2.116374s overbudget)
+[2022.11.23-21.02.55:732][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_intdoor_dxf_002
+[2022.11.23-21.02.55:732][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_intdoor_dxf_002627782254E22B9D06A6D839E57F020F1.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_intdoor_dxf_002.uasset'
+[2022.11.23-21.02.57:937][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.02.59:878][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004027s (2.134830s overbudget)
+[2022.11.23-21.02.59:905][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Drevo_Ciene" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Drevo_Ciene.uasset" SILENT=true
+[2022.11.23-21.02.59:906][896]LogSavePackage: Moving output files for package: /Game/Assets/Drevo_Ciene
+[2022.11.23-21.02.59:906][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Drevo_CieneEAC51E9E4C6F0CBF0F7E91A750DE83B5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Drevo_Ciene.uasset'
+[2022.11.23-21.03.02:098][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.03:949][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000004s (2.032929s overbudget)
+[2022.11.23-21.03.03:977][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Nerez" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Nerez.uasset" SILENT=true
+[2022.11.23-21.03.03:979][896]LogSavePackage: Moving output files for package: /Game/Assets/Nerez
+[2022.11.23-21.03.03:979][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Nerez81D9691E409F84782C227797E50A30A5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/Nerez.uasset'
+[2022.11.23-21.03.06:066][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.08:534][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004906s (2.544112s overbudget)
+[2022.11.23-21.03.08:564][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_ncl1_2
+[2022.11.23-21.03.08:564][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_Rig24076457439AE26F20D5C98CB58629B9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_002_ncl1_2.uasset'
+[2022.11.23-21.03.10:649][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.13:218][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001015s (2.643268s overbudget)
+[2022.11.23-21.03.13:248][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_001_ncl1_1
+[2022.11.23-21.03.13:248][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_Rig78CF96F84A0FFFBF2DCA5590F0FEF629.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_001_ncl1_1.uasset'
+[2022.11.23-21.03.15:446][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.17:805][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000943s (2.546424s overbudget)
+[2022.11.23-21.03.17:834][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_ncl1_1
+[2022.11.23-21.03.17:834][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_Rig1FA3879E4C523BED77EACD9FD9A5BE85.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_002_ncl1_1.uasset'
+[2022.11.23-21.03.20:026][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.21:865][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002456s (2.019686s overbudget)
+[2022.11.23-21.03.21:894][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_001
+[2022.11.23-21.03.21:894][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_Rig9937137740DB69693C8AEAB658AB0AA1.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_001.uasset'
+[2022.11.23-21.03.23:976][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.26:039][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005031s (2.135492s overbudget)
+[2022.11.23-21.03.26:069][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_001
+[2022.11.23-21.03.26:069][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_RigAF62D065470FD0C404FAFEB5AF5AAE50.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_002_001.uasset'
+[2022.11.23-21.03.28:152][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.30:107][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005020s (2.028755s overbudget)
+[2022.11.23-21.03.30:136][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_001_001
+[2022.11.23-21.03.30:136][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_RigEEA921FB468C5D9A2FE197B1F03EEFFE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_001_001.uasset'
+[2022.11.23-21.03.32:316][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.23-21.03.34:178][896]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002862s (2.032730s overbudget)
+[2022.11.23-21.03.34:207][896]LogSavePackage: Moving output files for package: /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_002
+[2022.11.23-21.03.34:207][896]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/dbl_French_Door_Slab_-_36__-_Rig553EAF8B48601B9CA39D84832033462C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/Assets/dbl_French_Door_Slab_-_36__-_Right_002_002.uasset'
+[2022.11.23-21.03.34:219][896]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.23-21.03.34:219][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_ncl1_2.dbl_French_Door_Slab_-_36__-_Right_002_ncl1_2
+[2022.11.23-21.03.34:219][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_001_ncl1_1.dbl_French_Door_Slab_-_36__-_Right_001_ncl1_1
+[2022.11.23-21.03.34:219][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_001.dbl_French_Door_Slab_-_36__-_Right_002_001
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/Drevo_Ciene.Drevo_Ciene
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_intdoor_dxf_002.dbl_intdoor_dxf_002
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_intdoor_dxf_001.dbl_intdoor_dxf_001
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/Nerez.Nerez
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_ncl1_1.dbl_French_Door_Slab_-_36__-_Right_002_ncl1_1
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_001.dbl_French_Door_Slab_-_36__-_Right_001
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_002_002.dbl_French_Door_Slab_-_36__-_Right_002_002
+[2022.11.23-21.03.34:220][896]LogContentValidation: Display: Validating Material /Game/Assets/dbl_French_Door_Slab_-_36__-_Right_001_001.dbl_French_Door_Slab_-_36__-_Right_001_001
