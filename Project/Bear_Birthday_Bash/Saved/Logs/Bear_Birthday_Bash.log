@@ -784,3 +784,223 @@ Recommended: 516.25
 [2022.11.26-23.07.41:087][439]LogSlate: Window 'HumanBehavior' being destroyed
 [2022.11.26-23.07.41:093][439]LogSlate: Window 'HumanBehavior' being destroyed
 [2022.11.26-23.07.45:212][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.26-23.08.16:719][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-23.08.16:720][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-23.08.32:312][ 85]LogSlate: Window 'Human_AI_Kitchen' being destroyed
+[2022.11.26-23.08.32:318][ 85]LogSlate: Window 'Human_AI_Kitchen' being destroyed
+[2022.11.26-23.08.32:321][ 85]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-23.08.32:321][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-23.08.33:127][132]LogDerivedDataCache: C:/Users/inter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.275 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-23.08.33:303][142]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.11.26-23.08.33:312][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.26-23.08.33:312][142]PIE: New page: PIE session: VRTemplateMap (Nov 26, 2022, 9:08:33 AM)
+[2022.11.26-23.08.33:315][142]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.26-23.08.33:315][142]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.26-23.08.33:315][142]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.26-23.08.33:323][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007497s)
+[2022.11.26-23.08.33:323][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007551s)
+[2022.11.26-23.08.33:323][142]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.26-23.08.33:323][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-23.08.33:323][142]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.26-23.08.33:324][142]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2022.11.26-23.08.33:341][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.26-23.08.33:341][142]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.26-23.08.33:341][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.26-23.08.33:341][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.26-23.08.33:341][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.26-23.08.33:341][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.26-23.08.33:342][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.26-23.08.33:342][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.26-23.08.33:342][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.26-23.08.33:342][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.26-23.08.33:342][142]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.26-23.08.33:342][142]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.26-23.08.33:342][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.26-23.08.33:343][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.26-23.08.33:380][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.26-23.08.33:380][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.26-23.08.33:380][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.26-23.08.33:380][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.26-23.08.33:381][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.26-23.08.33:381][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.26-23.08.33:383][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.26-23.08.33:383][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.26-23.08.33:383][142]LogInit: FAudioDevice initialized.
+[2022.11.26-23.08.33:383][142]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.11.26-23.08.33:410][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-23.08.33:423][142]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.26-23.08.33:427][142]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.11.26-16.08.33
+[2022.11.26-23.08.33:428][142]LogWorld: Bringing up level for play took: 0.004775
+[2022.11.26-23.08.33:430][142]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.11.26-23.08.33:431][142]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.26-23.08.33:452][142]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.26-23.08.33:454][142]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.26-23.08.33:456][142]Cmd: vr.PixelDensity 1.0
+[2022.11.26-23.08.33:457][142]vr.PixelDensity = "1"
+[2022.11.26-23.08.33:459][142]PIE: Server logged in
+[2022.11.26-23.08.33:460][142]PIE: Play in editor total start time 0.148 seconds.
+[2022.11.26-23.08.33:517][142]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.26-23.08.33:551][142]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.26-23.08.33:573][142]LogRenderer: Warning: Resizing VR buffer to 3648 by 1840
+[2022.11.26-23.08.33:871][144]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.11.26-23.08.36:455][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-23.08.36:455][226]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.26-23.08.36:523][226]LogSlate: Window 'Bear_Birthday_Bash Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.11.26-23.08.36:525][226]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-23.08.36:526][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-23.08.36:543][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.26-23.08.36:547][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-23.08.36:576][226]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.26-23.08.36:576][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.26-23.08.36:579][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.26-23.08.36:601][226]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.26-23.08.36:601][226]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.26-23.08.36:609][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.26-23.08.36:663][227]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.11.26-23.08.37:795][293]LogTurnkeySupport: Display: Adding device menu item for THE-FAVORITE-CH
+[2022.11.26-23.08.37:796][293]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Bear_Birthday_Bash.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Intermediate/TurnkeyReport_1.log" -log="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Intermediate/TurnkeyLog_1.log" -project="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Bear_Birthday_Bash.uproject"  -Device=Android_ASTC@1WMHH8609W1263+Android_Multi@1WMHH8609W1263+Win64@THE-FAVORITE-CH'
+[2022.11.26-23.08.37:796][293]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Bear_Birthday_Bash.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Intermediate/TurnkeyReport_1.log" -log="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Intermediate/TurnkeyLog_1.log" -project="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Bear_Birthday_Bash.uproject"  -Device=Android_ASTC@1WMHH8609W1263+Android_Multi@1WMHH8609W1263+Win64@THE-FAVORITE-CH" -nocompile ]
+[2022.11.26-23.08.38:320][324]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.26-23.08.38:320][324]LogTurnkeySupport: Turnkey Device: Win64@THE-FAVORITE-CH: (Name=THE-FAVORITE-CH, Status=Valid, Installed=10.0.22000.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.11.26-23.08.50:406][996]Cmd: DELETE
+[2022.11.26-23.08.50:406][996]Cmd: ACTOR DELETE
+[2022.11.26-23.08.50:415][996]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.26-23.08.50:451][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.26-23.08.50:456][996]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.11.26-23.08.50:500][997]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.08.53:228][150]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-23.08.53:228][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-23.08.57:810][393]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-23.09.12:274][197]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-23.09.12:321][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.26-23.09.13:493][259]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-23.09.13:494][259]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacterC0957E8247A127579204428CF00D3011.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-23.09.13:505][259]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-23.09.13:505][259]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-23.09.18:378][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-23.09.18:378][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-23.09.18:379][540]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_0
+[2022.11.26-23.09.18:380][540]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_0
+[2022.11.26-23.09.19:892][630]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-23.09.19:892][630]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-23.09.19:894][630]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_1
+[2022.11.26-23.09.19:895][630]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_1
+[2022.11.26-23.09.19:924][631]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:054][698]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:186][706]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:219][708]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:286][712]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:387][718]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:453][722]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:487][724]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:520][726]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:836][745]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.21:920][750]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.22:286][772]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.22:336][775]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.22:836][805]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.23:256][829]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.25:013][932]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.25:178][939]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.25:282][943]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.25:503][954]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.25:702][966]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.25:919][979]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.26:002][984]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.26:120][991]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.26:286][  1]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.26:352][  5]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.26:556][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.32:293][349]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.48:321][238]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.50:321][342]LogEditorTransaction: Undo Change Variable Category
+[2022.11.26-23.09.50:403][343]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.54:120][538]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.09.59:249][810]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.00:792][894]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.02:963][  9]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.06:693][206]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.08:725][315]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.10:321][401]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.11:624][470]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.13:362][557]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-23.10.13:363][557]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacterC24AEC6E4C39029F58018FAE6C4834A7.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-23.10.13:379][557]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-23.10.13:379][557]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-23.10.14:575][626]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-23.10.14:630][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.26-23.10.14:682][627]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-23.10.20:334][942]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.11.26-23.10.20:339][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.26-23.10.20:339][942]PIE: New page: PIE session: VRTemplateMap (Nov 26, 2022, 9:10:20 AM)
+[2022.11.26-23.10.20:339][942]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.26-23.10.20:347][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007797s)
+[2022.11.26-23.10.20:347][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007856s)
+[2022.11.26-23.10.20:347][942]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.26-23.10.20:347][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-23.10.20:347][942]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.26-23.10.20:348][942]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2022.11.26-23.10.20:370][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.26-23.10.20:371][942]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.26-23.10.20:371][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.26-23.10.20:371][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.26-23.10.20:371][942]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.26-23.10.20:372][942]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.26-23.10.20:372][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.26-23.10.20:373][942]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.26-23.10.20:408][942]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.26-23.10.20:409][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.26-23.10.20:409][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.26-23.10.20:409][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.26-23.10.20:409][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.26-23.10.20:409][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.26-23.10.20:410][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.26-23.10.20:411][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.26-23.10.20:411][942]LogInit: FAudioDevice initialized.
+[2022.11.26-23.10.20:411][942]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.11.26-23.10.20:440][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-23.10.20:625][942]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.26-23.10.20:631][942]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.11.26-16.10.20
+[2022.11.26-23.10.20:633][942]LogWorld: Bringing up level for play took: 0.007821
+[2022.11.26-23.10.20:637][942]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.11.26-23.10.20:638][942]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.26-23.10.20:639][942]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.26-23.10.20:642][942]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.26-23.10.20:645][942]Cmd: vr.PixelDensity 1.0
+[2022.11.26-23.10.20:645][942]vr.PixelDensity = "1"
+[2022.11.26-23.10.20:652][942]PIE: Server logged in
+[2022.11.26-23.10.20:657][942]PIE: Play in editor total start time 0.319 seconds.
+[2022.11.26-23.10.20:663][942]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.26-23.10.20:725][942]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.26-23.10.20:769][943]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.11.26-23.10.23:675][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.26-23.10.23:675][ 71]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.26-23.10.23:714][ 71]LogSlate: Window 'Bear_Birthday_Bash Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.11.26-23.10.23:719][ 71]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-23.10.23:719][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-23.10.23:732][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.26-23.10.23:735][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-23.10.23:760][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.26-23.10.23:761][ 71]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.26-23.10.23:761][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.26-23.10.23:762][ 71]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.26-23.10.23:772][ 71]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.26-23.10.23:772][ 71]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.26-23.10.23:774][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.26-23.10.23:838][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.11.26-23.10.36:550][804]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/VRTemplate/Blueprints/Humans/HumanBlackboard.HumanBlackboard
+[2022.11.26-23.10.46:333][387]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/VRTemplate/Blueprints/Humans/HumanBehavior.HumanBehavior
+[2022.11.26-23.11.04:019][433]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanBehavior
+[2022.11.26-23.11.04:019][433]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanBehavior6930579F4D8C16A6EC391FA14BFC9683.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanBehavior.uasset'
+[2022.11.26-23.11.04:029][433]AssetCheck: New page: Asset Save: HumanBehavior
+[2022.11.26-23.11.04:029][433]LogContentValidation: Display: Validating BehaviorTree /Game/VRTemplate/Blueprints/Humans/HumanBehavior.HumanBehavior
+[2022.11.26-23.11.05:468][517]LogSlate: Window 'HumanBehavior' being destroyed
+[2022.11.26-23.11.05:473][517]LogSlate: Window 'HumanBehavior' being destroyed
+[2022.11.26-23.11.05:476][517]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-23.11.05:476][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
