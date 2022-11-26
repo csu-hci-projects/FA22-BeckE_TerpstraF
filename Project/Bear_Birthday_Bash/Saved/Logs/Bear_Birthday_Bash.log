@@ -928,3 +928,244 @@ Recommended: 516.25
 [2022.11.26-18.36.20:371][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.11.26-18.51.12:615][479]LogDerivedDataCache: C:/Users/inter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.027 and deleted 0 file(s) with total size 0 MiB.
 [2022.11.26-19.05.01:036][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.26-19.07.07:171][564]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2022.11.26-19.07.07:171][564]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21908
+[2022.11.26-19.10.01:377][564]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-173992ms], ThreadID=21908
+[2022.11.26-19.10.01:377][564]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d4907a6c-2e6d-4dfa-b742-8aba11ade823}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=34.64
+[2022.11.26-19.10.01:377][564]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.26-19.10.02:432][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5CA3E02A-40B4-860C-1CD5-878C758EE804%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=6a0c739e42a3fec12cc675a657d606b3%7C8f73409b00e844b0bbf9ab9d85826e6a%7Cff70ec86-2801-4619-a1b6-72e3dd9bbeb5&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb47ba8e0000 [can pipeline])
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.205.206.147) port 443 (#0))
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: 00000B481AFE2D00: libcurl info message cache 7 (Closing connection 0)
+[2022.11.26-19.10.02:784][567]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5CA3E02A-40B4-860C-1CD5-878C758EE804%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=6a0c739e42a3fec12cc675a657d606b3%7C8f73409b00e844b0bbf9ab9d85826e6a%7Cff70ec86-2801-4619-a1b6-72e3dd9bbeb5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.26-19.44.49:619][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.26-19.44.49:619][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.26-19.44.49:624][892]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_0
+[2022.11.26-19.44.49:650][892]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_0
+[2022.11.26-19.44.49:823][893]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.44.54:721][173]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.44.58:020][371]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.00:454][517]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.03:554][703]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.05:837][840]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.08:121][977]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:514][180]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:564][183]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:614][186]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:664][189]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:780][196]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:830][199]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.11:947][206]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.12:081][214]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.12:164][219]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.12:464][237]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.12:948][265]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.17:298][526]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.19:758][673]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.19:874][680]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.19:958][685]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.20:058][691]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.20:224][701]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.20:558][721]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.20:641][726]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.21:174][758]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.21:525][778]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.25:560][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.35:792][623]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.40:676][916]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.42:375][ 18]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.45.59:391][ 11]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.46.01:237][121]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.46.01:736][151]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.46.02:104][172]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.46.02:872][217]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-19.46.28:349][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.26-19.46.28:384][443]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3
+[2022.11.26-19.46.28:385][443]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap_Auto3925566B240231244B89673A5D3B28249.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2022.11.26-19.46.28:395][443]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.130
+[2022.11.26-19.46.28:395][443]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.130
+[2022.11.26-19.49.28:003][223]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.26-19.49.28:010][223]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.26-19.49.28:015][223]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.26-19.49.28:024][224]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.26-19.49.34:012][571]LogContentBrowser: Attempting asset rename: NewBlueprint -> HumanController
+[2022.11.26-19.49.34:022][571]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.26-19.49.34:815][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/HumanController.HumanController
+[2022.11.26-19.49.34:815][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-19.49.35:356][619]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-19.51.27:139][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.26-19.51.27:139][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-19.51.46:978][632]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.11.26-19.51.46:978][632]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRPawn4EA771544A0483C76BB139BA5FBCFD8A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.11.26-19.51.46:996][632]AssetCheck: New page: Asset Save: VRPawn
+[2022.11.26-19.51.46:996][632]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.26-19.51.47:444][659]BlueprintLog: New page: Compile VRPawn
+[2022.11.26-19.51.47:518][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.26-19.51.49:986][793]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.11.26-19.51.49:987][793]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRPawn059716E04DCA94FC5F6E479197945674.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.11.26-19.51.50:000][793]AssetCheck: New page: Asset Save: VRPawn
+[2022.11.26-19.51.50:000][793]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.26-19.52.13:633][180]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/HumanController
+[2022.11.26-19.52.13:633][180]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanControllerC9087CDE4B041E597E4353AA6C7D104F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/HumanController.uasset'
+[2022.11.26-19.52.13:642][180]AssetCheck: New page: Asset Save: HumanController
+[2022.11.26-19.52.13:642][180]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/HumanController.HumanController
+[2022.11.26-19.52.13:935][198]BlueprintLog: New page: Compile HumanController
+[2022.11.26-19.52.13:977][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.26-19.54.07:264][859]LogDerivedDataCache: C:/Users/inter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.711 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-19.55.46:007][634]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/LowerSuspicionInteractables.LowerSuspicionInteractables
+[2022.11.26-19.55.46:007][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-19.56.15:931][389]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Add_IntInt' [The specified module could not be found.]
+[2022.11.26-20.00.02:983][735]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/HumanController
+[2022.11.26-20.00.02:984][735]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanController6A8CB40F4B71E4AC9F2EE389F56AFECA.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/HumanController.uasset'
+[2022.11.26-20.00.03:000][735]AssetCheck: New page: Asset Save: HumanController
+[2022.11.26-20.00.03:001][735]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/HumanController.HumanController
+[2022.11.26-20.00.03:568][769]BlueprintLog: New page: Compile HumanController
+[2022.11.26-20.00.03:624][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.26-20.01.48:182][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.26-20.01.48:184][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.033
+[2022.11.26-20.01.48:184][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/HumanController] ([2] browsable assets)...
+[2022.11.26-20.01.48:184][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/HumanController]
+[2022.11.26-20.01.48:189][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/HumanController_Auto4
+[2022.11.26-20.01.48:189][383]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanController_Auto4606C718943F35AEAC3FF11B27A8925B7.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Blueprints/HumanController_Auto4.uasset'
+[2022.11.26-20.01.48:190][383]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.11.26-20.09.25:838][557]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.11.26-20.09.25:838][557]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRPawnBCB581974FCD72E7BBCB13A5422198C8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.11.26-20.09.25:854][557]AssetCheck: New page: Asset Save: VRPawn
+[2022.11.26-20.09.25:854][557]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.26-20.09.26:369][588]BlueprintLog: New page: Compile VRPawn
+[2022.11.26-20.09.26:454][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.26-20.12.44:762][169]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/HumanController
+[2022.11.26-20.12.44:763][169]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanControllerD9386F744552F0E8BADF61810BC90D11.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/HumanController.uasset'
+[2022.11.26-20.12.44:775][169]AssetCheck: New page: Asset Save: HumanController
+[2022.11.26-20.12.44:775][169]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/HumanController.HumanController
+[2022.11.26-20.12.45:252][198]BlueprintLog: New page: Compile HumanController
+[2022.11.26-20.12.45:306][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.26-20.16.57:858][328]LogSlate: Window 'LowerSuspicionInteractables' being destroyed
+[2022.11.26-20.16.57:862][328]LogSlate: Window 'LowerSuspicionInteractables' being destroyed
+[2022.11.26-20.16.57:865][328]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.16.57:865][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.16.57:923][328]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-20.16.57:924][328]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.16.57:924][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.16.57:994][328]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-20.16.57:994][328]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.16.57:994][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.18.45:499][512]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.26-20.18.45:510][512]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.26-20.18.45:525][513]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.26-20.18.47:507][615]LogContentBrowser: Attempting asset rename: NewFolder -> Humans
+[2022.11.26-20.18.47:508][615]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.HumanController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.SKEL_HumanController_C' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.HumanController_C' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.HumanController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.HumanController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.HumanController:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.SKEL_HumanController_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.SKEL_HumanController_C:BndEvt__HumanController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.SKEL_HumanController_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.SKEL_HumanController_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:085][992]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/HumanController.SKEL_HumanController_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/HumanController.PackageMetaData'
+[2022.11.26-20.18.54:142][992]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanController
+[2022.11.26-20.18.54:142][992]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanController0A646E544DD572DD0340F89D94E3C950.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanController.uasset'
+[2022.11.26-20.18.54:207][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.26-20.18.54:232][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.26-20.18.54:250][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.26-20.18.54:277][992]AssetCheck: New page: Asset Save: HumanController
+[2022.11.26-20.18.54:277][992]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanController.HumanController
+[2022.11.26-20.18.58:383][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/HumanController.HumanController
+[2022.11.26-20.18.58:383][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.19.00:779][338]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanController
+[2022.11.26-20.19.00:780][338]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanController50558995436DB44C707F2EB225490D9C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanController.uasset'
+[2022.11.26-20.19.00:793][338]AssetCheck: New page: Asset Save: HumanController
+[2022.11.26-20.19.00:794][338]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanController.HumanController
+[2022.11.26-20.19.01:210][363]BlueprintLog: New page: Compile HumanController
+[2022.11.26-20.19.01:252][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.26-20.19.11:756][967]LogSlate: Window 'HumanController' being destroyed
+[2022.11.26-20.19.11:762][967]LogSlate: Window 'HumanController' being destroyed
+[2022.11.26-20.19.11:765][967]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.19.11:766][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.19.43:833][764]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.26-20.19.43:833][764]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2022.11.26-20.19.43:834][764]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.NavMeshBoundsVolume_0
+[2022.11.26-20.19.43:842][764]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.NavMeshBoundsVolume_0
+[2022.11.26-20.19.44:018][766]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-20.19.52:013][220]Cmd: DELETE
+[2022.11.26-20.19.52:013][220]Cmd: ACTOR DELETE
+[2022.11.26-20.19.52:023][220]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2022.11.26-20.19.52:050][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.26-20.19.52:064][220]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.11.26-20.19.52:089][222]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-20.21.20:382][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.11.26-20.21.20:408][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5
+[2022.11.26-20.21.20:409][336]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap_Auto51E6F57FD405ACD8817E10A8F865391D4.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5.umap'
+[2022.11.26-20.21.20:416][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.049
+[2022.11.26-20.21.20:416][336]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.11.26-20.22.01:312][487]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-20.22.30:847][487]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.26-20.22.30:853][487]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.26-20.22.30:859][487]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.26-20.22.30:868][488]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.26-20.22.39:368][976]LogContentBrowser: Attempting asset rename: NewBlueprint -> Human_Controller
+[2022.11.26-20.22.39:374][976]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.26-20.22.42:065][134]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/HumanController.HumanController
+[2022.11.26-20.22.42:066][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.22.55:692][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.22.55:692][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.22.55:990][911]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-20.23.52:266][192]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_Controller
+[2022.11.26-20.23.52:266][192]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_Controller4CE34E204B3AFCE723A829B13AB107E5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_Controller.uasset'
+[2022.11.26-20.23.52:279][192]AssetCheck: New page: Asset Save: Human_Controller
+[2022.11.26-20.23.52:279][192]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.23.52:721][219]BlueprintLog: New page: Compile Human_Controller
+[2022.11.26-20.23.52:724][219]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\Human_Controller.uasset: [Compiler] Could not find a variable named "IsAdult" in 'Human_Controller_C'.
+Make sure 'Human_Controller_C' has been compiled for  Get IsAdult
+[2022.11.26-20.23.52:724][219]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\Human_Controller.uasset: [Compiler] Could not find a variable named "IsAdult" in 'Human_Controller_C'.
+Make sure 'Human_Controller_C' has been compiled for  Get IsAdult
+[2022.11.26-20.23.52:725][219]LogBlueprint: Error: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\Human_Controller.uasset: [Compiler] The property associated with  Is Adult  could not be found in '/Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller_C'
+[2022.11.26-20.23.52:726][219]LogBlueprint: Error: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\Human_Controller.uasset: [Compiler] The property associated with  Is Adult  could not be found in '/Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller_C'
+[2022.11.26-20.23.52:769][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.26-20.24.06:457][  4]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_Controller
+[2022.11.26-20.24.06:458][  4]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_ControllerC0E0D5634947224661FF609B2D4F7F7B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_Controller.uasset'
+[2022.11.26-20.24.06:469][  4]AssetCheck: New page: Asset Save: Human_Controller
+[2022.11.26-20.24.06:469][  4]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.24.08:036][ 96]BlueprintLog: New page: Compile Human_Controller
+[2022.11.26-20.24.08:077][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.26-20.24.10:451][230]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.24.10:451][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.24.16:800][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.26-20.24.17:808][598]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.26-20.24.17:838][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.26-20.24.17:858][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.26-20.24.17:879][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.26-20.26.19:135][497]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2022.11.26-20.26.19:142][497]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2022.11.26-20.26.19:152][498]LogContentBrowser: Renaming the item being created (Deferred Item: NewBehaviorTree).
+[2022.11.26-20.26.32:586][262]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> HumanBehavior
+[2022.11.26-20.26.32:587][262]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2022.11.26-20.26.47:869][131]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2022.11.26-20.26.47:875][131]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2022.11.26-20.26.47:885][132]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlackboardData).
+[2022.11.26-20.26.53:388][439]LogContentBrowser: Attempting asset rename: NewBlackboardData -> HumanBlackboard
+[2022.11.26-20.26.53:389][439]LogContentBrowser: End creating deferred item NewBlackboardData
+[2022.11.26-20.27.09:769][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.26-20.27.09:852][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.26-20.27.09:877][379]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.26-20.27.09:878][379]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMapAE8FFB8C44ACA544F31347BE09D4ADEA.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.26-20.27.09:884][379]LogFileHelpers: No new changes to save!
+[2022.11.26-20.27.09:884][379]LogFileHelpers: Saving map 'VRTemplateMap' took 0.053
+[2022.11.26-20.27.09:885][379]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanBehavior
+[2022.11.26-20.27.09:885][379]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanBehavior3C5A687E404CC3D583BC179C2AB9CE39.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanBehavior.uasset'
+[2022.11.26-20.27.09:886][379]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanBlackboard
+[2022.11.26-20.27.09:886][379]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanBlackboard07E330244D26D718DE61C4B5530F4D12.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanBlackboard.uasset'
+[2022.11.26-20.27.09:903][379]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.26-20.27.09:903][379]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.26-20.27.09:903][379]LogContentValidation: Display: Validating BlackboardData /Game/VRTemplate/Blueprints/Humans/HumanBlackboard.HumanBlackboard
+[2022.11.26-20.27.09:903][379]LogContentValidation: Display: Validating BehaviorTree /Game/VRTemplate/Blueprints/Humans/HumanBehavior.HumanBehavior
