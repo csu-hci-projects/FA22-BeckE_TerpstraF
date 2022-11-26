@@ -1169,3 +1169,829 @@ Make sure 'Human_Controller_C' has been compiled for  Get IsAdult
 [2022.11.26-20.27.09:903][379]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2022.11.26-20.27.09:903][379]LogContentValidation: Display: Validating BlackboardData /Game/VRTemplate/Blueprints/Humans/HumanBlackboard.HumanBlackboard
 [2022.11.26-20.27.09:903][379]LogContentValidation: Display: Validating BehaviorTree /Game/VRTemplate/Blueprints/Humans/HumanBehavior.HumanBehavior
+[2022.11.26-20.32.58:274][ 89]LogSlate: Window 'Human_Controller' being destroyed
+[2022.11.26-20.32.58:281][ 89]LogSlate: Window 'Human_Controller' being destroyed
+[2022.11.26-20.32.58:283][ 89]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-20.32.58:283][ 89]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.32.58:283][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.33.38:614][444]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerSphere
+[2022.11.26-20.33.38:614][444]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerSphere
+[2022.11.26-20.33.38:616][444]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerSphere as actor: TriggerSphere /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.TriggerSphere_0
+[2022.11.26-20.33.38:616][444]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerSphere as actor: TriggerSphere /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.TriggerSphere_0
+[2022.11.26-20.33.55:297][431]Cmd: EDIT COPY
+[2022.11.26-20.33.55:637][451]Cmd: EDIT PASTE
+[2022.11.26-20.34.02:673][870]Cmd: EDIT CUT
+[2022.11.26-20.34.02:676][870]LogEditorActor: Deleted Actor: TriggerSphere
+[2022.11.26-20.34.02:713][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.26-20.34.02:723][870]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.11.26-20.34.03:741][929]Cmd: TRANSACTION UNDO
+[2022.11.26-20.34.03:741][929]LogEditorTransaction: Undo Cut
+[2022.11.26-20.34.04:292][947]Cmd: EDIT COPY
+[2022.11.26-20.34.08:773][214]Cmd: EDIT COPY
+[2022.11.26-20.34.09:106][234]Cmd: EDIT PASTE
+[2022.11.26-20.34.15:037][586]Cmd: EDIT COPY
+[2022.11.26-20.34.20:918][938]Cmd: EDIT PASTE
+[2022.11.26-20.34.25:445][205]Cmd: EDIT COPY
+[2022.11.26-20.34.26:686][279]Cmd: EDIT PASTE
+[2022.11.26-20.34.37:766][924]Cmd: EDIT COPY
+[2022.11.26-20.34.38:183][949]Cmd: EDIT PASTE
+[2022.11.26-20.34.48:950][591]Cmd: EDIT COPY
+[2022.11.26-20.34.49:208][604]Cmd: EDIT PASTE
+[2022.11.26-20.34.56:002][991]Cmd: DELETE
+[2022.11.26-20.34.56:002][991]Cmd: ACTOR DELETE
+[2022.11.26-20.34.56:004][991]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.26-20.34.56:021][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.26-20.34.56:027][991]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2022.11.26-20.34.56:032][992]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.26-20.35.08:679][746]Cmd: EDIT COPY
+[2022.11.26-20.35.08:970][763]Cmd: EDIT PASTE
+[2022.11.26-20.36.09:987][360]Cmd: EDIT COPY
+[2022.11.26-20.37.10:395][949]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-20.37.12:453][949]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.26-20.37.12:461][949]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.26-20.37.12:466][949]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.26-20.37.12:475][950]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.26-20.37.18:764][294]LogContentBrowser: Attempting asset rename: NewBlueprint -> Human_sensing
+[2022.11.26-20.37.18:769][294]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.26-20.37.20:792][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-20.37.20:793][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.37.21:184][409]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-20.37.47:777][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.37.47:777][934]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.38.10:218][213]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_sensing
+[2022.11.26-20.38.10:218][213]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_sensing0487220D4866F648E41AF58777B0B65F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_sensing.uasset'
+[2022.11.26-20.38.10:230][213]AssetCheck: New page: Asset Save: Human_sensing
+[2022.11.26-20.38.10:230][213]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-20.38.10:646][238]BlueprintLog: New page: Compile Human_sensing
+[2022.11.26-20.38.10:700][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.26-20.38.12:300][327]LogSlate: Window 'Human_Controller' being destroyed
+[2022.11.26-20.38.12:306][327]LogSlate: Window 'Human_Controller' being destroyed
+[2022.11.26-20.38.12:308][327]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.38.12:308][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.38.12:370][327]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-20.38.12:370][327]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.38.12:370][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.38.14:228][431]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.38.14:229][431]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.38.15:425][475]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_Controller
+[2022.11.26-20.38.15:425][475]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_Controller16394CE94B3FC148BFC73E8DA2D9AE61.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_Controller.uasset'
+[2022.11.26-20.38.15:438][475]AssetCheck: New page: Asset Save: Human_Controller
+[2022.11.26-20.38.15:438][475]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.38.16:119][515]BlueprintLog: New page: Compile Human_Controller
+[2022.11.26-20.38.16:154][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.26-20.39.04:297][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.11.26-20.39.04:320][366]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto6
+[2022.11.26-20.39.04:320][366]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap_Auto683F8EA68479D237E885D63954D5D30B9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto6.umap'
+[2022.11.26-20.39.04:328][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.054
+[2022.11.26-20.39.04:328][366]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.11.26-20.40.44:611][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.26-20.40.44:697][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.26-20.40.44:722][423]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.26-20.40.44:722][423]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap81A2409146E2F3F67E45FAB2916E02F1.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.26-20.40.44:729][423]LogFileHelpers: No new changes to save!
+[2022.11.26-20.40.44:729][423]LogFileHelpers: Saving map 'VRTemplateMap' took 0.057
+[2022.11.26-20.40.44:743][423]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.11.26-20.40.44:743][423]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.26-20.40.53:376][934]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/VRTemplate/Blueprints/Humans/HumanBlackboard.HumanBlackboard
+[2022.11.26-20.40.57:829][195]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-20.42.01:057][962]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanBlackboard
+[2022.11.26-20.42.01:057][962]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanBlackboard68E8E23144776A130A01468308BD0DFB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanBlackboard.uasset'
+[2022.11.26-20.42.01:069][962]AssetCheck: New page: Asset Save: HumanBlackboard
+[2022.11.26-20.42.01:069][962]LogContentValidation: Display: Validating BlackboardData /Game/VRTemplate/Blueprints/Humans/HumanBlackboard.HumanBlackboard
+[2022.11.26-20.42.20:830][144]LogSlate: Window 'HumanBlackboard' being destroyed
+[2022.11.26-20.42.20:835][144]LogSlate: Window 'HumanBlackboard' being destroyed
+[2022.11.26-20.42.20:840][144]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.42.20:840][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.42.27:847][558]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller.Human_Controller
+[2022.11.26-20.42.27:848][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.42.38:460][170]LogContentBrowser: Attempting asset rename: Human_Controller -> Human_Controller
+[2022.11.26-20.42.41:144][331]LogContentBrowser: Attempting asset rename: Human_Controller -> Human_Controller
+[2022.11.26-20.42.48:393][766]LogContentBrowser: Attempting asset rename: Human_Controller -> Human_Controller_Kitchen
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.SKEL_Human_Controller_Kitchen_C' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen_C' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.SKEL_Human_Controller_Kitchen_C:UserConstructionScript' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.SKEL_Human_Controller_Kitchen_C:ReceiveTick' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:407][766]LogMetaData: Removing '/Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.SKEL_Human_Controller_Kitchen_C:ReceiveBeginPlay' ref from Metadata '/Game/VRTemplate/Blueprints/Humans/Human_Controller.PackageMetaData'
+[2022.11.26-20.42.48:467][766]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen
+[2022.11.26-20.42.48:467][766]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_Controller_Kitchen39E7F640446BE9F01923F5AA52A5C19C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.uasset'
+[2022.11.26-20.42.48:510][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.26-20.42.48:541][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.26-20.42.48:564][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.26-20.42.48:569][766]AssetCheck: New page: Asset Save: Human_Controller_Kitchen
+[2022.11.26-20.42.48:569][766]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen
+[2022.11.26-20.42.48:678][773]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.
+[2022.11.26-20.43.25:925][998]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen
+[2022.11.26-20.43.25:925][998]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_Controller_Kitchen990A348B4F6513A4BAE0A0ACDEB5B34B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.uasset'
+[2022.11.26-20.43.25:938][998]AssetCheck: New page: Asset Save: Human_Controller_Kitchen
+[2022.11.26-20.43.25:938][998]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen
+[2022.11.26-20.43.27:047][ 65]BlueprintLog: New page: Compile Human_Controller_Kitchen
+[2022.11.26-20.43.27:081][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.11.26-20.43.33:569][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-20.43.33:569][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.43.42:950][977]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_sensing
+[2022.11.26-20.43.42:950][977]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_sensing8D36763448E6A007E78801B761982865.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_sensing.uasset'
+[2022.11.26-20.43.42:963][977]AssetCheck: New page: Asset Save: Human_sensing
+[2022.11.26-20.43.42:963][977]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-20.43.43:658][ 19]BlueprintLog: New page: Compile Human_sensing
+[2022.11.26-20.43.43:702][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.26-20.43.45:381][116]LogSlate: Window 'Human_sensing' being destroyed
+[2022.11.26-20.43.45:387][116]LogSlate: Window 'Human_sensing' being destroyed
+[2022.11.26-20.43.45:390][116]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.43.45:391][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.43.45:441][116]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-20.43.45:441][116]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.43.45:441][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.43.51:558][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-20.43.51:558][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.44.01:412][ 35]LogSlate: Window 'Human_sensing' being destroyed
+[2022.11.26-20.44.01:418][ 35]LogSlate: Window 'Human_sensing' being destroyed
+[2022.11.26-20.44.01:420][ 35]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.44.01:420][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.44.26:419][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen
+[2022.11.26-20.44.26:419][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.45.39:936][905]LogSlate: Window 'Human_Controller_Kitchen' being destroyed
+[2022.11.26-20.45.39:943][905]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.45.39:943][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.45.42:346][ 45]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen
+[2022.11.26-20.45.42:346][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.45.44:629][159]LogSlate: Window 'Human_Controller_Kitchen' being destroyed
+[2022.11.26-20.45.44:638][159]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.45.44:638][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.45.51:476][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.26-20.45.54:759][560]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.26-20.45.54:792][560]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VRTemplate/Blueprints/Humans/Human_Controller_Kitchen.Human_Controller_Kitchen
+	Asset Type: Blueprint
+[2022.11.26-20.45.55:088][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.26-20.45.55:105][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.26-20.45.55:124][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.26-20.46.02:165][929]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-20.46.12:589][929]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.26-20.46.12:595][929]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.26-20.46.12:600][929]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.26-20.46.12:608][930]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.26-20.46.20:338][384]LogContentBrowser: Attempting asset rename: NewBlueprint -> Human_AI_Kitchen
+[2022.11.26-20.46.20:341][384]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.
+[2022.11.26-20.46.20:343][384]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.26-20.46.20:972][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.46.20:972][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.46.21:331][422]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-20.49.20:917][137]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-20.49.20:917][137]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_KitchenA2978383404523038B66859C1F465E6E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-20.49.20:931][137]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-20.49.20:931][137]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.49.20:960][139]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.
+[2022.11.26-20.49.21:343][162]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-20.49.21:380][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.26-20.49.47:786][740]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-20.49.47:787][740]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_KitchenD4B281FC48784E40321EA1808F6A1111.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-20.49.47:799][740]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-20.49.47:799][740]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.49.48:442][779]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-20.49.48:475][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.26-20.50.55:463][793]LogSlate: Window 'Human_AI_Kitchen' being destroyed
+[2022.11.26-20.50.55:468][793]LogSlate: Window 'Human_AI_Kitchen' being destroyed
+[2022.11.26-20.50.55:472][793]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.50.55:473][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.50.58:736][984]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/VRTemplate/Blueprints/Humans/HumanBlackboard.HumanBlackboard
+[2022.11.26-20.51.04:968][353]LogSlate: Window 'HumanBlackboard' being destroyed
+[2022.11.26-20.51.04:974][353]LogSlate: Window 'HumanBlackboard' being destroyed
+[2022.11.26-20.51.08:441][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.51.08:441][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.52.16:187][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.26-20.52.16:192][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.029
+[2022.11.26-20.52.16:192][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen] ([2] browsable assets)...
+[2022.11.26-20.52.16:193][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen]
+[2022.11.26-20.52.16:194][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen_Auto7
+[2022.11.26-20.52.16:194][569]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen_Auto711BB496842BA52ACBBC57FAB80422143.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen_Auto7.uasset'
+[2022.11.26-20.52.16:195][569]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.11.26-20.54.01:663][788]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-20.54.01:663][788]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen80A726974D5B0704BA9366AA4385D76A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-20.54.01:677][788]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-20.54.01:677][788]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.54.02:145][816]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-20.54.02:179][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.26-20.54.07:118][110]LogDerivedDataCache: C:/Users/inter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.565 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-20.56.06:131][179]LogEditorTransaction: Undo Add New Function
+[2022.11.26-20.56.41:134][257]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-20.56.41:171][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.26-20.56.41:979][301]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-20.56.41:979][301]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_KitchenED9028334FD292405C0CE39B06330BFD.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-20.56.41:990][301]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-20.56.41:990][301]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.56.42:614][339]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-20.56.42:653][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.26-20.56.52:270][888]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-20.56.59:030][888]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.26-20.56.59:037][888]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.26-20.56.59:043][888]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.26-20.56.59:052][889]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.26-20.57.00:894][992]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.11.26-20.57.00:897][992]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/VRTemplate/Blueprints/Humans/NewBlueprint.
+[2022.11.26-20.57.00:899][992]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.26-20.57.01:393][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/NewBlueprint.NewBlueprint
+[2022.11.26-20.57.01:393][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.57.01:739][ 22]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-20.57.07:615][370]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.11.26-20.57.07:621][370]LogSlate: Window 'NewBlueprint' being destroyed
+[2022.11.26-20.57.07:626][370]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.57.07:626][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.57.07:677][370]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-20.57.07:677][370]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-20.57.07:677][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-20.57.13:153][690]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.26-20.57.13:153][690]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.26-20.57.13:603][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.26-20.57.14:514][714]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.26-20.57.14:540][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.26-20.58.00:569][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.58.00:570][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-20.58.03:315][299]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-20.59.48:762][544]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-20.59.48:763][544]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen0CFE4E034F55BFE66BB8BBB80AC0CEAD.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-20.59.48:775][544]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-20.59.48:775][544]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-20.59.49:918][613]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-20.59.49:953][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.26-21.00.33:428][147]LogEditorTransaction: Undo Remove Components
+[2022.11.26-21.01.05:936][ 73]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-21.01.05:937][ 73]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen759223064E09272D1C4C36ADB262F770.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-21.01.05:951][ 73]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-21.01.05:951][ 73]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-21.01.06:310][ 95]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-21.01.06:346][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.26-21.02.41:439][479]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-21.02.41:440][479]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen46D8699948B7F7196D29AB962DD8B2F7.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-21.02.41:454][479]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-21.02.41:454][479]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-21.02.41:828][502]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-21.02.41:864][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.11.26-21.02.58:309][469]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/VRTemplate/Blueprints/Humans/HumanBehavior.HumanBehavior
+[2022.11.26-21.03.06:574][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-21.03.06:574][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-21.03.08:726][ 63]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-21.03.36:945][724]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_sensing
+[2022.11.26-21.03.36:945][724]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_sensing85428D404A35079537BD1F9F0EAE5D2A.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_sensing.uasset'
+[2022.11.26-21.03.36:959][724]AssetCheck: New page: Asset Save: Human_sensing
+[2022.11.26-21.03.36:959][724]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
+[2022.11.26-21.03.37:568][761]BlueprintLog: New page: Compile Human_sensing
+[2022.11.26-21.03.37:619][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.26-21.04.18:342][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.26-21.04.18:344][166]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.029
+[2022.11.26-21.04.18:344][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Humans/Human_sensing] ([2] browsable assets)...
+[2022.11.26-21.04.18:344][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Humans/Human_sensing]
+[2022.11.26-21.04.18:352][166]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Humans/Human_sensing_Auto8
+[2022.11.26-21.04.18:352][166]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_sensing_Auto84722F49D43FA5EE8403809B7A5CC745B.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Blueprints/Humans/Human_sensing_Auto8.uasset'
+[2022.11.26-21.04.18:352][166]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.11.26-21.05.46:982][441]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-21.05.48:051][441]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.26-21.05.48:059][441]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.26-21.05.48:064][441]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.26-21.05.48:073][442]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.26-21.05.52:867][723]LogContentBrowser: Attempting asset rename: NewBlueprint -> HumanCharacter
+[2022.11.26-21.05.52:869][723]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/VRTemplate/Blueprints/Humans/HumanCharacter.
+[2022.11.26-21.05.52:871][723]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.26-21.05.53:966][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.05.53:966][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.26-21.05.54:319][789]LogViewport: Scene viewport resized to 1060x686, mode Windowed.
+[2022.11.26-21.06.08:221][606]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-21.06.58:635][592]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-21.06.58:635][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-21.08.20:816][445]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-21.08.20:816][445]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_KitchenBE9DB23542530CC97735FA915936EBDE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-21.08.20:829][445]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-21.08.20:829][445]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-21.08.21:219][469]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-21.08.21:262][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.26-21.08.22:547][540]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.08.22:547][540]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter28A7D71C4F0F7127CE4CD194EDBB3FC8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.08.22:560][540]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.08.22:560][540]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.08.22:602][542]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/VRTemplate/Blueprints/Humans/HumanCharacter.
+[2022.11.26-21.08.23:116][572]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.08.23:119][572]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] On See Pawn (PawnSensing)  does not have a valid matching component!
+[2022.11.26-21.08.23:119][572]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] Could not find a variable named "IsAdult" in 'HumanCharacter_C'.
+Make sure 'HumanCharacter_C' has been compiled for  Get IsAdult
+[2022.11.26-21.08.23:119][572]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] Could not find a variable named "IsAdult" in 'HumanCharacter_C'.
+Make sure 'HumanCharacter_C' has been compiled for  Get IsAdult
+[2022.11.26-21.08.23:119][572]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] Could not find a variable named "PawnSensing" in 'HumanCharacter_C'.
+Make sure 'HumanCharacter_C' has been compiled for  Get PawnSensing
+[2022.11.26-21.08.23:120][572]LogBlueprint: Warning: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] Could not find a variable named "PawnSensing" in 'HumanCharacter_C'.
+Make sure 'HumanCharacter_C' has been compiled for  Get PawnSensing
+[2022.11.26-21.08.23:120][572]LogBlueprint: Error: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] The property associated with  Pawn Sensing  could not be found in '/Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C'
+[2022.11.26-21.08.23:120][572]LogBlueprint: Error: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] The property associated with  Pawn Sensing  could not be found in '/Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C'
+[2022.11.26-21.08.23:120][572]LogBlueprint: Error: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] The property associated with  Is Adult  could not be found in '/Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C'
+[2022.11.26-21.08.23:120][572]LogBlueprint: Error: [AssetLog] C:\Users\inter\Documents\GitHub\BeckE_TerpstraF\Project\Bear_Birthday_Bash\Content\VRTemplate\Blueprints\Humans\HumanCharacter.uasset: [Compiler] The property associated with  Is Adult  could not be found in '/Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C'
+[2022.11.26-21.08.23:165][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.26-21.08.43:824][779]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.08.43:825][779]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter03765175494C51EE6AC0EA82E53F3EE9.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.08.43:840][779]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.08.43:840][779]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.08.44:168][799]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.08.44:215][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.26-21.12.55:582][144]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.12.55:582][144]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacterDC278414402BD1DD583E099A23AA0AC8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.12.55:599][144]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.12.55:599][144]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.12.56:091][174]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.12.56:137][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.26-21.13.19:702][582]LogEditorTransaction: Undo Insert Child
+[2022.11.26-21.13.33:222][368]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.13.33:222][368]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacterF5F8EEF846B8742B56182E886CDC26E5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.13.33:236][368]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.13.33:236][368]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.13.33:661][394]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.13.33:708][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.11.26-21.13.51:038][429]LogEditorTransaction: Undo Add Child
+[2022.11.26-21.13.55:862][697]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.13.55:863][697]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacterAD5CC84444DE75F8474816B0000C01D8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.13.55:876][697]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.13.55:876][697]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.13.56:286][722]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.13.56:333][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.26-21.14.12:990][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.12:990][704]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.12:990][704]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_0
+[2022.11.26-21.14.12:991][704]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_0
+[2022.11.26-21.14.15:463][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.15:463][852]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.15:464][852]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_1
+[2022.11.26-21.14.15:464][852]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_1
+[2022.11.26-21.14.16:453][911]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.16:453][911]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.16:454][911]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_2
+[2022.11.26-21.14.16:454][911]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_2
+[2022.11.26-21.14.22:309][254]Cmd: DELETE
+[2022.11.26-21.14.22:309][254]Cmd: ACTOR DELETE
+[2022.11.26-21.14.22:312][254]LogEditorActor: Deleted Actor: HumanCharacter_C
+[2022.11.26-21.14.22:342][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.26-21.14.22:347][254]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.11.26-21.14.26:776][511]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.26:776][511]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.26:777][511]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_3
+[2022.11.26-21.14.26:777][511]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_3
+[2022.11.26-21.14.42:351][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.42:351][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.42:352][433]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_4
+[2022.11.26-21.14.42:352][433]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_4
+[2022.11.26-21.14.42:507][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.42:507][442]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.14.42:508][442]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_5
+[2022.11.26-21.14.42:508][442]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_5
+[2022.11.26-21.15.57:805][915]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-21.16.49:872][997]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.16.49:872][997]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter_C
+[2022.11.26-21.16.49:873][997]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_8
+[2022.11.26-21.16.49:873][997]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter as actor: HumanCharacter_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.HumanCharacter_C_8
+[2022.11.26-21.17.19:268][128]LogVSAccessor: Warning: Couldn't open file 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Components/ChildActorComponent.h'.
+[2022.11.26-21.17.19:268][128]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:277][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:278][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:279][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:280][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:281][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:282][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:283][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:284][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:285][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:285][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:285][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:285][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:285][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:290][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:291][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:291][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:294][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:294][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:300][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:303][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:304][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:309][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:311][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:323][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:323][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:327][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:327][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:328][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:328][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:328][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:333][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:338][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:338][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:363][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:372][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:376][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:376][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:407][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:408][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:408][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:408][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:412][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:416][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:419][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:419][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:419][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:419][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:420][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:420][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:420][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:423][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:424][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:425][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:426][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:427][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:428][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:429][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:430][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:430][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:430][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:430][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:430][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:434][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:435][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:435][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:435][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:439][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:439][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:440][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:444][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:445][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:447][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:449][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:458][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:459][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:462][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:462][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:463][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:463][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:463][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:467][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:472][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:472][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:482][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:487][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:490][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:490][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:506][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:506][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:506][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:506][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:509][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:512][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:514][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.17.19:515][128]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.26-21.19.06:887][480]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.19.06:888][480]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter8A7FE27444DB4F63E019DC914D75510E.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.19.06:901][480]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.19.06:901][480]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.19.07:361][508]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.19.07:409][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.26-21.19.59:711][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.26-21.19.59:737][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9
+[2022.11.26-21.19.59:737][625]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap_Auto9334254904D017161CCF0EEA1F1C129D5.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9.umap'
+[2022.11.26-21.19.59:744][625]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.061
+[2022.11.26-21.19.59:744][625]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.11.26-21.19.59:745][625]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Humans/HumanCharacter] ([2] browsable assets)...
+[2022.11.26-21.19.59:745][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Humans/HumanCharacter]
+[2022.11.26-21.19.59:754][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Humans/HumanCharacter_Auto9
+[2022.11.26-21.19.59:754][625]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter_Auto95868BE4B418D69EF6E21DB9A6E7A089C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Blueprints/Humans/HumanCharacter_Auto9.uasset'
+[2022.11.26-21.19.59:754][625]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.11.26-21.29.25:762][998]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.29.25:762][998]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter90342A8F42E48F802AC5F18A080B87D0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.29.25:777][998]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.29.25:777][998]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.29.26:136][ 20]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.29.26:189][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.26-21.29.27:537][ 93]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.26-21.32.23:208][314]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.32.23:209][314]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter71A4FC6240F8045E348769BCCFB7E5DE.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.32.23:223][314]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.32.23:223][314]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.32.23:722][344]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.32.23:774][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.26-21.32.53:561][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.26-21.32.53:563][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.031
+[2022.11.26-21.32.53:564][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Humans/HumanCharacter] ([2] browsable assets)...
+[2022.11.26-21.32.53:564][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Humans/HumanCharacter]
+[2022.11.26-21.32.53:574][707]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Humans/HumanCharacter_Auto0
+[2022.11.26-21.32.53:574][707]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter_Auto07D5332284C945BBDB256A6B46FBFE002.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Autosaves/Game/VRTemplate/Blueprints/Humans/HumanCharacter_Auto0.uasset'
+[2022.11.26-21.32.53:574][707]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.11.26-21.38.47:328][569]LogEditorTransaction: Undo Delete current selection
+[2022.11.26-21.39.01:181][353]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.39.01:181][353]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter7AA831C7432766CD9875199D2A3FB425.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.39.01:195][353]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.39.01:195][353]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.39.01:477][370]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.39.01:527][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.26-21.39.04:525][538]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.39.04:526][538]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter3EF91F4E434521ECDAA3DD93762BCD63.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.39.04:537][538]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.39.04:537][538]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.39.04:865][558]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.39.04:912][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.26-21.42.40:566][998]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.42.40:566][998]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacter1DFB745E47DF1A422D0FDBAA857F4A08.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.42.40:581][998]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.42.40:581][998]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.42.41:243][ 38]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.42.41:298][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.26-21.44.38:831][780]LogEditorTransaction: Undo Delete current selection
+[2022.11.26-21.44.39:423][799]LogEditorTransaction: Undo Delete current selection
+[2022.11.26-21.44.40:070][833]LogEditorTransaction: Undo Create Pin Link
+[2022.11.26-21.44.40:486][853]LogEditorTransaction: Undo Move Node
+[2022.11.26-21.44.40:861][871]LogEditorTransaction: Undo Move Node
+[2022.11.26-21.44.41:269][891]LogEditorTransaction: Undo Create Pin Link
+[2022.11.26-21.44.41:729][914]LogEditorTransaction: Undo Move Node
+[2022.11.26-21.44.42:219][939]LogEditorTransaction: Undo Delete current selection
+[2022.11.26-21.44.42:662][961]LogEditorTransaction: Undo Delete current selection
+[2022.11.26-21.49.53:744][ 97]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/HumanCharacter
+[2022.11.26-21.49.53:745][ 97]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/HumanCharacterC55E25844D0834354C986C994A787F0F.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/HumanCharacter.uasset'
+[2022.11.26-21.49.53:760][ 97]AssetCheck: New page: Asset Save: HumanCharacter
+[2022.11.26-21.49.53:760][ 97]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/HumanCharacter.HumanCharacter
+[2022.11.26-21.49.54:089][117]BlueprintLog: New page: Compile HumanCharacter
+[2022.11.26-21.49.54:149][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.26-21.51.39:462][387]LogSlate: Took 0.004325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.26-21.51.46:219][788]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-21.51.46:219][788]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen3087E10B478ECDDDD36E29A6CDFE3F23.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-21.51.46:235][788]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-21.51.46:235][788]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-21.51.46:629][812]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-21.51.46:680][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.26-21.54.07:335][104]LogDerivedDataCache: C:/Users/inter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.543 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.26-21.59.27:798][492]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen
+[2022.11.26-21.59.27:799][492]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_AI_Kitchen4565E7FB42ACB58552F0139CAAA7CB50.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.uasset'
+[2022.11.26-21.59.27:815][492]AssetCheck: New page: Asset Save: Human_AI_Kitchen
+[2022.11.26-21.59.27:815][492]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_AI_Kitchen.Human_AI_Kitchen
+[2022.11.26-21.59.28:240][518]BlueprintLog: New page: Compile Human_AI_Kitchen
+[2022.11.26-21.59.28:288][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.26-21.59.29:930][615]LogSlate: Window 'HumanCharacter' being destroyed
+[2022.11.26-21.59.29:936][615]LogSlate: Window 'HumanCharacter' being destroyed
+[2022.11.26-21.59.29:940][615]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-21.59.29:940][615]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-21.59.29:940][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-21.59.30:088][615]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.26-21.59.30:088][615]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.11.26-21.59.30:088][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.26-21.59.37:278][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.26-21.59.37:386][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.26-21.59.37:408][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.11.26-21.59.37:428][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.26-21.59.37:453][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.26-21.59.37:477][ 35]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.26-21.59.37:477][ 35]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/VRTemplateMap554837FE41CF19F266C53289335D7C42.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.26-21.59.37:503][ 35]LogFileHelpers: No new changes to save!
+[2022.11.26-21.59.37:503][ 35]LogFileHelpers: Saving map 'VRTemplateMap' took 0.072
+[2022.11.26-21.59.37:511][ 35]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Humans/Human_sensing
+[2022.11.26-21.59.37:512][ 35]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Saved/Human_sensingA20AB4EB435B2A5E61A49996DB671905.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/Bear_Birthday_Bash/Content/VRTemplate/Blueprints/Humans/Human_sensing.uasset'
+[2022.11.26-21.59.37:525][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.26-21.59.37:525][ 35]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.26-21.59.37:525][ 35]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Humans/Human_sensing.Human_sensing
