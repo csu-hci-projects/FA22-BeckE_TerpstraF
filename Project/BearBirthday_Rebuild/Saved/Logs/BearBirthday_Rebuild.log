@@ -1509,3 +1509,754 @@ Recommended: 516.25
 [2022.11.30-05.50.03:113][ 24]LogFileHelpers: Saving map 'VRTemplateMap' took 0.111
 [2022.11.30-05.50.03:130][ 24]AssetCheck: New page: Asset Save: VRTemplateMap
 [2022.11.30-05.50.03:130][ 24]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.30-05.53.23:573][959]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.11.30-05.53.23:574][959]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/VRPawnCEFB05E74B5FD9483C290D952CD65230.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.11.30-05.53.23:590][959]AssetCheck: New page: Asset Save: VRPawn
+[2022.11.30-05.53.23:590][959]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.30-05.53.23:934][980]BlueprintLog: New page: Compile VRPawn
+[2022.11.30-05.53.24:018][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.30-05.53.49:893][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.30-05.53.49:991][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.30-05.53.50:034][493]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.30-05.53.50:034][493]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/VRTemplateMapE0FC2730439FE0A4C701F19AED0698EF.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.30-05.53.50:042][493]LogFileHelpers: No new changes to save!
+[2022.11.30-05.53.50:042][493]LogFileHelpers: Saving map 'VRTemplateMap' took 0.081
+[2022.11.30-05.53.50:057][493]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.11.30-05.53.50:057][493]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2022.11.30-05.54.11:221][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character
+[2022.11.30-05.54.11:221][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-05.54.13:326][827]LogViewport: Scene viewport resized to 857x682, mode Windowed.
+[2022.11.30-05.54.42:943][574]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/Human_Character
+[2022.11.30-05.54.42:943][574]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/Human_CharacterA83A80424DE2DBCD336BF683FF21FAB0.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/Human_Character.uasset'
+[2022.11.30-05.54.42:960][574]AssetCheck: New page: Asset Save: Human_Character
+[2022.11.30-05.54.42:960][574]LogContentValidation: Display: Validating Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character
+[2022.11.30-05.54.43:261][592]BlueprintLog: New page: Compile Human_Character
+[2022.11.30-05.54.43:332][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.30-05.54.54:430][228]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.30-05.54.56:696][228]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.30-05.55.01:952][415]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.11.30-05.55.01:960][415]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.11.30-05.55.01:966][415]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.11.30-05.55.01:981][416]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.11.30-05.55.06:075][662]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> mother
+[2022.11.30-05.55.06:081][662]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.11.30-05.55.07:307][736]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ui/mother.mother
+[2022.11.30-05.55.07:308][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-05.55.07:321][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-05.55.07:330][736]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.11.30-05.55.07:622][736]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-05.55.07:622][736]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-05.55.07:743][736]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.11.30-05.56.21:211][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\inter\Downloads\LANDrop\IMG_6444.png)
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:218][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:220][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:221][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:221][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:221][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:223][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:223][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:223][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:223][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:223][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:223][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:225][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:225][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:225][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:227][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:227][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:229][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:230][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:231][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:232][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:233][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:233][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:234][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:234][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:234][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:235][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:237][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:238][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:241][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:247][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:251][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:255][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:260][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:264][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:268][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:272][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:279][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:283][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:288][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:293][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:300][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:306][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:321][152]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-05.56.21:322][152]Error: Texture import failed
+[2022.11.30-05.56.36:501][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.36:506][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6444.png'. Failed to create asset '/Game/Assets/images/IMG_6444'.
+Please see Output Log for details.
+[2022.11.30-05.56.36:506][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6444.png'. Failed to create asset '/Game/Assets/images/IMG_6444'.
+Please see Output Log for details.
+[2022.11.30-05.56.36:508][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6429.png' for import
+[2022.11.30-05.56.37:349][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.37:354][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6429.png'. Failed to create asset '/Game/Assets/images/IMG_6429'.
+Please see Output Log for details.
+[2022.11.30-05.56.37:354][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6429.png'. Failed to create asset '/Game/Assets/images/IMG_6429'.
+Please see Output Log for details.
+[2022.11.30-05.56.37:355][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6430.png' for import
+[2022.11.30-05.56.37:846][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.37:850][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6430.png'. Failed to create asset '/Game/Assets/images/IMG_6430'.
+Please see Output Log for details.
+[2022.11.30-05.56.37:850][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6430.png'. Failed to create asset '/Game/Assets/images/IMG_6430'.
+Please see Output Log for details.
+[2022.11.30-05.56.37:852][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6431.png' for import
+[2022.11.30-05.56.38:010][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.38:016][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6431.png'. Failed to create asset '/Game/Assets/images/IMG_6431'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:016][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6431.png'. Failed to create asset '/Game/Assets/images/IMG_6431'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:016][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6432.png' for import
+[2022.11.30-05.56.38:204][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.38:209][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6432.png'. Failed to create asset '/Game/Assets/images/IMG_6432'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:209][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6432.png'. Failed to create asset '/Game/Assets/images/IMG_6432'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:210][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6433.png' for import
+[2022.11.30-05.56.38:371][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.38:378][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6433.png'. Failed to create asset '/Game/Assets/images/IMG_6433'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:378][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6433.png'. Failed to create asset '/Game/Assets/images/IMG_6433'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:378][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6434.png' for import
+[2022.11.30-05.56.38:779][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.38:785][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6434.png'. Failed to create asset '/Game/Assets/images/IMG_6434'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:785][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6434.png'. Failed to create asset '/Game/Assets/images/IMG_6434'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:786][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6435.png' for import
+[2022.11.30-05.56.38:948][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.38:953][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6435.png'. Failed to create asset '/Game/Assets/images/IMG_6435'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:953][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6435.png'. Failed to create asset '/Game/Assets/images/IMG_6435'.
+Please see Output Log for details.
+[2022.11.30-05.56.38:953][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6436.png' for import
+[2022.11.30-05.56.39:270][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.39:274][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6436.png'. Failed to create asset '/Game/Assets/images/IMG_6436'.
+Please see Output Log for details.
+[2022.11.30-05.56.39:274][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6436.png'. Failed to create asset '/Game/Assets/images/IMG_6436'.
+Please see Output Log for details.
+[2022.11.30-05.56.39:275][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6437.png' for import
+[2022.11.30-05.56.39:564][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.39:568][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6437.png'. Failed to create asset '/Game/Assets/images/IMG_6437'.
+Please see Output Log for details.
+[2022.11.30-05.56.39:568][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6437.png'. Failed to create asset '/Game/Assets/images/IMG_6437'.
+Please see Output Log for details.
+[2022.11.30-05.56.39:570][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6438.png' for import
+[2022.11.30-05.56.39:888][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.39:892][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6438.png'. Failed to create asset '/Game/Assets/images/IMG_6438'.
+Please see Output Log for details.
+[2022.11.30-05.56.39:892][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6438.png'. Failed to create asset '/Game/Assets/images/IMG_6438'.
+Please see Output Log for details.
+[2022.11.30-05.56.39:893][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6439.png' for import
+[2022.11.30-05.56.40:146][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.40:151][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6439.png'. Failed to create asset '/Game/Assets/images/IMG_6439'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:151][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6439.png'. Failed to create asset '/Game/Assets/images/IMG_6439'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:152][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6440.png' for import
+[2022.11.30-05.56.40:318][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.40:323][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6440.png'. Failed to create asset '/Game/Assets/images/IMG_6440'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:323][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6440.png'. Failed to create asset '/Game/Assets/images/IMG_6440'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:323][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6441.png' for import
+[2022.11.30-05.56.40:614][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.40:619][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6441.png'. Failed to create asset '/Game/Assets/images/IMG_6441'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:619][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6441.png'. Failed to create asset '/Game/Assets/images/IMG_6441'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:620][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6442.png' for import
+[2022.11.30-05.56.40:945][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.40:951][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6442.png'. Failed to create asset '/Game/Assets/images/IMG_6442'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:951][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6442.png'. Failed to create asset '/Game/Assets/images/IMG_6442'.
+Please see Output Log for details.
+[2022.11.30-05.56.40:953][152]LogFactory: Error: Can't find file 'C:\Users\inter\Downloads\LANDrop\IMG_6443.png' for import
+[2022.11.30-05.56.41:290][152]LogSlate: Window 'Message' being destroyed
+[2022.11.30-05.56.41:294][152]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6443.png'. Failed to create asset '/Game/Assets/images/IMG_6443'.
+Please see Output Log for details.
+[2022.11.30-05.56.41:294][152]LogAssetTools: Warning: Failed to import 'C:\Users\inter\Downloads\LANDrop\IMG_6443.png'. Failed to create asset '/Game/Assets/images/IMG_6443'.
+Please see Output Log for details.
+[2022.11.30-05.56.47:325][335]AssetReimport: New page: Outstanding source content changes 3:56:47 PM
+[2022.11.30-05.56.47:356][336]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6441.png)
+[2022.11.30-05.56.47:449][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.30-05.56.47:497][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.11.30-05.56.47:539][337]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6442.png)
+[2022.11.30-05.56.47:620][338]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6443.png)
+[2022.11.30-05.56.47:680][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.30-05.56.47:726][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.30-05.56.47:770][339]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6444.png)
+[2022.11.30-05.56.47:825][340]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6429.png)
+[2022.11.30-05.56.47:886][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.30-05.56.47:927][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.30-05.56.47:938][341]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6430.png)
+[2022.11.30-05.56.47:966][342]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6431.png)
+[2022.11.30-05.56.48:024][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.30-05.56.48:063][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.30-05.56.48:073][343]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6432.png)
+[2022.11.30-05.56.48:100][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6433.png)
+[2022.11.30-05.56.48:160][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.30-05.56.48:201][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.30-05.56.48:213][345]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6434.png)
+[2022.11.30-05.56.48:264][346]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6435.png)
+[2022.11.30-05.56.48:323][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.30-05.56.48:363][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.30-05.56.48:375][347]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6436.png)
+[2022.11.30-05.56.48:416][348]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6437.png)
+[2022.11.30-05.56.48:476][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.30-05.56.48:520][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.30-05.56.48:532][349]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6438.png)
+[2022.11.30-05.56.48:564][350]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6439.png)
+[2022.11.30-05.56.48:621][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.30-05.56.48:660][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.11.30-05.56.48:693][351]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6440.png)
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6441.
+[2022.11.30-05.56.51:721][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6441.png.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6442.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6443.
+[2022.11.30-05.56.51:721][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6443.png.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6444.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6429.
+[2022.11.30-05.56.51:721][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6429.png.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6430.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6431.
+[2022.11.30-05.56.51:721][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6431.png.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6432.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6433.
+[2022.11.30-05.56.51:721][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6433.png.
+[2022.11.30-05.56.51:721][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6434.
+[2022.11.30-05.56.51:722][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6435.
+[2022.11.30-05.56.51:722][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6435.png.
+[2022.11.30-05.56.51:722][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6436.
+[2022.11.30-05.56.51:722][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6437.
+[2022.11.30-05.56.51:722][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6437.png.
+[2022.11.30-05.56.51:722][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6438.
+[2022.11.30-05.56.51:722][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6439.
+[2022.11.30-05.56.51:722][532]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6439.png.
+[2022.11.30-05.56.51:722][532]AssetReimport: Importing new asset /Game/Assets/images/IMG_6440.
+[2022.11.30-05.57.25:296][649]AssetReimport: New page: Outstanding source content changes 3:57:25 PM
+[2022.11.30-05.57.25:325][650]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6443.png)
+[2022.11.30-05.57.25:388][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.30-05.57.25:437][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.30-05.57.25:465][651]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6442.png)
+[2022.11.30-05.57.25:520][652]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6441.png)
+[2022.11.30-05.57.25:579][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.30-05.57.25:620][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.30-05.57.25:658][653]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6440.png)
+[2022.11.30-05.57.25:713][654]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6439.png)
+[2022.11.30-05.57.25:771][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.30-05.57.25:812][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.30-05.57.25:846][655]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6438.png)
+[2022.11.30-05.57.25:876][656]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6437.png)
+[2022.11.30-05.57.25:934][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.30-05.57.25:976][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.30-05.57.25:987][657]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6436.png)
+[2022.11.30-05.57.26:015][658]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6435.png)
+[2022.11.30-05.57.26:075][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.30-05.57.26:118][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.30-05.57.26:128][659]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6434.png)
+[2022.11.30-05.57.26:158][660]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6433.png)
+[2022.11.30-05.57.26:215][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.30-05.57.26:256][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.30-05.57.26:268][661]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6432.png)
+[2022.11.30-05.57.26:297][662]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6431.png)
+[2022.11.30-05.57.26:354][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.30-05.57.26:393][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.30-05.57.26:418][663]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6430.png)
+[2022.11.30-05.57.26:447][664]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6429.png)
+[2022.11.30-05.57.26:507][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.30-05.57.26:549][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.30-05.57.26:576][665]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6444.png)
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6443.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6443.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6442.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6441.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6441.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6440.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6439.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6439.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6438.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6437.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6437.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6436.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6435.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6435.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6434.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6433.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6433.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6432.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6431.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6431.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6430.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6429.
+[2022.11.30-05.57.29:610][846]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/images/IMG_6429.png.
+[2022.11.30-05.57.29:610][846]AssetReimport: Importing new asset /Game/Assets/images/IMG_6444.
+[2022.11.30-05.57.36:016][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.30-05.57.36:077][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/mother" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/ui/mother.uasset" SILENT=true
+[2022.11.30-05.57.36:078][985]LogSavePackage: Moving output files for package: /Game/ui/mother
+[2022.11.30-05.57.36:078][985]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/mother9675B0C54E71BB71ED1A729AD9069443.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/ui/mother.uasset'
+[2022.11.30-05.57.36:091][985]AssetCheck: New page: Asset Save: mother
+[2022.11.30-05.57.36:092][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/mother.mother
+[2022.11.30-05.58.53:066][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/mother" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/ui/mother.uasset" SILENT=true
+[2022.11.30-05.58.53:069][ 63]LogSavePackage: Moving output files for package: /Game/ui/mother
+[2022.11.30-05.58.53:070][ 63]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/mother3728FD5D4834CEF9804B9F98822B8DCB.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/ui/mother.uasset'
+[2022.11.30-05.58.53:083][ 63]AssetCheck: New page: Asset Save: mother
+[2022.11.30-05.58.53:083][ 63]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/mother.mother
+[2022.11.30-05.58.53:642][ 97]BlueprintLog: New page: Compile mother
+[2022.11.30-05.58.53:713][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.30-05.58.55:375][191]LogSlate: Window 'mother' being destroyed
+[2022.11.30-05.58.55:379][191]LogSlate: Window 'mother' being destroyed
+[2022.11.30-05.58.55:383][191]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-05.58.55:383][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-05.58.55:480][191]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.30-05.58.55:480][191]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-05.58.55:480][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-05.58.55:565][191]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.30-05.58.55:565][191]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-05.58.55:565][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-05.58.55:617][191]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-05.58.55:617][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-05.58.55:626][191]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-05.58.55:626][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-05.59.05:034][742]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.30-05.59.05:042][742]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.30-05.59.05:052][743]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.30-05.59.07:649][898]LogContentBrowser: Attempting asset rename: NewFolder -> humanimage
+[2022.11.30-05.59.07:649][898]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.30-05.59.31:224][242]AssetReimport: New page: Outstanding source content changes 3:59:31 PM
+[2022.11.30-05.59.31:261][243]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6443.png)
+[2022.11.30-05.59.31:310][244]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6442.png)
+[2022.11.30-05.59.31:384][244]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2022.11.30-05.59.31:470][244]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.11.30-05.59.31:526][245]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6441.png)
+[2022.11.30-05.59.31:577][246]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6440.png)
+[2022.11.30-05.59.31:611][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.30-05.59.31:628][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.30-05.59.31:660][247]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6439.png)
+[2022.11.30-05.59.31:709][248]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6438.png)
+[2022.11.30-05.59.31:742][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.30-05.59.31:757][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.30-05.59.31:775][249]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6437.png)
+[2022.11.30-05.59.31:801][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6436.png)
+[2022.11.30-05.59.31:836][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.30-05.59.31:853][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.11.30-05.59.31:863][251]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6435.png)
+[2022.11.30-05.59.31:892][252]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6434.png)
+[2022.11.30-05.59.31:926][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.30-05.59.31:942][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.30-05.59.31:955][253]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6433.png)
+[2022.11.30-05.59.31:983][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6432.png)
+[2022.11.30-05.59.32:017][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.11.30-05.59.32:032][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.30-05.59.32:043][255]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6431.png)
+[2022.11.30-05.59.32:071][256]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6430.png)
+[2022.11.30-05.59.32:105][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.30-05.59.32:122][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.11.30-05.59.32:132][257]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6429.png)
+[2022.11.30-05.59.32:168][258]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6444.png)
+[2022.11.30-05.59.32:205][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.11.30-05.59.32:221][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.30-05.59.35:239][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6443.
+[2022.11.30-05.59.35:239][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6442.
+[2022.11.30-05.59.35:239][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6442.png.
+[2022.11.30-05.59.35:239][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6441.
+[2022.11.30-05.59.35:239][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6440.
+[2022.11.30-05.59.35:239][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6440.png.
+[2022.11.30-05.59.35:239][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6439.
+[2022.11.30-05.59.35:239][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6438.
+[2022.11.30-05.59.35:240][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6438.png.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6437.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6436.
+[2022.11.30-05.59.35:240][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6436.png.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6435.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6434.
+[2022.11.30-05.59.35:240][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6434.png.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6433.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6432.
+[2022.11.30-05.59.35:240][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6432.png.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6431.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6430.
+[2022.11.30-05.59.35:240][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6430.png.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6429.
+[2022.11.30-05.59.35:240][437]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/IMG_6444.
+[2022.11.30-05.59.35:240][437]AssetReimport: Failed to import file C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/IMG_6444.png.
+[2022.11.30-05.59.41:435][809]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-05.59.41:439][809]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-06.00.04:431][448]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/inter/Downloads/LANDrop/IMG_6429.png)
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:434][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:435][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:436][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:437][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:438][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:439][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:440][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:440][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:441][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:441][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:442][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:443][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:444][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:444][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:446][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:447][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:451][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:454][448]Error: Cannot import texture with non-power of two dimensions
+[2022.11.30-06.00.04:454][448]Error: Texture import failed
+[2022.11.30-06.00.10:483][448]LogSlate: Window 'Message' being destroyed
+[2022.11.30-06.00.10:488][448]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../../Users/inter/Downloads/LANDrop/IMG_6429.png'. Failed to create asset '/Game/OurBlueprints/Humans/humanimage/IMG_6429'.
+Please see Output Log for details.
+[2022.11.30-06.00.10:488][448]LogAssetTools: Warning: Failed to import '../../../../../../Users/inter/Downloads/LANDrop/IMG_6429.png'. Failed to create asset '/Game/OurBlueprints/Humans/humanimage/IMG_6429'.
+Please see Output Log for details.
+[2022.11.30-06.00.38:168][686]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.11.30-06.03.50:228][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.30-06.03.50:230][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.020
+[2022.11.30-06.07.26:176][702]AssetReimport: New page: Outstanding source content changes 4:07:26 PM
+[2022.11.30-06.07.26:204][703]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/chloe.jpeg)
+[2022.11.30-06.07.26:244][704]LogTexture: Display: Building textures: /Game/OurBlueprints/Humans/humanimage/chloe.chloe (BGRA8, 1382X1954 X1X1) (Required Memory Estimate: 51.506577 MB), EncodeSpeed: Fast
+[2022.11.30-06.07.26:247][704]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/bridgette.jpeg)
+[2022.11.30-06.07.26:263][704]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/arthur.jpeg)
+[2022.11.30-06.07.26:313][705]LogTexture: Display: Building textures: /Game/OurBlueprints/Humans/humanimage/arthur.arthur (BGRA8, 1176X2886 X1X1) (Required Memory Estimate: 64.734192 MB), EncodeSpeed: Fast
+[2022.11.30-06.07.26:318][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/timmy.jpeg)
+[2022.11.30-06.07.26:333][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/sammy.jpeg)
+[2022.11.30-06.07.26:390][705]LogTexture: Display: Building textures: /Game/OurBlueprints/Humans/humanimage/sammy.sammy (BGRA8, 1541X2729 X1X1) (Required Memory Estimate: 80.21143 MB), EncodeSpeed: Fast
+[2022.11.30-06.07.26:401][706]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/sammantha.jpeg)
+[2022.11.30-06.07.26:446][706]LogTexture: Display: Building textures: /Game/OurBlueprints/Humans/humanimage/sammantha.sammantha (BGRA8, 1339X2641 X1X1) (Required Memory Estimate: 67.449551 MB), EncodeSpeed: Fast
+[2022.11.30-06.07.26:462][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/mother.jpeg)
+[2022.11.30-06.07.26:526][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/father.jpeg)
+[2022.11.30-06.07.26:592][709]LogTexture: Display: Building textures: /Game/OurBlueprints/Humans/humanimage/father.father (BGRA8, 1357X4448 X1X1) (Required Memory Estimate: 115.126343 MB), EncodeSpeed: Fast
+[2022.11.30-06.07.26:695][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/chloe
+[2022.11.30-06.07.26:695][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/chloe507F6F9A4010B7C74347FEACC45FA805.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/chloe.uasset'
+[2022.11.30-06.07.26:698][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/bridgette
+[2022.11.30-06.07.26:698][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/bridgetteB17580414AE65C5996480D98B538D817.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/bridgette.uasset'
+[2022.11.30-06.07.26:702][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/arthur
+[2022.11.30-06.07.26:702][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/arthur20CD90744ED1A77F5CBBFE8736DCD395.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/arthur.uasset'
+[2022.11.30-06.07.26:706][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/timmy
+[2022.11.30-06.07.26:706][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/timmy5E9182D34AB21F7F77A2B292E643247C.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/timmy.uasset'
+[2022.11.30-06.07.26:709][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/sammy
+[2022.11.30-06.07.26:709][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/sammy41C5C9244AC45A069AD7A9A2FF3F7BF3.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/sammy.uasset'
+[2022.11.30-06.07.26:712][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/sammantha
+[2022.11.30-06.07.26:712][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/sammanthaF2630B5E4E720AF0DD1BE8A3434229D6.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/sammantha.uasset'
+[2022.11.30-06.07.26:719][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/mother
+[2022.11.30-06.07.26:719][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/motherDDDA664247DBD787D3B304A107201DE8.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/mother.uasset'
+[2022.11.30-06.07.26:733][709]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/humanimage/father
+[2022.11.30-06.07.26:733][709]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/fatherF492DBA54C70531031C85FBEBC899962.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/humanimage/father.uasset'
+[2022.11.30-06.07.26:756][710]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/father.father
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/mother.mother
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/sammantha.sammantha
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/sammy.sammy
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/timmy.timmy
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/arthur.arthur
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/bridgette.bridgette
+[2022.11.30-06.07.26:756][710]LogContentValidation: Display: Validating Texture2D /Game/OurBlueprints/Humans/humanimage/chloe.chloe
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/chloe.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/bridgette.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/arthur.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/timmy.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/sammy.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/sammantha.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/mother.
+[2022.11.30-06.07.29:758][887]AssetReimport: Importing new asset /Game/OurBlueprints/Humans/humanimage/father.
+[2022.11.30-06.07.40:403][500]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-06.07.40:409][500]LogSlate: Window 'Message Log' being destroyed
+[2022.11.30-06.07.44:492][736]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ui/mother.mother
+[2022.11.30-06.07.44:492][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.07.44:497][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.07.44:823][736]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-06.07.44:824][736]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-06.08.12:231][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ui/mother" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/ui/mother.uasset" SILENT=true
+[2022.11.30-06.08.12:234][350]LogSavePackage: Moving output files for package: /Game/ui/mother
+[2022.11.30-06.08.12:234][350]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/motherFFBB8D77490A0A06D0C95C8E3E03D296.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/ui/mother.uasset'
+[2022.11.30-06.08.12:248][350]AssetCheck: New page: Asset Save: mother
+[2022.11.30-06.08.12:248][350]LogContentValidation: Display: Validating WidgetBlueprint /Game/ui/mother.mother
+[2022.11.30-06.08.12:542][368]BlueprintLog: New page: Compile mother
+[2022.11.30-06.08.12:574][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.30-06.08.32:554][561]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.11.30-06.08.38:816][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character
+[2022.11.30-06.08.38:816][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.08.41:023][ 43]LogViewport: Scene viewport resized to 857x682, mode Windowed.
+[2022.11.30-06.09.22:866][522]LogEditorTransaction: Undo Set Scale
+[2022.11.30-06.09.23:127][527]LogEditorTransaction: Undo Set Scale
+[2022.11.30-06.09.23:874][562]LogEditorTransaction: Undo Set Scale
+[2022.11.30-06.09.30:839][972]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.09.44:768][792]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2022.11.30-06.09.44:905][793]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.10.22:105][958]LogMaterial: Display: Material /Game/Assets/White.White needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.30-06.10.22:111][958]LogMaterial: Display: Missing cached shadermap for White in PCD3D_SM5, Default, SM5 (DDC key hash: 709ADD5B3DDCDF7220EBB29CE26A449130373FE2), compiling. 
+[2022.11.30-06.10.22:245][958]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: ================================================
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: Total job queries 39, among them cache hits 0 (0.00%)
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 2 distinct outputs (66.67%)
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: Shaders Compiled: 39
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: Jobs assigned 19, completed 3 (15.79%)
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: Average time worker was idle: 1665.88 s
+[2022.11.30-06.10.24:852][ 50]LogShaderCompilers: Display: Time job spent in pending queue: average 0.46 s, longest 2.64 s
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Job execution time: average 1.47 s, max 2.59 s
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Job life time (pending + execution): average 1.55 s, max 2.64
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.74 s
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.46 jobs/batch
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Average processing rate: 0.80 jobs/sec
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Effective parallelization: 0.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 61.44% of total time (compiled    1 times, average 2.19 sec, max 2.19 sec, min 2.19 sec)
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.21% of total time (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.35% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2022.11.30-06.10.24:853][ 50]LogShaderCompilers: Display: ================================================
+[2022.11.30-06.10.24:936][ 50]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.10.25:065][ 51]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.10.25:198][ 52]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.10.25:369][ 53]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.10.27:534][114]LogSavePackage: Moving output files for package: /Game/OurBlueprints/Humans/Human_Character
+[2022.11.30-06.10.27:536][114]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/Human_Character5017E84440D6BDF65CD0A296E8E5A964.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/OurBlueprints/Humans/Human_Character.uasset'
+[2022.11.30-06.10.27:574][114]AssetCheck: New page: Asset Save: Human_Character
+[2022.11.30-06.10.27:574][114]LogContentValidation: Display: Validating Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character
+[2022.11.30-06.10.28:126][135]BlueprintLog: New page: Compile Human_Character
+[2022.11.30-06.10.28:303][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.11.30-06.10.33:723][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurBlueprints/Humans/Human_Character.Human_Character_C
+[2022.11.30-06.10.33:723][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurBlueprints/Humans/Human_Character.Human_Character_C
+[2022.11.30-06.10.33:727][369]LogActorFactory: Actor Factory spawned Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character as actor: Human_Character_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Human_Character_C_0
+[2022.11.30-06.10.33:730][369]LogActorFactory: Actor Factory spawned Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character as actor: Human_Character_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Human_Character_C_0
+[2022.11.30-06.10.36:609][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurBlueprints/Humans/Human_Character.Human_Character_C
+[2022.11.30-06.10.36:609][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OurBlueprints/Humans/Human_Character.Human_Character_C
+[2022.11.30-06.10.36:613][477]LogActorFactory: Actor Factory spawned Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character as actor: Human_Character_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Human_Character_C_1
+[2022.11.30-06.10.36:615][477]LogActorFactory: Actor Factory spawned Blueprint /Game/OurBlueprints/Humans/Human_Character.Human_Character as actor: Human_Character_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Human_Character_C_1
+[2022.11.30-06.10.57:326][579]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.30-06.11.17:200][760]Cmd: TRANSACTION UNDO
+[2022.11.30-06.11.17:200][760]LogEditorTransaction: Undo Set Rotation
+[2022.11.30-06.13.00:226][884]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.13.11:060][511]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.13.29:725][615]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerSphere
+[2022.11.30-06.13.29:725][615]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerSphere
+[2022.11.30-06.13.29:726][615]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerSphere as actor: TriggerSphere /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.TriggerSphere_0
+[2022.11.30-06.13.29:726][615]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerSphere as actor: TriggerSphere /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.TriggerSphere_0
+[2022.11.30-06.13.51:456][908]Cmd: EDIT COPY
+[2022.11.30-06.13.51:690][922]Cmd: EDIT PASTE
+[2022.11.30-06.13.56:366][200]Cmd: EDIT COPY
+[2022.11.30-06.13.56:583][213]Cmd: EDIT PASTE
+[2022.11.30-06.14.00:031][417]Cmd: EDIT COPY
+[2022.11.30-06.14.00:264][431]Cmd: EDIT PASTE
+[2022.11.30-06.14.03:002][594]Cmd: EDIT COPY
+[2022.11.30-06.14.03:220][607]Cmd: EDIT PASTE
+[2022.11.30-06.14.08:780][939]Cmd: EDIT COPY
+[2022.11.30-06.14.09:113][959]Cmd: EDIT PASTE
+[2022.11.30-06.14.13:553][224]Cmd: EDIT COPY
+[2022.11.30-06.14.13:887][244]Cmd: EDIT PASTE
+[2022.11.30-06.14.26:131][977]Cmd: EDIT COPY
+[2022.11.30-06.14.26:348][990]Cmd: EDIT PASTE
+[2022.11.30-06.14.40:177][812]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.14.48:060][280]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.15.47:980][782]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.30-06.15.55:309][212]LogTurnkeySupport: Display: Adding device menu item for THE-FAVORITE-CH
+[2022.11.30-06.15.55:309][212]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/BearBirthday_Rebuild.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Intermediate/TurnkeyReport_1.log" -log="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Intermediate/TurnkeyLog_1.log" -project="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/BearBirthday_Rebuild.uproject"  -Device=Android_Multi@1WMHH8609W1263+Android_ASTC@1WMHH8609W1263+Win64@THE-FAVORITE-CH'
+[2022.11.30-06.15.55:310][212]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/BearBirthday_Rebuild.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Intermediate/TurnkeyReport_1.log" -log="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Intermediate/TurnkeyLog_1.log" -project="C:/Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/BearBirthday_Rebuild.uproject"  -Device=Android_Multi@1WMHH8609W1263+Android_ASTC@1WMHH8609W1263+Win64@THE-FAVORITE-CH" -nocompile ]
+[2022.11.30-06.15.55:970][250]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.30-06.15.55:970][250]LogTurnkeySupport: Turnkey Device: Win64@THE-FAVORITE-CH: (Name=THE-FAVORITE-CH, Status=Valid, Installed=10.0.22000.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.11.30-06.15.56:432][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-06.15.56:432][277]PIE: New page: PIE session: VRTemplateMap (Nov 29, 2022, 4:15:56 PM)
+[2022.11.30-06.15.56:432][277]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.30-06.15.56:447][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014559s)
+[2022.11.30-06.15.56:447][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.014634s)
+[2022.11.30-06.15.56:447][277]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-06.15.56:447][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.15.56:447][277]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.30-06.15.56:448][277]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2022.11.30-06.15.56:483][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.11.30-06.15.56:490][277]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-06.15.56:491][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.30-06.15.56:491][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-06.15.56:491][277]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.30-06.15.56:491][277]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.30-06.15.56:491][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-06.15.56:493][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-06.15.56:525][277]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.30-06.15.56:526][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-06.15.56:526][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-06.15.56:526][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-06.15.56:527][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.30-06.15.56:527][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.11.30-06.15.56:528][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.30-06.15.56:528][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.30-06.15.56:528][277]LogInit: FAudioDevice initialized.
+[2022.11.30-06.15.56:528][277]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2022.11.30-06.15.56:535][277]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.30-06.15.56:541][277]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.29-23.15.56
+[2022.11.30-06.15.56:546][277]LogWorld: Bringing up level for play took: 0.011412
+[2022.11.30-06.15.56:548][277]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.11.30-06.15.56:548][277]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.30-06.15.56:549][277]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.30-06.15.56:549][277]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.30-06.15.56:553][277]PIE: Server logged in
+[2022.11.30-06.15.56:554][277]PIE: Play in editor total start time 0.124 seconds.
+[2022.11.30-06.15.56:870][277]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.30-06.15.58:817][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.15.58:817][330]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.30-06.15.58:818][330]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.15.58:819][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.15.58:829][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-06.15.58:833][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.15.58:860][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-06.15.58:861][330]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.30-06.15.58:861][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.30-06.15.58:863][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.30-06.15.58:868][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.15.58:870][330]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.30-06.15.58:870][330]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.30-06.15.58:871][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.30-06.15.58:921][331]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.11.30-06.16.05:593][728]LogTurnkeySupport: Display: Adding device menu item for THE-FAVORITE-CH
+[2022.11.30-06.16.26:975][  9]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.11.30-06.16.30:659][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-06.16.30:660][229]PIE: New page: PIE session: VRTemplateMap (Nov 29, 2022, 4:16:30 PM)
+[2022.11.30-06.16.30:660][229]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.30-06.16.30:674][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014579s)
+[2022.11.30-06.16.30:674][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.014644s)
+[2022.11.30-06.16.30:674][229]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-06.16.30:674][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.16.30:674][229]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.30-06.16.30:674][229]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2022.11.30-06.16.30:700][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.11.30-06.16.30:703][229]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-06.16.30:703][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.30-06.16.30:703][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-06.16.30:703][229]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.30-06.16.30:703][229]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.30-06.16.30:703][229]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-06.16.30:705][229]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-06.16.30:745][229]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.11.30-06.16.30:746][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-06.16.30:746][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-06.16.30:746][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-06.16.30:746][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.11.30-06.16.30:746][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.11.30-06.16.30:747][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.11.30-06.16.30:747][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.11.30-06.16.30:747][229]LogInit: FAudioDevice initialized.
+[2022.11.30-06.16.30:747][229]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2022.11.30-06.16.30:778][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.16.30:963][229]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.30-06.16.30:969][229]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2022.11.29-23.16.30
+[2022.11.30-06.16.30:969][229]LogWorld: Bringing up level for play took: 0.006399
+[2022.11.30-06.16.30:971][229]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.11.30-06.16.30:972][229]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.30-06.16.30:973][229]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.30-06.16.30:975][229]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.30-06.16.30:976][229]Cmd: vr.PixelDensity 1.0
+[2022.11.30-06.16.30:976][229]vr.PixelDensity = "1"
+[2022.11.30-06.16.30:983][229]PIE: Server logged in
+[2022.11.30-06.16.30:988][229]PIE: Play in editor total start time 0.329 seconds.
+[2022.11.30-06.16.31:012][229]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.30-06.16.31:165][229]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.30-06.16.31:268][231]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2022.11.30-06.17.04:947][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-06.17.04:947][623]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.30-06.17.04:981][623]LogSlate: Window 'BearBirthday_Rebuild Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.11.30-06.17.04:985][623]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-06.17.04:986][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.17.04:999][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-06.17.05:006][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-06.17.05:041][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-06.17.05:042][623]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.30-06.17.05:042][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.30-06.17.05:045][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.30-06.17.05:056][623]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.30-06.17.05:056][623]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.30-06.17.05:058][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.11.30-06.17.05:117][624]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.11.30-06.17.27:803][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OurBlueprints/mascottool.mascottool
+[2022.11.30-06.17.27:804][974]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-06.18.07:949][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.30-06.18.08:039][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.30-06.18.08:082][354]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.30-06.18.08:083][354]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/VRTemplateMap472200154CAB38030749B3B282A575F7.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.30-06.18.08:092][354]LogFileHelpers: No new changes to save!
+[2022.11.30-06.18.08:092][354]LogFileHelpers: Saving map 'VRTemplateMap' took 0.080
+[2022.11.30-06.18.08:098][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/White" FILE="../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/White.uasset" SILENT=true
+[2022.11.30-06.18.08:100][354]LogSavePackage: Moving output files for package: /Game/Assets/White
+[2022.11.30-06.18.08:100][354]LogSavePackage: Moving '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Saved/WhiteD6BFDCA74102B6EFB37399A8468B3ACD.tmp' to '../../../../../../Users/inter/Documents/GitHub/BeckE_TerpstraF/Project/BearBirthday_Rebuild/Content/Assets/White.uasset'
+[2022.11.30-06.18.08:122][354]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-06.18.08:122][354]LogContentValidation: Display: Validating Material /Game/Assets/White.White
+[2022.11.30-06.18.08:122][354]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
