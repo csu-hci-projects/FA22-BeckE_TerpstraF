@@ -1,16 +1,29 @@
-# Bear Birthday Bash Proposal
+# Bear Birthday Bash Manual
 
-* Our game is called Bear Birthday Bash. In this game, you are a bear who has been mistaken for a mascot bear at a birthday party. You have decided to take advantage of this situation and are going to try to steal all of the food at the party without getting caught. You must not get caught as a real bear, which means you want to avoid being seen eating the food (or people). In the game, you will have a suspicion bar and exhaustion bar. You will want to keep the suspicion bar low to avoid being caught by the attendants of the party. Children will cause the suspicion bar to rise slower than adults. The exhaustion bar keeps falling while you are standing on your hind legs. To remedy your stamina, you must go onto all fours, a.k.a “Bear Mode''. This recovers the exhaustion bar, but if any people see you in Bear Mode, they will become suspicious. Children will not be suspicious of any actions, with the sole exception of eating humans. The bear may eat humans in this game, but this behavior is seen as highly suspicious. 
-* In this basic mode, our setting is a basic suburban house that you must navigate. Certain rooms may be empty to give you places to hide while in bear mode, but npcs will be set to wander the map. The usable items in the room include cake, chips, soda, microphones, noise maker, party hat, balloons, and face paint. All consumable items must be consumed before you can end the level, but not all mascot tools must be consumed. In order to exit the level, you must leave through the front door or any window. These exits will be given collision based on whether you have completed your task. If you are in bear mode, you are NOT allowed to leave, even if you have completed the tasks. During the game, all tasks will be listed in the top right corner of the screen, so the player will know when they have completed their missions and can leave.
-* Picking up mascot tools, such as party hats or cleaning the table will reduce your suspicion. These actions will also raise your rate of exhaustion to create a balanced playing experience. If the bear does not enter Bear Mode when fully exhausted after a certain amount of time, it will INSTANTLY maul the nearest person in a horrifying manner (not necessarily shown to the player), resulting in a game over. 
-This game would work well in VR to increase the immersion and allow you to really feel like a bear at a birthday party. We also want to use VR so that we can utilize first person view in our upgraded version of a typical third person view. 
-* The interactivity of Bear Birthday Bash (basic) will include the ability to select and manipulate items, including the mascot tools and the food at the party. We will implement laser pointer selection for more specific selections, and the player will be able to manipulate the bear’s arms with their own, as well as anything the bear is holding. Certain movements, like moving the hand toward the face, will trigger the bear to eat any food or use any microphones.
-In order to prevent motion sickness, we will add snap turns for camera angles and teleportation as a means of travel. This way, the player can use the joysticks to control the camera and can move around without physical movement causing sickness.
-* What is being added to make homework 2 stronger are various hard modes, toggle between first and third person modes, toggle between movement types, and an additional map. For the hard modes, there will be different goals for each mode. Since the main goal of the bear in the base game is to simply eat all of the food, we will be adding additional modes to give the player more options for replayability. These new modes include, consuming all partygoers, making the children have the same level of suspicion as the adults, finding collectables, or using all of the mascot tools that are available in the level. 
-* The toggle between controls and viewing types will allow for greater customizability for the player. This will allow every player to play at their comfort level, increasing or decreasing the chances of motion sickness based on the player’s comfort level. With third person teleportation being the least likely to cause any motion sickness. 
-* The extra map will be an extension of the current suburban home, increasing the size of the map, and allowing for more possibilities. Instead of increasing the interior, the home will be given a backyard where many more party attractions can be found. 
-Consuming all the partygoers will channel the inner bear of the player and will require the player to plan out each consumption as it will arouse a lot of suspicion when a partygoer is missing. We believe this challenge will be engaging for those who find simply consuming all of the food to be too easy and it will also increase immersion, as the player is allowed to act even more like an actual bear at a birthday party.
-When toggling the children to have the same suspicion as the adults, the player will be prompted saying that ‘the children of this party were all raised by highly paranoid parents and know a lot about zoology. Be aware.’ This will alert the player that the children will be watching the bear just as much as the adults. With this mode activated, children are now suspicious to acts such as consuming food and being on all fours, rather than only becoming suspicious when a human is consumed.
-* Collectables will be sprinkled around the house for the player to gather when collectable mode is turned on. These may include salmon from tables, honey combs, party hats, or other bear related items. Some of these items may be guarded by patrons of the party, or being watched as they are being prepared for the party. This mode will require the player to watch and wait for a time where no one is watching the collectable. Many of the guarded items have specific times during the party or cycles where the guard leaves their post to take care of party business, while other items require the player to seek back entrances.
-* Using all mascot tools in the level will require the bear to both consume all the available food and use up all options for increasing the player’s stamina. Each option will be exhausted once used, and the player will have to conserve their stamina for the remainder of the time in the level. 
-The final mode, where there are no mascot tools, will require extensive knowledge of the entire map and NPC movement to plan the route to eat all food before the player’s exhaustion reaches its peak. This will be the hardest mode, and will test the player’s knowledge from the past experiences to new heights.
+## How To Run
+Make sure you are running the BearBirthday_Rebuild copy--this is the accurate and active copy. Bear_Birthday_Bash is depricated.
+
+When you first open the game, you will be greated with the home screen, which features the following menu options
+```
+Play
+- This will run the game in the standard mode
+Challenge Modes
+- This will send you to the menu for selecting modes
+- The challenge modes include Standard, Wild Animal, Party Bear, Suspicious Children, and Uninteresting party CHECK LATER
+- See challenge mode menu for more details
+Quit
+- This quits the game
+```
+To select an option, hover over the button you would like to click and then click the (L)B or (R)Y button. You may need to hold the button down for a second to register your selection.
+
+## Basic Rundown
+You are a bear who wandered into a suburban neighborhood and were confused by a family as the mascot party entertainer they hired. Not one to waste an opportunity like this, you decided to go along with this deception. Your goal is to consume all of the food in the party without getting caught. The party guests wander through the map, and if they spot you eating food, being in bear mode, or eating a person, they will become suspicious that you may be a real bear. In order to lower guest suspicion, you can use the bright pink mascot tools, which lower your suspicion bar but raise your exhaustion bar. As a bear, you aren't really meant to walk bipedally, so the longer you walk around the map, the more tired you become. To relieve exhaustion, you can enter bear-mode. If your exhaustion bar fills all the way your bear goes wild and is kicked out of the party.
+
+## Controls
+```
+Eat Food/People/Use Mascot Tools -- KEY
+Bear Mode -- KEY/crouch(?)
+Move Forward -- KEY
+Snap Turns -- KEY
+Check Stats -- KEY
+```
