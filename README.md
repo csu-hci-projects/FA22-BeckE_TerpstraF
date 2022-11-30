@@ -8,7 +8,9 @@ When you first open the game, you will be greated with the home screen, which fe
 Play
 - This will run the game in the standard mode
 Challenge Modes
-- This will send you to the menu for selecting modes. The challenge modes include Standard, Wild Animal, Party Bear, Suspicious Children, and Uninteresting party CHECK LATER
+- This will send you to the menu for selecting modes
+- The challenge modes include Standard, Wild Animal, Party Bear, Suspicious Children, and Uninteresting party CHECK LATER
+- See challenge mode menu for more details
 Quit
 - This quits the game
 ```
