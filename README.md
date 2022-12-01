@@ -21,9 +21,19 @@ You are a bear who wandered into a suburban neighborhood and were confused by a 
 
 ## Controls
 ```
-Eat Food/People/Use Mascot Tools -- KEY
-Bear Mode -- KEY/crouch(?)
-Move Forward -- KEY
-Snap Turns -- KEY
-Check Stats -- KEY
+Eat Food/People/Use Mascot Tools -- Left and Right Grip Buttons
+Bear Mode -- X
+Move Forward -- Right Joystick
+Snap Turns -- Left Joystick
+Check Stats -- Menu Button
 ```
+
+## How to Play and Objectives
+Your objective is to consume all items considered "snack items" in each mode. The counter and total for this is found in your stats menu. 
+- Consume items by picking them up with the left or right grip buttons. Each item will take a moment to consume, so be careful of being seen if you're eating something you shouldn't be.
+- Keep an eye on your suspicion and exhaustion bars. If either gets maxed out, it's game over.
+- You can lower suspicion by consuming mascot tools, but be careful! This will also raise your exhaustion.
+- You can lower exhaustion by consuming food or entering bear mode. Exhaustion will naturally raise over time when you aren't in bear mode. 
+- When consuming food, be careful of any nearby guests, some of them may find this behavior suspicious.
+- Consuming people completely relieves exhaustion but is seen as EXTREMELY SUSPICIOUS to all guests.
+- You can enter bear mode at any time by pressing the X button. This will relieve your exhaustion, but some guests may find it a little suspicious.
