@@ -1,9 +1,9 @@
 # Bear Birthday Bash Manual
 
 ## How To Run
-Make sure you are running the BearBirthday_Rebuild copy--this is the accurate and active copy. Bear_Birthday_Bash is depricated.
+Make sure you are running the BearBirthday_Rebuild copy--this is the accurate and active copy. Bear_Birthday_Bash is deprecated.
 
-When you first open the game, you will be greated with the home screen, which features the following menu options
+When you first open the game, you will be greeted with the home screen, which features the following menu options
 ```
 Play
 - This will run the game in the standard mode
