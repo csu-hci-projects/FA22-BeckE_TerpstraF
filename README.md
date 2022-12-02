@@ -9,7 +9,7 @@ Play
 - This will run the game in the standard mode
 Challenge Modes
 - This will send you to the menu for selecting modes
-- The challenge modes include Standard, Wild Animal, Party Bear, Suspicious Children, and Uninteresting party CHECK LATER
+- The challenge modes include Standard, Wild Animal, Party Bear, Suspicious Children, and Uneventful Party
 - See challenge mode menu for more details
 Quit
 - This quits the game
